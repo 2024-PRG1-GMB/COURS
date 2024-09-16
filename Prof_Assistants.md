@@ -1,10 +1,10 @@
 # Professeur et Assistants PRG1
 
-| Nom					| email                           | Handle github |
-| :---					| :---                           |:---           |
-| Guy-Michel Breguet   |guy-michel.breguet@heig-vd.ch   |gmbreguet      |
-| to be defined	        |                                |       |
-| to be defined			|                                 |       |
+| Nom					| email                          | Cours  | Handle github |
+| :---					| :---                           |:---    |:---           |
+| Guy-Michel Breguet| guy-michel.breguet@heig-vd.ch  |        | gmbreguet     |
+| Raphael Racine	   | raphael.racine@heig-vd.ch      | PRG1-B |                |
+| Joyce Maiamba		| joyce.maiamba@heig-vd.ch       | PRG1-E |            |
 
 
 | Jour		| Assitant			|
