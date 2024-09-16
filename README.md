@@ -24,7 +24,7 @@ Vous pouvez utiliser ce repo comme suit :
 
 - Visualiser les codes dans votre navigateur avec l'URL
 
-	`https://github.com/gmbreguet/PRG1_GMB`
+	`https://github.com/2024-PRG1-GMB/COURS`
 
 - Copier/Coller un code en particulier dans votre IDE
 
@@ -32,7 +32,7 @@ Vous pouvez utiliser ce repo comme suit :
 
 - Cloner ce git entier avec la commande
 
-	`git clone git@github.com:gmbreguet/PRG1_GMB.git`
+	`git clone git@github.com:2024-PRG1-GMB/COURS.git`
 
 - ... puis faire un pull régulièrement
 
