@@ -41,6 +41,8 @@
         - présentation / objectifs
 
 - **Labo**
+    - chap 0
+    - chap 1 - Intro => slide 39
 
 ### Jeudi
 - **Cours**
