@@ -37,7 +37,7 @@
         - https://github.com/2024-PRG1-GMB/COURS
         - https://github.com/PRG1-HEIGVD/PRG1_Recueil_Exercices
     - **MS-Teams**
-        - inscription => xxx
+        - inscription => 45h2rd2
         - présentation / objectifs
 
 ### Jeudi
