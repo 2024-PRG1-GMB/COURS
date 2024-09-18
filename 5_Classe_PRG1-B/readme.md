@@ -40,6 +40,8 @@
         - inscription => 45h2rd2
         - présentation / objectifs
 
+    - chap 0 : terminé
+
 ### Jeudi
 - **Cours**
 - **Labo**
