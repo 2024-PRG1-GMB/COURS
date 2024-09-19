@@ -48,7 +48,7 @@
     - démo en classe
     
 - **Labo**
-     - chap 02 => ...
+     - chap 02 => 21
 
 ### Vendredi
 - **Labo**
