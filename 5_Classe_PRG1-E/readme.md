@@ -48,7 +48,7 @@
 - **Cours**
     - terminé chap 1 (Intro)
     - démo en classe
-    - chap 2 => slide 
+    - chap 2 => slide 13
 
 ### Vendredi
 - **Cours**
