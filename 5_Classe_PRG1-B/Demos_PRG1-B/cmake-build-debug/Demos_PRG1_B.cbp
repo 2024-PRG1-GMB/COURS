@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Demos_PRG1_B"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/guy-michelbreguet/VLT_RACKSTATION/GUY-MICHEL/HEIG-VD/_Enseignements/Analyse_et_Pgm/PRG/PRG1/2024_PRG1_COURS/5_Classe_PRG1-B/Demos_PRG1-B/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/guy-michelbreguet/VLT_RACKSTATION/GUY-MICHEL/HEIG-VD/_Enseignements/Analyse_et_Pgm/PRG/PRG1/2024_PRG1_COURS/5_Classe_PRG1-B/Demos_PRG1-B/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/guy-michelbreguet/VLT_RACKSTATION/GUY-MICHEL/HEIG-VD/_Enseignements/Analyse_et_Pgm/PRG/PRG1/2024_PRG1_COURS/5_Classe_PRG1-B/Demos_PRG1-B/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/guy-michelbreguet/VLT_RACKSTATION/GUY-MICHEL/HEIG-VD/_Enseignements/Analyse_et_Pgm/PRG/PRG1/2024_PRG1_COURS/5_Classe_PRG1-B/Demos_PRG1-B/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/guy-michelbreguet/VLT_RACKSTATION/GUY-MICHEL/HEIG-VD/_Enseignements/Analyse_et_Pgm/PRG/PRG1/2024_PRG1_COURS/5_Classe_PRG1-B/Demos_PRG1-B/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Demos_PRG1-B">
+				<Option output="/Users/guy-michelbreguet/VLT_RACKSTATION/GUY-MICHEL/HEIG-VD/_Enseignements/Analyse_et_Pgm/PRG/PRG1/2024_PRG1_COURS/5_Classe_PRG1-B/Demos_PRG1-B/cmake-build-debug/Demos_PRG1-B" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/guy-michelbreguet/VLT_RACKSTATION/GUY-MICHEL/HEIG-VD/_Enseignements/Analyse_et_Pgm/PRG/PRG1/2024_PRG1_COURS/5_Classe_PRG1-B/Demos_PRG1-B/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/guy-michelbreguet/VLT_RACKSTATION/GUY-MICHEL/HEIG-VD/_Enseignements/Analyse_et_Pgm/PRG/PRG1/2024_PRG1_COURS/5_Classe_PRG1-B/Demos_PRG1-B/cmake-build-debug/Makefile&quot;  VERBOSE=1 Demos_PRG1-B"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/guy-michelbreguet/VLT_RACKSTATION/GUY-MICHEL/HEIG-VD/_Enseignements/Analyse_et_Pgm/PRG/PRG1/2024_PRG1_COURS/5_Classe_PRG1-B/Demos_PRG1-B/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/guy-michelbreguet/VLT_RACKSTATION/GUY-MICHEL/HEIG-VD/_Enseignements/Analyse_et_Pgm/PRG/PRG1/2024_PRG1_COURS/5_Classe_PRG1-B/Demos_PRG1-B/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/guy-michelbreguet/VLT_RACKSTATION/GUY-MICHEL/HEIG-VD/_Enseignements/Analyse_et_Pgm/PRG/PRG1/2024_PRG1_COURS/5_Classe_PRG1-B/Demos_PRG1-B/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Demos_PRG1-B/fast">
+				<Option output="/Users/guy-michelbreguet/VLT_RACKSTATION/GUY-MICHEL/HEIG-VD/_Enseignements/Analyse_et_Pgm/PRG/PRG1/2024_PRG1_COURS/5_Classe_PRG1-B/Demos_PRG1-B/cmake-build-debug/Demos_PRG1-B" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/guy-michelbreguet/VLT_RACKSTATION/GUY-MICHEL/HEIG-VD/_Enseignements/Analyse_et_Pgm/PRG/PRG1/2024_PRG1_COURS/5_Classe_PRG1-B/Demos_PRG1-B/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/guy-michelbreguet/VLT_RACKSTATION/GUY-MICHEL/HEIG-VD/_Enseignements/Analyse_et_Pgm/PRG/PRG1/2024_PRG1_COURS/5_Classe_PRG1-B/Demos_PRG1-B/cmake-build-debug/Makefile&quot;  VERBOSE=1 Demos_PRG1-B/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/guy-michelbreguet/VLT_RACKSTATION/GUY-MICHEL/HEIG-VD/_Enseignements/Analyse_et_Pgm/PRG/PRG1/2024_PRG1_COURS/5_Classe_PRG1-B/Demos_PRG1-B/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/guy-michelbreguet/VLT_RACKSTATION/GUY-MICHEL/HEIG-VD/_Enseignements/Analyse_et_Pgm/PRG/PRG1/2024_PRG1_COURS/5_Classe_PRG1-B/Demos_PRG1-B/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/guy-michelbreguet/VLT_RACKSTATION/GUY-MICHEL/HEIG-VD/_Enseignements/Analyse_et_Pgm/PRG/PRG1/2024_PRG1_COURS/5_Classe_PRG1-B/Demos_PRG1-B/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/guy-michelbreguet/VLT_RACKSTATION/GUY-MICHEL/HEIG-VD/_Enseignements/Analyse_et_Pgm/PRG/PRG1/2024_PRG1_COURS/5_Classe_PRG1-B/Demos_PRG1-B/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/guy-michelbreguet/VLT_RACKSTATION/GUY-MICHEL/HEIG-VD/_Enseignements/Analyse_et_Pgm/PRG/PRG1/2024_PRG1_COURS/5_Classe_PRG1-B/Demos_PRG1-B/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/guy-michelbreguet/VLT_RACKSTATION/GUY-MICHEL/HEIG-VD/_Enseignements/Analyse_et_Pgm/PRG/PRG1/2024_PRG1_COURS/5_Classe_PRG1-B/Demos_PRG1-B/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/guy-michelbreguet/VLT_RACKSTATION/GUY-MICHEL/HEIG-VD/_Enseignements/Analyse_et_Pgm/PRG/PRG1/2024_PRG1_COURS/5_Classe_PRG1-B/Demos_PRG1-B/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/guy-michelbreguet/VLT_RACKSTATION/GUY-MICHEL/HEIG-VD/_Enseignements/Analyse_et_Pgm/PRG/PRG1/2024_PRG1_COURS/5_Classe_PRG1-B/Demos_PRG1-B/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/guy-michelbreguet/VLT_RACKSTATION/GUY-MICHEL/HEIG-VD/_Enseignements/Analyse_et_Pgm/PRG/PRG1/2024_PRG1_COURS/5_Classe_PRG1-B/Demos_PRG1-B/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/guy-michelbreguet/VLT_RACKSTATION/GUY-MICHEL/HEIG-VD/_Enseignements/Analyse_et_Pgm/PRG/PRG1/2024_PRG1_COURS/5_Classe_PRG1-B/Demos_PRG1-B/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/guy-michelbreguet/VLT_RACKSTATION/GUY-MICHEL/HEIG-VD/_Enseignements/Analyse_et_Pgm/PRG/PRG1/2024_PRG1_COURS/5_Classe_PRG1-B/Demos_PRG1-B/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/guy-michelbreguet/VLT_RACKSTATION/GUY-MICHEL/HEIG-VD/_Enseignements/Analyse_et_Pgm/PRG/PRG1/2024_PRG1_COURS/5_Classe_PRG1-B/Demos_PRG1-B/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/guy-michelbreguet/VLT_RACKSTATION/GUY-MICHEL/HEIG-VD/_Enseignements/Analyse_et_Pgm/PRG/PRG1/2024_PRG1_COURS/5_Classe_PRG1-B/Demos_PRG1-B/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/guy-michelbreguet/VLT_RACKSTATION/GUY-MICHEL/HEIG-VD/_Enseignements/Analyse_et_Pgm/PRG/PRG1/2024_PRG1_COURS/5_Classe_PRG1-B/Demos_PRG1-B/2024-09-19.cpp">
+			<Option target="Demos_PRG1-B"/>
+		</Unit>
+		<Unit filename="/Users/guy-michelbreguet/VLT_RACKSTATION/GUY-MICHEL/HEIG-VD/_Enseignements/Analyse_et_Pgm/PRG/PRG1/2024_PRG1_COURS/5_Classe_PRG1-B/Demos_PRG1-B/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
