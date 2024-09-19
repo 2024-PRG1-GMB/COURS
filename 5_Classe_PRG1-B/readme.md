@@ -44,10 +44,16 @@
 
 ### Jeudi
 - **Cours**
+    - chap 01 => fin
+    - démo en classe
+    
 - **Labo**
+     - chap 02 => ...
 
 ### Vendredi
 - **Labo**
+    - [Labo 01 - CLion](https://github.com/2024-PRG1-GMB/COURS/tree/main/4_Laboratoires/01_Intro/01_CLion)
+
 
 ---
 > ## <a name="semaine_02"></a>SEMAINE 02 - 23.09.2024 - 27.09.2024 [⬆︎](readme.md#start)
