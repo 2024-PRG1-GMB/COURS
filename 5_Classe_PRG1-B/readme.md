@@ -54,7 +54,9 @@
 ### Vendredi
 - **Labo**
     - [Labo 01 - CLion](https://github.com/2024-PRG1-GMB/COURS/tree/main/4_Laboratoires/01_Intro/01_CLion)
-
+    - exercices pour lundi
+        - chap 01 : 02-01, 03-01, 04-01,  04-02,  04-03
+        - chap 02 : 01-01, 01-02, 02-01
 
 ---
 > ## <a name="semaine_02"></a>SEMAINE 02 - 23.09.2024 - 27.09.2024 [⬆︎](readme.md#start)
