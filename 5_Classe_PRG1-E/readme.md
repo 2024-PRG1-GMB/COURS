@@ -45,7 +45,7 @@
     - chap 1 - Intro => slide 39
 
 ### Jeudi
-- **Cours**
+- **Labo**
     - terminé chap 1 (Intro)
     - démo en classe
     - chap 2 => slide 13
@@ -54,26 +54,23 @@
 - **Cours**
     - chap 2 => ...
 
-- **Labo**
-    - [Labo 01 - CLion](https://github.com/2024-PRG1-GMB/COURS/tree/main/4_Laboratoires/01_Intro/01_CLion)    
-
 ---
 > ## <a name="semaine_02"></a>SEMAINE 02 - 23.09.2024 - 27.09.2024 [⬆︎](readme.md#start)
 
 ### Lundi
 - **Cours**
 - **Labo**
+    - [Labo 01 - CLion](https://github.com/2024-PRG1-GMB/COURS/tree/main/4_Laboratoires/01_Intro/01_CLion)    
 
 ### Mardi
 - **Cours**
 - **Labo**
 
 ### Jeudi
-- **Cours**
+- **Labo**
 
 ### Vendredi
 - **Cours**
-- **Labo**
 
 ---
 > ## <a name="semaine_03"></a>SEMAINE 03 - 30.09.2024 - 04.10.2024 [⬆︎](readme.md#start)
@@ -87,11 +84,10 @@
 - **Labo**
 
 ### Jeudi
-- **Cours**
+- **Labo**
 
 ### Vendredi
 - **Cours**
-- **Labo**
 
 ---
 > ## <a name="semaine_04"></a>SEMAINE 04 - 07.10.2024 - 11.10.2024 [⬆︎](readme.md#start)
@@ -105,11 +101,10 @@
 - **Labo**
 
 ### Jeudi
-- **Cours**
+- **Labo**
 
 ### Vendredi
 - **Cours**
-- **Labo**
 
 ---
 > ## <a name="semaine_05"></a>SEMAINE 05 - 14.10.2024 - 18.10.2024 [⬆︎](readme.md#start)
@@ -125,11 +120,10 @@
 - **Labo**
 
 ### Jeudi
-- **Cours**
+- **Labo**
 
 ### Vendredi
 - **Cours**
-- **Labo**
 
 ---
 > ## <a name="semaine_06"></a>SEMAINE 06 - 28.10.2024 - 01.11.2024 [⬆︎](readme.md#start)
@@ -143,11 +137,10 @@
 - **Labo**
 
 ### Jeudi
-- **Cours**
+- **Labo**
 
 ### Vendredi
 - **Cours**
-- **Labo**
 
 ---
 > ## <a name="semaine_07"></a>SEMAINE 07 - 04.11.2024 - 08.11.2024 [⬆︎](readme.md#start)
@@ -161,11 +154,10 @@
 - **Labo**
 
 ### Jeudi
-- **Cours**
+- **Labo**
 
 ### Vendredi
 - **Cours**
-- **Labo**
 
 ---
 > ## <a name="semaine_08"></a>SEMAINE 08 - 11.11.2024 - 15.11.2024 [⬆︎](readme.md#start)
@@ -179,11 +171,10 @@
 - **Labo**
 
 ### Jeudi
-- **Cours**
+- **Labo**
 
 ### Vendredi
 - **Cours**
-- **Labo**
 
 ---
 > ## <a name="semaine_09"></a>SEMAINE 09 - 18.11.2024 - 22.11.2024 [⬆︎](readme.md#start)
@@ -197,11 +188,10 @@
 - **Labo**
 
 ### Jeudi
-- **Cours**
+- **Labo**
 
 ### Vendredi
 - **Cours**
-- **Labo**
 
 ---
 > ## <a name="semaine_10"></a>SEMAINE 10 - 25.11.2024 - 29.11.2024 [⬆︎](readme.md#start)
@@ -217,11 +207,10 @@
 - **Labo**
 
 ### Jeudi
-- **Cours**
+- **Labo**
 
 ### Vendredi
 - **Cours**
-- **Labo**
 
 ---
 > ## <a name="semaine_11"></a>SEMAINE 11 - 02.12.2024 - 06.12.2024 [⬆︎](readme.md#start)
@@ -235,11 +224,10 @@
 - **Labo**
 
 ### Jeudi
-- **Cours**
+- **Labo**
 
 ### Vendredi
 - **Cours**
-- **Labo**
 
 ---
 > ## <a name="semaine_12"></a>SEMAINE 12 - 09.12.2024 - 13.12.2024 [⬆︎](readme.md#start)
@@ -253,11 +241,10 @@
 - **Labo**
 
 ### Jeudi
-- **Cours**
+- **Labo**
 
 ### Vendredi
 - **Cours**
-- **Labo**
 
 ---
 > ## <a name="semaine_13"></a>SEMAINE 13 - 16.12.2024 - 20.12.2024 [⬆︎](readme.md#start)
@@ -271,11 +258,10 @@
 - **Labo**
 
 ### Jeudi
-- **Cours**
+- **Labo**
 
 ### Vendredi
 - **Cours**
-- **Labo**
 
 ---
 > ## <a name="semaine_14"></a>SEMAINE 14 - 06.01.2025 - 10.01.2025 [⬆︎](readme.md#start)
@@ -291,11 +277,10 @@
 - **Labo**
 
 ### Jeudi
-- **Cours**
+- **Labo**
 
 ### Vendredi
 - **Cours**
-- **Labo**
 
 ---
 > ## <a name="semaine_15"></a>SEMAINE 15 - 13.01.2025 - 17.01.2025 [⬆︎](readme.md#start)
@@ -309,11 +294,10 @@
 - **Labo**
 
 ### Jeudi
-- **Cours**
+- **Labo**
 
 ### Vendredi
 - **Cours**
-- **Labo**
 
 ---
 > ## <a name="semaine_16"></a>SEMAINE 16 - 20.01.2025 - 24.01.2025 [⬆︎](readme.md#start)
@@ -327,11 +311,10 @@
 - **Labo**
 
 ### Jeudi
-- **Cours**
+- **Labo**
 
 ### Vendredi
 - **Cours**
-- **Labo**
 
 ---
 
