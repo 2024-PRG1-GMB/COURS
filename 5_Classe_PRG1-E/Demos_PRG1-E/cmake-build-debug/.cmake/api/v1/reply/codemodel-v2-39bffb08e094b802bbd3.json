@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "Demos_PRG1_B",
+					"name" : "Demos_PRG1_E",
 					"targetIndexes" : 
 					[
 						0
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Demos_PRG1-B::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Demos_PRG1-B-Debug-61f9213b32f310450664.json",
+					"jsonFile" : "target-Demos_PRG1-B-Debug-7e78414e3cf8fad69af1.json",
 					"name" : "Demos_PRG1-B",
 					"projectIndex" : 0
 				}

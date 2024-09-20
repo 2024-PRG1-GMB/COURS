@@ -11,6 +11,6 @@
 -- Check for working CXX compiler: /Library/Developer/CommandLineTools/usr/bin/c++ - skipped
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
--- Configuring done (11.7s)
+-- Configuring done (1.0s)
 -- Generating done (0.0s)
 -- Build files have been written to: /Users/guy-michelbreguet/VLT_RACKSTATION/GUY-MICHEL/HEIG-VD/_Enseignements/Analyse_et_Pgm/PRG/PRG1/2024_PRG1_COURS/5_Classe_PRG1-E/Demos_PRG1-E/cmake-build-debug

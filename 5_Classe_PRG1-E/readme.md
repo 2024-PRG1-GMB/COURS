@@ -53,7 +53,8 @@
 ### Vendredi
 - **Cours**
     - socrative chap 01
-    - chap 2 => ...
+    - chap 2 => 21
+    - démo en classe
 
 ---
 > ## <a name="semaine_02"></a>SEMAINE 02 - 23.09.2024 - 27.09.2024 [⬆︎](readme.md#start)

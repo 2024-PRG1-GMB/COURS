@@ -819,7 +819,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Demos_PRG1_B"
+			"value" : "Demos_PRG1_E"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1118,7 +1118,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "Demos_PRG1_B_BINARY_DIR",
+			"name" : "Demos_PRG1_E_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1130,7 +1130,7 @@
 			"value" : "/Users/guy-michelbreguet/VLT_RACKSTATION/GUY-MICHEL/HEIG-VD/_Enseignements/Analyse_et_Pgm/PRG/PRG1/2024_PRG1_COURS/5_Classe_PRG1-E/Demos_PRG1-E/cmake-build-debug"
 		},
 		{
-			"name" : "Demos_PRG1_B_IS_TOP_LEVEL",
+			"name" : "Demos_PRG1_E_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1142,7 +1142,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "Demos_PRG1_B_SOURCE_DIR",
+			"name" : "Demos_PRG1_E_SOURCE_DIR",
 			"properties" : 
 			[
 				{
