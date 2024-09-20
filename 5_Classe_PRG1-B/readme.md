@@ -48,7 +48,8 @@
     - démo en classe
     
 - **Labo**
-     - chap 02 => 21
+    - socrative chap 01
+    - chap 02 => 21
 
 ### Vendredi
 - **Labo**

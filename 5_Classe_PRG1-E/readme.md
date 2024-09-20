@@ -52,6 +52,7 @@
 
 ### Vendredi
 - **Cours**
+    - socrative chap 01
     - chap 2 => ...
 
 ---
