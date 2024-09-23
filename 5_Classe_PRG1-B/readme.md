@@ -63,6 +63,12 @@
 
 ### Lundi
 - **Cours**
+    - exercices pour lundi
+        - chap 01 : corrigé ex 02-01, 03-01, 04-01,  04-02,  04-03
+        - chap 02 : corrigé ex 01-01, 01-02, 02-01
+    - démo en classe
+    - chap 02 => 37
+
 - **Labo**
 
 ### Mardi
