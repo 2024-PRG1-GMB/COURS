@@ -61,14 +61,16 @@
 
 ### Lundi
 - **Cours**
+    - chap 2 => slide 41
+    - démo en classe
+    - socrative 03-01 Opérateurs
     - exercices pour Mardi
-        - chap 01 : corrigé ex 02-01, 03-01, 04-01,  04-02,  04-03
-        - chap 02 : corrigé ex 01-01, 01-02, 02-01
+        - chap 01 : corrigé ex 02-01, 03-01, 04-01, 04-02, 04-03
+        - chap 02 : corrigé ex 01-01, 01-02, 02-01, 03-01, 03-02, 03-03, 03-04, 03-05, 03-06, 03-07
+
 - **Labo**
     - [Labo_01 - CLion](https://github.com/2024-PRG1-GMB/COURS/tree/main/4_Laboratoires/01_Intro/01_CLion)    
-    - Intro git
-        - [Git pour PRG1.pdf](https://github.com/2024-PRG1-GMB/COURS/blob/main/3_Complements/Git/Git%20pour%20PRG1.pdf)
-        - [GitHub4CLion.pdf](https://github.com/2024-PRG1-GMB/COURS/blob/main/3_Complements/Git/GitHub4CLion.pdf)
+    - exercices à faire
 
 ### Mardi
 - **Cours**
@@ -80,7 +82,9 @@
 
 ### Jeudi
 - **Labo**
-    - [retour Labo_02 - Wallis](https://github.com/2024-PRG1-GMB/COURS/tree/main/4_Laboratoires/02_Wallis_pseudo)
+    - Intro git
+        - [Git pour PRG1.pdf](https://github.com/2024-PRG1-GMB/COURS/blob/main/3_Complements/Git/Git%20pour%20PRG1.pdf)
+        - [GitHub4CLion.pdf](https://github.com/2024-PRG1-GMB/COURS/blob/main/3_Complements/Git/GitHub4CLion.pdf)
     - exercices et corrections
 
 ### Vendredi
