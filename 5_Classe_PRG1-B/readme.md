@@ -63,13 +63,17 @@
 
 ### Lundi
 - **Cours**
-    - exercices pour lundi
+    - exercices pour Lundi
         - chap 01 : corrigé ex 02-01, 03-01, 04-01,  04-02,  04-03
         - chap 02 : corrigé ex 01-01, 01-02, 02-01
+    - démo debugger (base)
     - démo en classe
     - chap 02 => 37
 
 - **Labo**
+    - Intro git
+        - [Git pour PRG1.pdf](https://github.com/2024-PRG1-GMB/COURS/blob/main/3_Complements/Git/Git%20pour%20PRG1.pdf)
+        - [GitHub4CLion.pdf](https://github.com/2024-PRG1-GMB/COURS/blob/main/3_Complements/Git/GitHub4CLion.pdf)
 
 ### Mardi
 - **Cours**
