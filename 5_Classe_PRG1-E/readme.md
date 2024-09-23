@@ -65,8 +65,8 @@
     - démo en classe
     - socrative 03-01 Opérateurs
     - exercices pour Mardi
-        - chap 01 : corrigé ex 02-01, 03-01, 04-01, 04-02, 04-03
-        - chap 02 : corrigé ex 01-01, 01-02, 02-01, 03-01, 03-02, 03-03, 03-04, 03-05, 03-06, 03-07
+        - chap 01 : ex 02-01, 03-01, 04-01, 04-02, 04-03
+        - chap 02 : ex 01-01, 01-02, 02-01, 03-01, 03-02, 03-03, 03-04, 03-05, 03-06, 03-07
 
 - **Labo**
     - [Labo_01 - CLion](https://github.com/2024-PRG1-GMB/COURS/tree/main/4_Laboratoires/01_Intro/01_CLion)    
