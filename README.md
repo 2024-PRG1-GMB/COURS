@@ -3,10 +3,10 @@
 ### Classes
 - [PRG1-B](https://github.com/2024-PRG1-GMB/COURS/tree/main/5_Classe_PRG1-B)
 	- [Journal](https://github.com/2024-PRG1-GMB/COURS/blob/main/5_Classe_PRG1-B/readme.md)
-	- [Demos](https://github.com/2024-PRG1-GMB/COURS/tree/main/5_Classe_PRG1-B/Demos_PRG1-B)
+	- [Demos](https://github.com/2024-PRG1-GMB/COURS/tree/main/5_Classe_PRG1-B/Demos_PRG1_B)
 - [PRG1-E](https://github.com/2024-PRG1-GMB/COURS/tree/main/5_Classe_PRG1-B)
 	- [Journal](https://github.com/2024-PRG1-GMB/COURS/blob/main/5_Classe_PRG1-E/readme.md)
-	- [Demos](https://github.com/2024-PRG1-GMB/COURS/tree/main/5_Classe_PRG1-E/Demos_PRG1-E)
+	- [Demos](https://github.com/2024-PRG1-GMB/COURS/tree/main/5_Classe_PRG1-E/Demos_PRG1_E)
 
 ### Matériel
 - [Supports de cours](https://github.com/2024-PRG1-GMB/COURS/tree/main/1_Slides)
