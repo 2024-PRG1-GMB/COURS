@@ -53,7 +53,7 @@
 
 ### Vendredi
 - **Labo**
-    - [Labo 01 - CLion](https://github.com/2024-PRG1-GMB/COURS/tree/main/4_Laboratoires/01_Intro/01_CLion)
+    - [Labo_01 - CLion](https://github.com/2024-PRG1-GMB/COURS/tree/main/4_Laboratoires/01_Intro/01_CLion)
     - exercices pour lundi
         - chap 01 : 02-01, 03-01, 04-01,  04-02,  04-03
         - chap 02 : 01-01, 01-02, 02-01
@@ -74,16 +74,23 @@
     - Intro git
         - [Git pour PRG1.pdf](https://github.com/2024-PRG1-GMB/COURS/blob/main/3_Complements/Git/Git%20pour%20PRG1.pdf)
         - [GitHub4CLion.pdf](https://github.com/2024-PRG1-GMB/COURS/blob/main/3_Complements/Git/GitHub4CLion.pdf)
+    - [Labo_02 - Wallis](https://github.com/2024-PRG1-GMB/COURS/tree/main/4_Laboratoires/02_Wallis_pseudo)
 
 ### Mardi
 - **Cours**
+    - chap 02 => ...
 
 ### Jeudi
 - **Cours**
+    - démo en classe
+    - chap 02 => ..
+
 - **Labo**
 
 ### Vendredi
 - **Labo**
+    - [retour Labo_02 - Wallis](https://github.com/2024-PRG1-GMB/COURS/tree/main/4_Laboratoires/02_Wallis_pseudo)
+    - exercices et corrections
 
 ---
 > ## <a name="semaine_03"></a>SEMAINE 03 - 30.09.2024 - 04.10.2024 [⬆︎](readme.md#start)
