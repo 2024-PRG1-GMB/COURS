@@ -44,20 +44,5 @@ int main() {
 
    cout << boolalpha << (10.0 / 3.0 == 3.3333333) << endl;
 
-   //Afficher un message de bienvenue
-   cout << ...
-
-   // Saisir le terme de Wallis
-   cin <<
-
-
-   3.	Vérifier si le terme saisi est correct
-4.	Si correcte
-1.	Calculer l'approximation de Wallis
-2.	Afficher le résultat
-5.	Sinon (terme incorrect)
-1.	afficher un message d'erreur
-6.	afficher un message de fin de programme
-
    return EXIT_SUCCESS;
 }
