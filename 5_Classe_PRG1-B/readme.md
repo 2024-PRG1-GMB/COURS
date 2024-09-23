@@ -71,10 +71,10 @@
     - chap 02 => 37
 
 - **Labo**
+    - [Labo_02 - Wallis](https://github.com/2024-PRG1-GMB/COURS/tree/main/4_Laboratoires/02_Wallis_pseudo)
     - Intro git
         - [Git pour PRG1.pdf](https://github.com/2024-PRG1-GMB/COURS/blob/main/3_Complements/Git/Git%20pour%20PRG1.pdf)
         - [GitHub4CLion.pdf](https://github.com/2024-PRG1-GMB/COURS/blob/main/3_Complements/Git/GitHub4CLion.pdf)
-    - [Labo_02 - Wallis](https://github.com/2024-PRG1-GMB/COURS/tree/main/4_Laboratoires/02_Wallis_pseudo)
 
 ### Mardi
 - **Cours**
