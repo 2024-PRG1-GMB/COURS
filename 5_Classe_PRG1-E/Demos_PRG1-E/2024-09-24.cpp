@@ -69,5 +69,6 @@ int main() {
    cout << "adresse de pointeur : " << &pointeur   << endl;
    cout << "valeur referencee   : " << *pointeur   << endl;
 
+
    return EXIT_SUCCESS;
 }
