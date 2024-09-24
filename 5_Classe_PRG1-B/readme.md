@@ -63,29 +63,33 @@
 
 ### Lundi
 - **Cours**
-    - exercices pour Lundi
-        - chap 01 : corrigé ex 02-01, 03-01, 04-01,  04-02,  04-03
-        - chap 02 : corrigé ex 01-01, 01-02, 02-01
+    - correction exercices
+        - chap 01 : ex 02-01, 03-01, 04-01, 04-02, 04-03
+        - chap 02 : ex 01-01, 01-02, 02-01
     - démo debugger (base)
-    - démo en classe
     - chap 02 => 37
+    - démo en classe
 
 - **Labo**
     - [Labo_02 - Wallis](https://github.com/2024-PRG1-GMB/COURS/tree/main/4_Laboratoires/02_Wallis_pseudo)
-    - Intro git
-        - [Git pour PRG1.pdf](https://github.com/2024-PRG1-GMB/COURS/blob/main/3_Complements/Git/Git%20pour%20PRG1.pdf)
-        - [GitHub4CLion.pdf](https://github.com/2024-PRG1-GMB/COURS/blob/main/3_Complements/Git/GitHub4CLion.pdf)
 
 ### Mardi
 - **Cours**
     - chap 02 => ...
+    - démo en classe
+
+    - exercices pour jeudi
+        - chap 02 : 03-01, 03-02, 03-03, 03-04, 03-05, 03-06, 03-07
 
 ### Jeudi
 - **Cours**
-    - démo en classe
     - chap 02 => ..
+    - démo en classe
 
 - **Labo**
+    - Intro git
+        - [Git pour PRG1.pdf](https://github.com/2024-PRG1-GMB/COURS/blob/main/3_Complements/Git/Git%20pour%20PRG1.pdf)
+        - [GitHub4CLion.pdf](https://github.com/2024-PRG1-GMB/COURS/blob/main/3_Complements/Git/GitHub4CLion.pdf)
 
 ### Vendredi
 - **Labo**

@@ -47,8 +47,8 @@
 ### Jeudi
 - **Labo**
     - terminé chap 1 (Intro)
-    - démo en classe
     - chap 2 => slide 13
+    - démo en classe
 
 ### Vendredi
 - **Cours**
@@ -74,8 +74,11 @@
 
 ### Mardi
 - **Cours**
-    - démo en classe
+    - correction exercices
+        - chap 01 : ex 02-01, 03-01, 04-01, 04-02, 04-03
+        - chap 02 : ex 01-01, 01-02, 02-01, 03-01, 03-02, 03-03, 03-04, 03-05, 03-06, 03-07
     - chap 02 => ..
+    - démo en classe
     
 - **Labo**
     - [Labo_02 - Wallis](https://github.com/2024-PRG1-GMB/COURS/tree/main/4_Laboratoires/02_Wallis_pseudo)
@@ -89,8 +92,8 @@
 
 ### Vendredi
 - **Cours**
-    - démo en classe
     - chap 02 => ..
+    - démo en classe
 
 ---
 > ## <a name="semaine_03"></a>SEMAINE 03 - 30.09.2024 - 04.10.2024 [⬆︎](readme.md#start)
