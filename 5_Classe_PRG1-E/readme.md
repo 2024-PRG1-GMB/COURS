@@ -77,7 +77,7 @@
     - correction exercices
         - chap 01 : ex 02-01, 03-01, 04-01, 04-02, 04-03
         - chap 02 : ex 01-01, 01-02, 02-01, 03-01, 03-02, 03-03, 03-04, 03-05, 03-06, 03-07
-    - chap 02 => ..
+    - chap 02 => 51
     - démo en classe
     
 - **Labo**
@@ -88,10 +88,10 @@
     - Intro git
         - [Git pour PRG1.pdf](https://github.com/2024-PRG1-GMB/COURS/blob/main/3_Complements/Git/Git%20pour%20PRG1.pdf)
         - [GitHub4CLion.pdf](https://github.com/2024-PRG1-GMB/COURS/blob/main/3_Complements/Git/GitHub4CLion.pdf)
-    - exercices et corrections
 
 ### Vendredi
 - **Cours**
+    - exercices et corrections
     - chap 02 => ..
     - démo en classe
 

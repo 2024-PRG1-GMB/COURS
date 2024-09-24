@@ -18,7 +18,7 @@ Si le terme saisi n'était pas correct, le programme indiquerait le problème av
 
 Sur cette base, proposer un **pseudo-code par raffinement successif**.
 
-**NB** : Aucun node n'est demandé
+**NB** : Aucun code n'est demandé
 
 <Details>
 <Summary>Aide</Summary>
