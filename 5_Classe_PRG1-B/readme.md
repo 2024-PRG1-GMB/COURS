@@ -75,7 +75,7 @@
 
 ### Mardi
 - **Cours**
-    - chap 02 => ...
+    - chap 02 => 49
     - démo en classe
 
     - exercices pour jeudi
