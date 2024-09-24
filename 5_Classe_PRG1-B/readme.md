@@ -79,10 +79,11 @@
     - démo en classe
 
     - exercices pour jeudi
-        - chap 02 : 03-01, 03-02, 03-03, 03-04, 03-05, 03-06, 03-07
+        - chap 02 : 03-01 => 3.10
 
 ### Jeudi
 - **Cours**
+    - correction exercices
     - chap 02 => ..
     - démo en classe
 
