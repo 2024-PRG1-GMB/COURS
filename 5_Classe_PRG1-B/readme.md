@@ -24,7 +24,7 @@
 - [Demos en classe](https://github.com/2024-PRG1-GMB/COURS/tree/main/5_Classe_PRG1-B/Demos_PRG1_B)
 - [Demos GMB](https://github.com/gmbreguet/PRG1_GMB_DEMO)
 - [PRG1-B Classroom](https://classroom.github.com/classrooms/181518130-2024-prg1-b)
-- [Compléments](https://github.com/2024-PRG1-GMB/COURS/tree/main/3_Complements)
+- [Compléments PRG1](https://github.com/2024-PRG1-GMB/COURS/tree/main/3_Complements)
 - [Prof et Assistants](https://github.com/2024-PRG1-GMB/COURS/blob/main/Prof_Assistants.md)
 - [Tutorat](https://github.com/2024-PRG1-GMB/COURS/blob/main/Tutorat.md)
 
