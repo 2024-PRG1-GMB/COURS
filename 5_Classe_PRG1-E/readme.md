@@ -1,4 +1,4 @@
-# <p style="text-align:center">Journal de classe - PRG1-E</p>
+# Journal de classe - PRG1-E
 
 <a name="start"></a>Semaine
 [01](readme.md#semaine_01)
