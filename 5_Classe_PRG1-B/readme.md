@@ -21,9 +21,9 @@
 ## Liens utiles
 - [Support de cours](https://github.com/2024-PRG1-GMB/COURS/tree/main/1_Slides)
 - [Recueil d'exercices](https://github.com/PRG1-HEIGVD/PRG1_Recueil_Exercices)
-- [Demos en classe](https://github.com/2024-PRG1-GMB/COURS/tree/main/5_Classe_PRG1-B/Demos_PRG1_B)
+- [Demos PRG1-B](https://github.com/2024-PRG1-GMB/COURS/tree/main/5_Classe_PRG1-B/Demos_PRG1_B)
 - [Demos GMB](https://github.com/gmbreguet/PRG1_GMB_DEMO)
-- [PRG1-B Classroom](https://classroom.github.com/classrooms/181518130-2024-prg1-b)
+- [Classroom PRG1-B](https://classroom.github.com/classrooms/181518130-2024-prg1-b)
 - [Compléments PRG1](https://github.com/2024-PRG1-GMB/COURS/tree/main/3_Complements)
 - [Prof et Assistants](https://github.com/2024-PRG1-GMB/COURS/blob/main/Prof_Assistants.md)
 
