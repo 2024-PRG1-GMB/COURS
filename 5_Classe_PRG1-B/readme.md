@@ -18,7 +18,7 @@
 [15](readme.md#semaine_15)
 [16](readme.md#semaine_16)
 
-> ## Liens utiles
+## Liens utiles
 - [Support de cours](https://github.com/2024-PRG1-GMB/COURS/tree/main/1_Slides)
 - [Recueil d'exercices](https://github.com/PRG1-HEIGVD/PRG1_Recueil_Exercices)
 - [Demos en classe](https://github.com/2024-PRG1-GMB/COURS/tree/main/5_Classe_PRG1-B/Demos_PRG1_B)
