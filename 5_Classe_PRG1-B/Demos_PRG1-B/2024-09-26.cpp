@@ -9,62 +9,49 @@ bool fonction() {
    return true;
 }
 
+int fct(int a) {
+   cout << "fct ; " << a << endl;
+   return a;
+}
+
 int main() {
 
+   int i = 2;
+   cout << (i+=3 < 2) << endl;
+
+   int valeur = 1234;
    string chaine1 = "maison";
    string chaine2 = "mais";
 
-   cout << (int)'Z' << " " << (int)'a' << endl;
+   //chaine1 -= "on";
+   cout << chaine1 << endl;
 
-   cout << (chaine1 < chaine2) << endl;
+   cout << endl;
+   // pointeurs
+   int  var = 12;
+   int* ptr = &var;
 
-   int a = 12;
-   int b = 21;
+   cout << "valeur de var  = " <<  var << endl;
+   cout << "adresse de var = " << &var << endl;
 
-   auto result = a <=> b;
+   cout << "valeur de ptr  = " <<  ptr << endl;
+   cout << "adresse de ptr = " << &ptr << endl;
+   cout << "valeur pointee = " << *ptr << endl;
 
-   if (result < 0)
-      cout << "a is less than b" << endl;
-   else if (result == 0)
-      cout << "a is equal than b" << endl;
-   else
-      cout << "a is greater than b" << endl;
-
-
-   2==1 and fonction();
-
-
-   cout <<      'A' << " - " <<      'a' << endl;
-   cout << (int)'A' << " - " << (int)'a' << endl;
-
-   cout << (int)char('A' + 200) << endl;
-
-   cout << ("toto" < "maison") << endl;
-   cout << "message" + 2 << endl;
+   *ptr = 2;
+   cout << "valeur de var  = " <<  var << endl;
+   cout << "valeur pointee = " << *ptr << endl;
 
 
-   cout << "chaine" << endl;
-   cout << (void*)"chaine"     << endl;
-   cout << (void*)("chaine"+0) << endl;
-   cout << (void*)("chaine"+1) << endl;
+   const int cste     = 15;
+   int       variable = 12;
 
-   string chaine = "chaine";
-   cout << chaine << endl;
-   cout << (void*)&chaine        << endl;
-   cout << (void*)(chaine.at(0)) << endl;
-   cout << (void*)(chaine.at(1)) << endl;
-
-   cout << (chaine1 + chaine2) << endl;
-//   cout << ("salut" + "bonjour") << endl;
-
-
-   cout << "|" << chaine << "|" << endl;
-   cout << chaine.at(2) << endl; // en lecture
-   cout << chaine[2]    << endl;
-
-   chaine.at(2) = 'A'; // en ecriture
-   chaine[2]    = 'A';
-   cout << "|" << chaine << "|" << endl;
+   int* ptr_sur_var         = &variable;      // ptr sur la variable => droit RW
+// int* ptr_sur_var         = &cste;          // ptr sur la variable => droit RW
+   const int* ptr_sur_cste1 = &variable;      // ptr sur la variable => droit R
+   const int* ptr_sur_cste2 = &cste;          // ptr sur la variable => droit R
+   const int* ptr_sur_cste3 = &cste;          // ptr sur la variable => droit R
+              ptr_sur_cste3 = &variable;
 
    return EXIT_SUCCESS;
 }

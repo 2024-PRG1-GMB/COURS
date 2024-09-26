@@ -97,8 +97,9 @@ Tutorat PRG1
 ### Jeudi
 - **Cours**
     - correction exercices
-    - chap 02 => ..
-    - démo en classe
+    - chap 02 => 51
+    - démo en classe (à revoir)
+    - [étudier la demo](https://github.com/gmbreguet/PRG1_GMB_DEMO/blob/main/02_Elements_Bases/02-04-01_pointeurs.cpp)
 
 - **Labo**
     - Intro git

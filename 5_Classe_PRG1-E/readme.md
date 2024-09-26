@@ -101,6 +101,8 @@ Tutorat PRG1
     - Intro git
         - [Git pour PRG1.pdf](https://github.com/2024-PRG1-GMB/COURS/blob/main/3_Complements/Git/Git%20pour%20PRG1.pdf)
         - [GitHub4CLion.pdf](https://github.com/2024-PRG1-GMB/COURS/blob/main/3_Complements/Git/GitHub4CLion.pdf)
+        - [git bash](https://git-scm.com/downloads)
+        - [git ssh](https://www.atlassian.com/git/tutorials/git-ssh)
 
 ### Vendredi
 - **Cours**
