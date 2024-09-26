@@ -1,1 +1,0 @@
-CMakeLists.txt not found in /Users/guy-michelbreguet/VLT_RACKSTATION/GUY-MICHEL/HEIG-VD/_Enseignements/Analyse_et_Pgm/PRG/PRG1 - 2023/2023_PRG1_COURS/3_Complements/SDL2/03_Moving_Point_SDL/CLion Select CMakeLists.txt
