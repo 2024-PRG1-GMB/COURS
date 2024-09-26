@@ -18,6 +18,16 @@
 [15](readme.md#semaine_15)
 [16](readme.md#semaine_16)
 
+> ## Liens utiles
+- [Support de cours](https://github.com/2024-PRG1-GMB/COURS/tree/main/1_Slides)
+- [Recueil d'exercices](https://github.com/PRG1-HEIGVD/PRG1_Recueil_Exercices)
+- [Demos en classe](https://github.com/2024-PRG1-GMB/COURS/tree/main/5_Classe_PRG1-B/Demos_PRG1_B)
+- [PRG1-B Classroom](https://classroom.github.com/classrooms/181518130-2024-prg1-b)
+- [Demos](https://github.com/gmbreguet/PRG1_GMB_DEMO)
+- [Compléments](https://github.com/2024-PRG1-GMB/COURS/tree/main/3_Complements)
+- [Prof et Assistants](https://github.com/2024-PRG1-GMB/COURS/blob/main/Prof_Assistants.md)
+- [Tutorat](https://github.com/2024-PRG1-GMB/COURS/blob/main/Tutorat.md)
+
 ---
 > ## <a name="semaine_01"></a>SEMAINE 01 - 16.09.2024 - 20.09.2024 [⬆︎](readme.md#start)
 
