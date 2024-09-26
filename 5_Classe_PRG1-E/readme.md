@@ -106,9 +106,11 @@ Tutorat PRG1
 
 ### Vendredi
 - **Cours**
+    - [étudier la demo](https://github.com/gmbreguet/PRG1_GMB_DEMO/blob/main/02_Elements_Bases/02-04-01_pointeurs.cpp)
     - exercices et corrections
-    - chap 02 => ..
+    - chap 02 => à finir
     - démo en classe
+    - ex chap à finir pour lundi
 
 ---
 > ## <a name="semaine_03"></a>SEMAINE 03 - 30.09.2024 - 04.10.2024 [⬆︎](readme.md#start)
