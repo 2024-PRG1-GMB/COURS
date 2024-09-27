@@ -77,8 +77,8 @@ Tutorat PRG1
 ### Lundi
 - **Cours**
     - correction exercices
-        - chap 01 : ex 02-01, 03-01, 04-01, 04-02, 04-03
-        - chap 02 : ex 01-01, 01-02, 02-01
+        - chap 01 : 02-01, 03-01, 04-01, 04-02, 04-03
+        - chap 02 : 01-01, 01-02, 02-01
     - démo debugger (base)
     - chap 02 => 37
     - démo en classe
@@ -100,7 +100,7 @@ Tutorat PRG1
     - chap 02 => 51
     - démo en classe (à revoir pour vendredi)
     - [étudier la demo](https://github.com/gmbreguet/PRG1_GMB_DEMO/blob/main/02_Elements_Bases/02-04-01_pointeurs.cpp)
-    - ex chap 2 04-01 pour vendredi
+    - ex chap 2 : 04-01 pour vendredi
 
 - **Labo**
     - Intro git
@@ -118,17 +118,31 @@ Tutorat PRG1
 
 ### Lundi
 - **Cours**
+    - revue exercices chap 2
+    - chap 3 => slide 18
+
 - **Labo**
+    - exercices chap 3 : 01-01 à 01-11 pour mardi
 
 ### Mardi
 - **Cours**
+    - revue exercices chap 3
+    - chap 3 => slide 40
+    - exercices chap 3 : 02-01 à 02-14 pour jeudi
 
 ### Jeudi
 - **Cours**
+    - revue exercices chap 3
+    - chap 3 => fin
+    - exercices chap 3 : à terminer
+    - chap 4 => à démarrer si possible
+
 - **Labo**
+    - exercices chap 3 : à terminer
 
 ### Vendredi
 - **Labo**
+    - labo 04 : 
 
 ---
 > ## <a name="semaine_04"></a>SEMAINE 04 - 07.10.2024 - 11.10.2024 [⬆︎](readme.md#start)

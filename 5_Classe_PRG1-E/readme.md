@@ -78,8 +78,8 @@ Tutorat PRG1
     - démo en classe
     - socrative 03-01 Opérateurs
     - exercices pour Mardi
-        - chap 01 : ex 02-01, 03-01, 04-01, 04-02, 04-03
-        - chap 02 : ex 01-01, 01-02, 02-01, 03-01, 03-02, 03-03, 03-04, 03-05, 03-06, 03-07
+        - chap 01 : 02-01, 03-01, 04-01, 04-02, 04-03
+        - chap 02 : 01-01, 01-02, 02-01, 03-01, 03-02, 03-03, 03-04, 03-05, 03-06, 03-07
 
 - **Labo**
     - [Labo_01 - CLion](https://github.com/2024-PRG1-GMB/COURS/tree/main/4_Laboratoires/01_Intro/01_CLion)    
@@ -88,8 +88,8 @@ Tutorat PRG1
 ### Mardi
 - **Cours**
     - correction exercices
-        - chap 01 : ex 02-01, 03-01, 04-01, 04-02, 04-03
-        - chap 02 : ex 01-01, 01-02, 02-01, 03-01, 03-02, 03-03, 03-04, 03-05, 03-06, 03-07
+        - chap 01 : 02-01, 03-01, 04-01, 04-02, 04-03
+        - chap 02 : 01-01, 01-02, 02-01, 03-01, 03-02, 03-03, 03-04, 03-05, 03-06, 03-07
     - chap 02 => 51
     - démo en classe
     
@@ -117,17 +117,29 @@ Tutorat PRG1
 
 ### Lundi
 - **Cours**
+    - revue exercices chap 2
+    - chap 3 => slide 18
+
 - **Labo**
+    - exercices chap 3 : 01-01 à 01-11 pour mardi
 
 ### Mardi
 - **Cours**
+    - revue exercices chap 3
+    - chap 3 => slide 40
+
 - **Labo**
+    - exercices chap 3 : 02-01 à 02-14 pour vendredi
 
 ### Jeudi
 - **Labo**
+    - labo 04 : 
 
 ### Vendredi
 - **Cours**
+    - revue exercices chap 3
+    - chap 3 => fin
+    - chap 4 => à démarrer si possible
 
 ---
 > ## <a name="semaine_04"></a>SEMAINE 04 - 07.10.2024 - 11.10.2024 [⬆︎](readme.md#start)
