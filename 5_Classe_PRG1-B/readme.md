@@ -109,8 +109,8 @@ Tutorat PRG1
 
 ### Vendredi
 - **Labo**
-    - chap 02 => à finir
     - exercices et corrections
+    - chap 02 => fin
     - ex chap à finir pour lundi
 
 ---

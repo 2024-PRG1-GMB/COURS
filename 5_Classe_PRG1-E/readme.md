@@ -108,7 +108,7 @@ Tutorat PRG1
 - **Cours**
     - [étudier la demo](https://github.com/gmbreguet/PRG1_GMB_DEMO/blob/main/02_Elements_Bases/02-04-01_pointeurs.cpp)
     - exercices et corrections
-    - chap 02 => à finir
+    - chap 02 => fin
     - démo en classe
     - ex chap à finir pour lundi
 
