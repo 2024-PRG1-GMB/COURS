@@ -11,7 +11,7 @@ Sur inscription par email le jour précédant.
 
 | Jour      | Horaire       | Salle | Professeur         | email                         |
 |:----------|:--------------|:-----:|:-------------------|:------------------------------|
-| Jeudi	    | 12h00 - 12h45 |  G04  | Guy-Michel Breguet | olivier.cuisenaire@heig-vd.ch |
+| Jeudi	    | 12h00 - 12h45 |  G04  | Guy-Michel Breguet | guy-michel.breguet@heig-vd.ch |
 | Vendredi	| 12h00 - 12h45 |  G03  | Guy-Michel Breguet | guy-michel.breguet@heig-vd.ch |
 
 Inscription le jour précédant par email ou sur MS-Teams "2024 - PRG1 Appui" (code 36e2gsg)
