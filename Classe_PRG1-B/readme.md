@@ -29,7 +29,7 @@
 
 Tutorat et Appui PRG1
 - [Planning](https://github.com/2024-PRG1-GMB/COURS/blob/main/Tutorat.md)
-- [MS-Teams - code : 36e2gsg](https://teams.microsoft.com/l/team/19%3Az6gFcL8IRN2tWBBi3uv-TYLsGOotfwiq2_ApJRoVyMo1%40thread.tacv2/conversations?groupId=0d195aa8-27c2-4a84-99fb-83b7cb2906d7&tenantId=a372f724-c0b2-4ea0-abfb-0eb8c6f84e40)
+- [MS-Teams / code : 36e2gsg](https://teams.microsoft.com/l/team/19%3Az6gFcL8IRN2tWBBi3uv-TYLsGOotfwiq2_ApJRoVyMo1%40thread.tacv2/conversations?groupId=0d195aa8-27c2-4a84-99fb-83b7cb2906d7&tenantId=a372f724-c0b2-4ea0-abfb-0eb8c6f84e40)
 
 ---
 > ## <a name="semaine_01"></a>SEMAINE 01 - 16.09.2024 - 20.09.2024 [⬆︎](readme.md#start)
