@@ -1,18 +1,5 @@
 # 2024 PRG1-E (GMB)
 
-## Liens utiles
-- [Support de cours](https://github.com/2024-PRG1-GMB/COURS/tree/main/Slides)
-- [Recueil d'exercices](https://github.com/PRG1-HEIGVD/PRG1_Recueil_Exercices)
-- [Demos PRG1-E](https://github.com/2024-PRG1-GMB/COURS/tree/main/Classe_PRG1-E/Demos_PRG1_E)
-- [MS-Teams PRG1-E / code : hjk3den](https://teams.microsoft.com/l/team/19%3A-UDHorcO8oLZKz_JN_bD0dR04XJpHNjYdIfEiViswVI1%40thread.tacv2/conversations?groupId=d0c0a906-a0b6-4364-8a0d-e48ee3a828e1&tenantId=a372f724-c0b2-4ea0-abfb-0eb8c6f84e40)
-- [Demos GMB](https://github.com/gmbreguet/PRG1_GMB_DEMO)
-- [Compléments PRG1](https://github.com/2024-PRG1-GMB/COURS/tree/main/Complements)
-- [Prof et Assistants](https://github.com/2024-PRG1-GMB/COURS/blob/main/Prof_Assistants.md)
-
-Tutorat et Appui PRG1
-- [Planning](https://github.com/2024-PRG1-GMB/COURS/blob/main/Tutorat_Appui.md)
-- [MS-Teams / code : 36e2gsg](https://teams.microsoft.com/l/team/19%3Az6gFcL8IRN2tWBBi3uv-TYLsGOotfwiq2_ApJRoVyMo1%40thread.tacv2/conversations?groupId=0d195aa8-27c2-4a84-99fb-83b7cb2906d7&tenantId=a372f724-c0b2-4ea0-abfb-0eb8c6f84e40)
-
 <a name="start"></a>Semaine
 [01](readme.md#semaine_01)
 [02](readme.md#semaine_02)
@@ -30,6 +17,19 @@ Tutorat et Appui PRG1
 [14](readme.md#semaine_14)
 [15](readme.md#semaine_15)
 [16](readme.md#semaine_16)
+
+## Liens utiles
+- [Support de cours](https://github.com/2024-PRG1-GMB/COURS/tree/main/Slides)
+- [Recueil d'exercices](https://github.com/PRG1-HEIGVD/PRG1_Recueil_Exercices)
+- [Demos PRG1-E](https://github.com/2024-PRG1-GMB/COURS/tree/main/Classe_PRG1-E/Demos_PRG1_E)
+- [MS-Teams PRG1-E / code : hjk3den](https://teams.microsoft.com/l/team/19%3A-UDHorcO8oLZKz_JN_bD0dR04XJpHNjYdIfEiViswVI1%40thread.tacv2/conversations?groupId=d0c0a906-a0b6-4364-8a0d-e48ee3a828e1&tenantId=a372f724-c0b2-4ea0-abfb-0eb8c6f84e40)
+- [Demos GMB](https://github.com/gmbreguet/PRG1_GMB_DEMO)
+- [Compléments PRG1](https://github.com/2024-PRG1-GMB/COURS/tree/main/Complements)
+- [Prof et Assistants](https://github.com/2024-PRG1-GMB/COURS/blob/main/Prof_Assistants.md)
+
+Tutorat et Appui PRG1
+- [Planning](https://github.com/2024-PRG1-GMB/COURS/blob/main/Tutorat_Appui.md)
+- [MS-Teams / code : 36e2gsg](https://teams.microsoft.com/l/team/19%3Az6gFcL8IRN2tWBBi3uv-TYLsGOotfwiq2_ApJRoVyMo1%40thread.tacv2/conversations?groupId=0d195aa8-27c2-4a84-99fb-83b7cb2906d7&tenantId=a372f724-c0b2-4ea0-abfb-0eb8c6f84e40)
 
 ---
 > ## <a name="semaine_01"></a>SEMAINE 01 - 16.09.2024 - 20.09.2024 [⬆︎](readme.md#start)
