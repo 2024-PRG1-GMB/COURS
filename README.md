@@ -4,7 +4,7 @@
 - [PRG1-B](https://github.com/2024-PRG1-GMB/COURS/tree/main/Classe_PRG1-B)
 	- [Journal](https://github.com/2024-PRG1-GMB/COURS/blob/main/Classe_PRG1-B/readme.md)
 	- [Demos](https://github.com/2024-PRG1-GMB/COURS/tree/main/Classe_PRG1-B/Demos_PRG1_B)
-- [PRG1-E](https://github.com/2024-PRG1-GMB/COURS/tree/main/Classe_PRG1-B)
+- [PRG1-E](https://github.com/2024-PRG1-GMB/COURS/tree/main/Classe_PRG1-E)
 	- [Journal](https://github.com/2024-PRG1-GMB/COURS/blob/main/Classe_PRG1-E/readme.md)
 	- [Demos](https://github.com/2024-PRG1-GMB/COURS/tree/main/Classe_PRG1-E/Demos_PRG1_E)
 
