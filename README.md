@@ -15,7 +15,7 @@
 - [Compléments](https://github.com/2024-PRG1-GMB/COURS/tree/main/Complements) 
 - [Données laboratoire](https://github.com/2024-PRG1-GMB/COURS/tree/main/Laboratoires) 
 - [Prof et Assistants](https://github.com/2024-PRG1-GMB/COURS/blob/main/Prof_Assistants.md)
-- [Tutorat](https://github.com/2024-PRG1-GMB/COURS/blob/main/Tutorat.md)
+- [Tutorat et Appui](https://github.com/2024-PRG1-GMB/COURS/blob/main/Tutorat_Appui.md)
 
 <details>
 <summary>Comment utiliser ce git</summary>
