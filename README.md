@@ -9,11 +9,11 @@
 	- [Demos](https://github.com/2024-PRG1-GMB/COURS/tree/main/Classe_PRG1-E/Demos_PRG1_E)
 
 ### Matériel
-- [Supports de cours](https://github.com/2024-PRG1-GMB/COURS/tree/main/1_Slides)
+- [Supports de cours](https://github.com/2024-PRG1-GMB/COURS/tree/main/Slides)
 - [Exercices](https://github.com/PRG1-HEIGVD/PRG1_Recueil_Exercices)
 - [Démonstrations](https://github.com/gmbreguet/PRG1_GMB_DEMO)
 - [Compléments](https://github.com/2024-PRG1-GMB/COURS/tree/main/Complements) 
-- [Données laboratoire](https://github.com/2024-PRG1-GMB/COURS/Labo_Donnee) 
+- [Données laboratoire](https://github.com/2024-PRG1-GMB/COURS/tree/main/Laboratoires) 
 - [Prof et Assistants](https://github.com/2024-PRG1-GMB/COURS/blob/main/Prof_Assistants.md)
 - [Tutorat](https://github.com/2024-PRG1-GMB/COURS/blob/main/Tutorat.md)
 
