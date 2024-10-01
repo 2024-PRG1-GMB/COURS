@@ -132,14 +132,14 @@ Tutorat et Appui PRG1
     - exercices chap 3 : 02-01 à 02-14 pour vendredi
 
 ### Jeudi
-- **Labo**
-    - labo 04 : 
-
-### Vendredi
-- **Cours**
+- **Labo => Cours**
     - revue exercices chap 3
     - chap 3 => fin
     - chap 4 => à démarrer si possible
+
+### Vendredi
+- **Cours => Labo**
+    - labo 04 : 
 
 ---
 > ## <a name="semaine_04"></a>SEMAINE 04 - 07.10.2024 - 11.10.2024 [⬆︎](readme.md#start)
