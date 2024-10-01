@@ -1,2 +1,2 @@
-# <p style="text-align: center;">Rendus Labos - PRG1-B</p>
+# Rendus Labos - PRG1-B
 

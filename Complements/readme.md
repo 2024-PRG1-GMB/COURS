@@ -6,7 +6,6 @@ Le répertoire propose :
 
    - [git : configuration et utilisation de git](Git)
    - [CPP / IDE : C++ et environnement de développement](IDE_CLion)
-   - [SDL2 : installation et exemples de code](SDL2)
 
 Bonne visite</br>
 (C) Guy-Michel Breguet

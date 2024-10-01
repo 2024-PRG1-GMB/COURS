@@ -1,4 +1,4 @@
-# <p style="text-align: center;">Bienvenu sur le repo PRG1 de GMB</p>
+# Bienvenu sur le repo PRG1 de GMB
 
 ### Classes
 - [PRG1-B](https://github.com/2024-PRG1-GMB/COURS/tree/main/Classe_PRG1-B)
