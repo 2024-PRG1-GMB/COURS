@@ -68,5 +68,4 @@ int main() {
 
    if (valeur > 3, valeur < 2, true)
       cout << "moche";
-
 }
