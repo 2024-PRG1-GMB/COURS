@@ -142,7 +142,7 @@ Tutorat et Appui PRG1
 
 ### Vendredi
 - **Labo**
-    - labo 04 : 
+    - [Labo-04 - Nbre Premiers](https://classroom.github.com/classrooms/181518130-2024-prg1-b/assignments/prg1-b-04-nbre-premiers) 
 
 ---
 > ## <a name="semaine_04"></a>SEMAINE 04 - 07.10.2024 - 11.10.2024 [⬆︎](readme.md#start)
