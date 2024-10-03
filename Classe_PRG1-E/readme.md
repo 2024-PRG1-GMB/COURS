@@ -135,7 +135,7 @@ Tutorat et Appui PRG1
 - **Labo => Cours**
     - revue exercices chap 3
     - chap 3 => fin
-    - chap 4 => à démarrer si possible
+    - exercices chap 3 : à terminer pour lundi
 
 ### Vendredi
 - **Cours => Labo**
