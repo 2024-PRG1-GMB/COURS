@@ -135,7 +135,6 @@ Tutorat et Appui PRG1
     - revue exercices chap 3
     - chap 3 => fin
     - exercices chap 3 : à terminer
-    - chap 4 => à démarrer si possible
 
 - **Labo**
     - exercices chap 3 : à terminer
