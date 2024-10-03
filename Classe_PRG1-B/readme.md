@@ -141,20 +141,32 @@ Tutorat et Appui PRG1
 
 ### Vendredi
 - **Labo**
-    - [Labo-04 - Nbre Premiers](https://classroom.github.com/a/9TU8dIyh) 
+    - [Labo-04 - Nbre Premiers](https://classroom.github.com/a/9TU8dIyh)
 
 ---
 > ## <a name="semaine_04"></a>SEMAINE 04 - 07.10.2024 - 11.10.2024 [⬆︎](readme.md#start)
 
 ### Lundi
 - **Cours**
+    - revue exercices chap 03
+    - chap 04 => slide 30
+    - chap 04 : exerecices 02* pour mardi
+
 - **Labo**
+    - [Labo-04 - Nbre Premiers](https://classroom.github.com/a/9TU8dIyh)
 
 ### Mardi
 - **Cours**
+    - chap 04 : revue exerecices 02*
+    - chap 04 => slide 45
+    - chap 04 : exerecices 04* pour jeudi
 
 ### Jeudi
 - **Cours**
+    - chap 04 : revue exerecices 04*
+    - chap 04 => slide 62
+    - chap 04 : exerecices 05* et 6* pour jeudi
+
 - **Labo**
 
 ### Vendredi
@@ -165,7 +177,7 @@ Tutorat et Appui PRG1
 
 ### Lundi
 - **Cours**
-    - TE no 1
+    - **TE no 1** : chap 01, 02, 03, 04 => slide 45
 
 - **Labo**
 
