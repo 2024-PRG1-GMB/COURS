@@ -1,14 +1,14 @@
 # Bienvenu sur le repo PRG1 de GMB
 
 ### Classes
-- [PRG1-B](https://github.com/2024-PRG1-GMB/COURS/tree/main/Classe_PRG1-B)
+- [PRG1-B](Classe_PRG1-B)
 	- [Journal](https://github.com/2024-PRG1-GMB/COURS/blob/main/Classe_PRG1-B/readme.md)
 	- [Demos](https://github.com/2024-PRG1-GMB/COURS/tree/main/Classe_PRG1-B/Demos_PRG1_B)
 - [PRG1-E](https://github.com/2024-PRG1-GMB/COURS/tree/main/Classe_PRG1-E)
 	- [Journal](https://github.com/2024-PRG1-GMB/COURS/blob/main/Classe_PRG1-E/readme.md)
 	- [Demos](https://github.com/2024-PRG1-GMB/COURS/tree/main/Classe_PRG1-E/Demos_PRG1_E)
 - [Règles de cours](Complements/GMB_regles_cours.pdf)
-- [Règles de laboratoire](https://github.com/2024-PRG1-GMB/COURS/blob/main/Complements/GMB_regles_labo.pdf)
+- [Règles de laboratoire](Complements/GMB_regles_labo.pdf)
 
 ### Matériel
 - [Supports de cours](https://github.com/2024-PRG1-GMB/COURS/tree/main/Slides)
