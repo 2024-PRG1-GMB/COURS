@@ -26,8 +26,7 @@
 - [Demos GMB](https://github.com/gmbreguet/PRG1_GMB_DEMO)
 - [Compléments PRG1](../Complements)
 - [Prof et Assistants](../Prof_Assistants.md)
-- [Règles de cours](../Complements/GMB_regles_cours.pdf)
-- [Règles de laboratoire](../Complements/GMB_regles_labo.pdf)
+- [Règles PRG1](../Complements/regles_PRG1.md)
 
 Tutorat et Appui PRG1
 - [Planning](../Tutorat_Appui.md)

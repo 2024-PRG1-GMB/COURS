@@ -7,8 +7,7 @@
 - [PRG1-E](Classe_PRG1-E)
 	- [Journal](Classe_PRG1-E/readme.md)
 	- [Demos](Classe_PRG1-E/Demos_PRG1_E)
-- [Règles de cours](Complements/GMB_regles_cours.pdf)
-- [Règles de laboratoire](Complements/GMB_regles_labo.pdf)
+- [Règles PRG1](Complements/regles_PRG1.md)
 
 ### Matériel
 - [Supports de cours](Slides)
