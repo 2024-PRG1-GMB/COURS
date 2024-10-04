@@ -143,6 +143,8 @@ Tutorat et Appui PRG1
 
 ### Vendredi
 - **Labo**
+    - [test plateform Eval](https://eval.iict-heig-vd.in/users/evaluations/cm1u7nwdz03bxgmuya2tfs7z0)
+    - rendu Labo-03
     - [Labo-04 - Nbre Premiers](https://classroom.github.com/a/9TU8dIyh)
 
 ---
