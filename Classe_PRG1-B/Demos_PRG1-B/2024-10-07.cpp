@@ -9,9 +9,23 @@ void afficher_par_copie(string msg) {
    cout << msg;
 }
 
-// par référence
+// par référence => le plus souvent possible en const
 void afficher_par_ref(const string& msg) {
    cout << msg;
+}
+
+// par référence
+void echanger(int& a, int& b) {
+   int t = a;
+   a = b;
+   b = t;
+}
+
+// par adresse
+void echanger(int* a, int* b) {
+   int t = *a;
+   *a = *b;
+   *b = t;
 }
 
 int main() {
@@ -48,6 +62,14 @@ int main() {
     string msg = "string";
    afficher_par_copie(msg);
    afficher_par_ref(msg);
+
+   // par adresse
+   int a = 2;
+   int b = 5;
+
+   cout << "a : " << a << " b : " << b << endl;
+   echanger(&a, &b);
+   cout << "a : " << a << " b : " << b << endl;
 
    return EXIT_SUCCESS;
 }
