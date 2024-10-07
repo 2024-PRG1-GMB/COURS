@@ -181,9 +181,9 @@ Tutorat et Appui PRG1
 
 ### Lundi
 - **Cours**
-    - **TE no 1** : chap 01, 02, 03, 04 => slide 45
 
 - **Labo**
+    - **TE no 1** : chap 01, 02, 03, 04 => slide 45
 
 ### Mardi
 - **Cours**
@@ -268,9 +268,9 @@ Tutorat et Appui PRG1
 
 ### Lundi
 - **Cours**
-    - TE no 2
 
 - **Labo**
+    - TE no 2
 
 ### Mardi
 - **Cours**
@@ -338,9 +338,9 @@ Tutorat et Appui PRG1
 
 ### Lundi
 - **Cours**
-    - TE no 3
 
 - **Labo**
+    - TE no 3
 
 ### Mardi
 - **Cours**
