@@ -7,7 +7,7 @@ Etre capable de compiler un programme C++
 1. Installer et configurer CLion
 
 	- [CLion download](https://www.jetbrains.com/clion/download)
-	- [Guide d'installation et CLion](../Complements/IDE_CLion/Installation%20CLion%20-%20Fouad%20HANNA%20v1.2.pdf)
+	- [Guide d'installation et CLion](../../Complements/IDE_CLion/Installation%20CLion%20-%20Fouad%20HANNA%20v1.2.pdf)
 
 2. Corriger et compiler ce code
 
@@ -71,7 +71,7 @@ Etre capable de compiler un programme C++
 3. Si le temps le permet, installer github et pratiquer ;)
 
 - [git pour PRG1](../../Complements/Git/Git%20pour%20PRG1.pdf)
-- [github pour CLion](../Complements/Git/GitHub4CLion.pdf)
+- [github pour CLion](../../Complements/Git/GitHub4CLion.pdf)
 - [les bases](../Complements/Git/git%20-%20les%20bases.pdf)
 - [simulateur](https://learngitbranching.js.org/?locale=fr_FR)
 
