@@ -72,7 +72,7 @@ Etre capable de compiler un programme C++
 
 - [git pour PRG1](../../Complements/Git/Git%20pour%20PRG1.pdf)
 - [github pour CLion](../../Complements/Git/GitHub4CLion.pdf)
-- [les bases](../Complements/Git/git%20-%20les%20bases.pdf)
+- [les bases](../../Complements/Git/git%20-%20les%20bases.pdf)
 - [simulateur](https://learngitbranching.js.org/?locale=fr_FR)
 
 ### Complément
