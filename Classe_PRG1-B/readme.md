@@ -152,10 +152,11 @@ Tutorat et Appui PRG1
 ### Lundi
 - **Cours**
     - revue exercices chap 03
-    - chap 04 => slide 30
+    - chap 04 => slide 23
     - chap 04 : exerecices 02* pour mardi
 
 - **Labo**
+    - chap 04 => slide 30
     - [Labo-04 - Nbre Premiers](https://classroom.github.com/a/9TU8dIyh)
 
 ### Mardi

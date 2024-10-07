@@ -11,11 +11,12 @@ La présence aux cours est obligatoires. En cas de maladie/accident, veuillez m'
 
 Afin de ne pas déranger la classe en cas de retard, merci d'attendre dans les couloirs. Je viendrai vous chercher dès que possible. 
 
-### Exercices et Travaux écrits
+### Travaux écrits
 
 Les travaux écrits sont en général annoncés. **Une absence entraîne la note de 1.0**.
-Tous les cas de triche seront annoncés à la direction.
+Les travaux écrits manqués ne sont pas forcément remplacés.
 
+Tous les cas de triche seront annoncés à la direction.
 
 ## Règles de laboratoire
 
