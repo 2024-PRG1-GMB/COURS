@@ -21,11 +21,17 @@ void echanger(int& a, int& b) {
    b = t;
 }
 
-// par adresse
-void echanger(int* a, int* b) {
-   int t = *a;
-   *a = *b;
-   *b = t;
+// par adresse (pointer)
+void echanger(int* adr_a, int* adr_b) {
+
+//    rappel
+//   int valeur = 12;
+//   int* ptr = &valeur;
+//   cout << *ptr << valeur; // idem
+
+   int t = *adr_a;
+   *adr_a = *adr_b;
+   *adr_b = t;
 }
 
 int main() {
@@ -37,7 +43,7 @@ int main() {
    cout << "|" << setw(4) << 12345     << "|" << endl;
    cout << "|" << setw(10) << 12345     << "|" << endl;
 
-   cout << "|" << setprecision(2) << setw(4) << 10.0/3.0  << "|" << endl;
+   cout << "|" << setprecision(3) << setw(4) << 10.0/3.0  << "|" << endl;
 
    const int C = 2;
    int    e = 3;
@@ -47,9 +53,9 @@ int main() {
    // => meme type
    // => variable
    int& ref_e = e;   // ok
-   int& ref_d = d;   // pas le même type
-   int& ref_C = C;   // pas sur une variable
-   int& ref_2 = 2;   // pas sur une variable ref=2 = 3; 2 = 3;
+//   int& ref_d = d;   // pas le même type
+//   int& ref_C = C;   // pas sur une variable
+//   int& ref_2 = 2;   // pas sur une variable ref=2 = 3; 2 = 3;
 
    // ref CONSTANTE
    // => pas forcement le meme type
@@ -67,9 +73,13 @@ int main() {
    int a = 2;
    int b = 5;
 
-   cout << "a : " << a << " b : " << b << endl;
-   echanger(&a, &b);
-   cout << "a : " << a << " b : " << b << endl;
+   echanger( a,  b);    // par référence
+   echanger(&a, &b);    // par adresse
+
+   cout << endl;
+
+   cout << setprecision(3);
+   cout << "|" << setw(10) << (1.0 / 3.0) << "|" << endl;
 
    return EXIT_SUCCESS;
 }
