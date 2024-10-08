@@ -160,7 +160,7 @@ Tutorat et Appui PRG1
 - **Cours**
     - chap 04 : revue exerecices 02*
     - chap 04 => slide 45
-    - chap 04 : exerecices 04* pour jeudi
+    - chap 04 : exerecices 03* et 04* pour jeudi
 
 - **Labo**
 
