@@ -1,21 +1,22 @@
 # Bienvenu sur le repo PRG1 de GMB
 
 ### Classes
-- [PRG1-B](https://github.com/2024-PRG1-GMB/COURS/tree/main/Classe_PRG1-B)
-	- [Journal](https://github.com/2024-PRG1-GMB/COURS/blob/main/Classe_PRG1-B/readme.md)
-	- [Demos](https://github.com/2024-PRG1-GMB/COURS/tree/main/Classe_PRG1-B/Demos_PRG1_B)
-- [PRG1-E](https://github.com/2024-PRG1-GMB/COURS/tree/main/Classe_PRG1-E)
-	- [Journal](https://github.com/2024-PRG1-GMB/COURS/blob/main/Classe_PRG1-E/readme.md)
-	- [Demos](https://github.com/2024-PRG1-GMB/COURS/tree/main/Classe_PRG1-E/Demos_PRG1_E)
+- [PRG1-B](Classe_PRG1-B)
+	- [Journal](Classe_PRG1-B/readme.md)
+	- [Demos](Classe_PRG1-B/Demos_PRG1_B)
+- [PRG1-E](Classe_PRG1-E)
+	- [Journal](Classe_PRG1-E/readme.md)
+	- [Demos](Classe_PRG1-E/Demos_PRG1_E)
+- [Règles PRG1](Complements/regles_PRG1.md)
 
 ### Matériel
-- [Supports de cours](https://github.com/2024-PRG1-GMB/COURS/tree/main/Slides)
+- [Supports de cours](Slides)
 - [Exercices](https://github.com/PRG1-HEIGVD/PRG1_Recueil_Exercices)
 - [Démonstrations](https://github.com/gmbreguet/PRG1_GMB_DEMO)
-- [Compléments](https://github.com/2024-PRG1-GMB/COURS/tree/main/Complements) 
-- [Données laboratoire](https://github.com/2024-PRG1-GMB/COURS/tree/main/Laboratoires) 
-- [Prof et Assistants](https://github.com/2024-PRG1-GMB/COURS/blob/main/Prof_Assistants.md)
-- [Tutorat et Appui](https://github.com/2024-PRG1-GMB/COURS/blob/main/Tutorat_Appui.md)
+- [Compléments](Complements) 
+- [Données laboratoire](Laboratoires) 
+- [Prof et Assistants](Prof_Assistants.md)
+- [Tutorat et Appui](Tutorat_Appui.md)
 
 <details>
 <summary>Comment utiliser ce git</summary>

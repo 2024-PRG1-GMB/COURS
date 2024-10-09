@@ -19,16 +19,17 @@
 [16](readme.md#semaine_16)
 
 ## Liens utiles
-- [Support de cours](https://github.com/2024-PRG1-GMB/COURS/tree/main/Slides)
+- [Support de cours](../Slides)
 - [Recueil d'exercices](https://github.com/PRG1-HEIGVD/PRG1_Recueil_Exercices)
-- [Demos PRG1-B](https://github.com/2024-PRG1-GMB/COURS/tree/main/Classe_PRG1-B/Demos_PRG1_B)
+- [Demos PRG1-B](Demos_PRG1-B)
 - [MS-Teams PRG1-B / code : 45h2rd2](https://teams.microsoft.com/l/team/19%3AZw7jZV7z3TxKSkVFjR-NJlo2_8XEmJJrSBCk1FaI5Eg1%40thread.tacv2/conversations?groupId=d3bb0751-fc3b-43d2-aee9-de01cd3469d2&tenantId=a372f724-c0b2-4ea0-abfb-0eb8c6f84e40)
 - [Demos GMB](https://github.com/gmbreguet/PRG1_GMB_DEMO)
-- [Compléments PRG1](https://github.com/2024-PRG1-GMB/COURS/tree/main/Complements)
-- [Prof et Assistants](https://github.com/2024-PRG1-GMB/COURS/blob/main/Prof_Assistants.md)
+- [Compléments PRG1](../Complements)
+- [Prof et Assistants](../Prof_Assistants.md)
+- [Règles PRG1](../Complements/regles_PRG1.md)
 
 Tutorat et Appui PRG1
-- [Planning](https://github.com/2024-PRG1-GMB/COURS/blob/main/Tutorat_Appui.md)
+- [Planning](../Tutorat_Appui.md)
 - [MS-Teams / code : 36e2gsg](https://teams.microsoft.com/l/team/19%3Az6gFcL8IRN2tWBBi3uv-TYLsGOotfwiq2_ApJRoVyMo1%40thread.tacv2/conversations?groupId=0d195aa8-27c2-4a84-99fb-83b7cb2906d7&tenantId=a372f724-c0b2-4ea0-abfb-0eb8c6f84e40)
 
 ---
@@ -141,6 +142,8 @@ Tutorat et Appui PRG1
 
 ### Vendredi
 - **Labo**
+    - [test plateform Eval](https://eval.iict-heig-vd.in/users/evaluations/cm1u7nwdz03bxgmuya2tfs7z0)
+    - rendu Labo-03
     - [Labo-04 - Nbre Premiers](https://classroom.github.com/a/9TU8dIyh)
 
 ---
@@ -149,23 +152,24 @@ Tutorat et Appui PRG1
 ### Lundi
 - **Cours**
     - revue exercices chap 03
-    - chap 04 => slide 30
+    - chap 04 => slide 23
     - chap 04 : exerecices 02* pour mardi
 
 - **Labo**
+    - chap 04 => slide 30
     - [Labo-04 - Nbre Premiers](https://classroom.github.com/a/9TU8dIyh)
 
 ### Mardi
 - **Cours**
     - chap 04 : revue exerecices 02*
     - chap 04 => slide 45
-    - chap 04 : exerecices 04* pour jeudi
+    - chap 04 : exerecices 03* et 04* pour jeudi
 
 ### Jeudi
 - **Cours**
     - chap 04 : revue exerecices 04*
     - chap 04 => slide 62
-    - chap 04 : exerecices 05* et 6* pour jeudi
+    - chap 04 : exerecices 05* et 06* pour jeudi
 
 - **Labo**
 
@@ -177,9 +181,9 @@ Tutorat et Appui PRG1
 
 ### Lundi
 - **Cours**
-    - **TE no 1** : chap 01, 02, 03, 04 => slide 45
 
 - **Labo**
+    - **TE no 1** : chap 01, 02, 03, 04 => slide 45
 
 ### Mardi
 - **Cours**
@@ -264,9 +268,9 @@ Tutorat et Appui PRG1
 
 ### Lundi
 - **Cours**
-    - TE no 2
 
 - **Labo**
+    - TE no 2
 
 ### Mardi
 - **Cours**
@@ -334,9 +338,9 @@ Tutorat et Appui PRG1
 
 ### Lundi
 - **Cours**
-    - TE no 3
 
 - **Labo**
+    - TE no 3
 
 ### Mardi
 - **Cours**
