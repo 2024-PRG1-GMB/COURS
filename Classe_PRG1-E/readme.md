@@ -177,10 +177,10 @@ Tutorat et Appui PRG1
 > ## <a name="semaine_05"></a>SEMAINE 05 - 14.10.2024 - 18.10.2024 [⬆︎](readme.md#start)
 
 ### Lundi
-- **Cours => Labo**
-
-- **Labo => Cours => Labo**
+- **Cours G02 13h15**
     - **TE no 1** : chap 01, 02, 03, 04 => slide 45
+
+- **Labo G02**
 
 ### Mardi
 - **Cours**
