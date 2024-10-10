@@ -67,7 +67,7 @@ Tutorat et Appui PRG1
 
 ### Vendredi
 - **Labo**
-    - [Labo_01 - CLion](../Laboratoires/01_Intro/01_CLion)
+    - [Labo_01 - CLion](https://github.com/2024-PRG1-GMB/COURS/tree/main/Laboratoires/01_CLion)
     - exercices pour lundi
         - chap 01 : 02-01, 03-01, 04-01,  04-02,  04-03
         - chap 02 : 01-01, 01-02, 02-01
@@ -85,7 +85,7 @@ Tutorat et Appui PRG1
     - démo en classe
 
 - **Labo**
-    - [Labo_02 - Wallis](https://github.com/2024-PRG1-GMB/COURS/tree/main/4_Laboratoires/02_Wallis_pseudo)
+    - [Labo_02 - Wallis](https://github.com/2024-PRG1-GMB/COURS/tree/main/Laboratoires/02_Wallis_pseudo)
 
 ### Mardi
 - **Cours**
@@ -173,9 +173,11 @@ Tutorat et Appui PRG1
     - [démos à revoir](https://github.com/gmbreguet/PRG1_GMB_DEMO/tree/main/04_Fonctions/04_librairie)
 
 - **Labo**
+    - [Labo-05 - Calendrier](https://classroom.github.com/a/V-xn2QsE)
 
 ### Vendredi
 - **Labo**
+    - [Labo-05 - Calendrier](https://classroom.github.com/a/V-xn2QsE)
 
 ---
 > ## <a name="semaine_05"></a>SEMAINE 05 - 14.10.2024 - 18.10.2024 [⬆︎](readme.md#start)
