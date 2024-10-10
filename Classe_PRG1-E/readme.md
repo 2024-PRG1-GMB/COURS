@@ -172,7 +172,7 @@ Tutorat et Appui PRG1
 
 ### Vendredi
 - **Labo**
-    - [Labo-05 - Calendrier](https://classroom.github.com/a/V-xn2QsE)
+    - [Labo-05 - Calendrier](https://classroom.github.com/a/wu-5T8WR)
 
 ---
 > ## <a name="semaine_05"></a>SEMAINE 05 - 14.10.2024 - 18.10.2024 [⬆︎](readme.md#start)
@@ -182,7 +182,7 @@ Tutorat et Appui PRG1
     - **TE no 1** : chap 01, 02, 03, 04 => slide 45
 
 - **Labo G02**
-    - [Labo-05 - Calendrier](https://classroom.github.com/a/V-xn2QsE)
+    - [Labo-05 - Calendrier](https://classroom.github.com/a/wu-5T8WR)
 
 ### Mardi
 - **Cours**
