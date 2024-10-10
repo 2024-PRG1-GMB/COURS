@@ -83,7 +83,7 @@ Tutorat et Appui PRG1
         - chap 02 : 01-01, 01-02, 02-01, 03-01, 03-02, 03-03, 03-04, 03-05, 03-06, 03-07
 
 - **Labo**
-    - [Labo_01 - CLion](https://github.com/2024-PRG1-GMB/COURS/tree/main/4_Laboratoires/01_Intro/01_CLion)    
+    - [Labo_01 - CLion](../Laboratoires/01_Intro/01_CLion)
     - exercices à faire
 
 ### Mardi
