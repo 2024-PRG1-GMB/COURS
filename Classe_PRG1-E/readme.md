@@ -181,16 +181,17 @@ Tutorat et Appui PRG1
 - **Cours G02 13h15**
     - **TE no 1** : chap 01, 02, 03, 04 => slide 45
 
-- **Labo G02**
-    - [Labo-05 - Calendrier](https://classroom.github.com/a/wu-5T8WR)
+- **Cours**
+    - chap 04 => slide fin
 
 ### Mardi
 - **Cours**
     - chap 04 : revue exercices 05* et fin
     - chap 05 => slide 26
+    - chap 05 : tous les exercices pour jeudi
 
 - **Labo**
-    - chap 05 : tous les exercices pour jeudi
+    - [Labo-05 - Calendrier](https://classroom.github.com/a/wu-5T8WR)
 
 ### Jeudi
 - **Cours**
