@@ -151,24 +151,24 @@ Tutorat et Appui PRG1
 - **Cours**
     - revue exercices chap 03
     - chap 04 => slide 30
-    - chap 04 : exerecices 02* pour mardi
+    - chap 04 : exercices 02* pour mardi
     
 - **Labo**
     - [Labo-04 - Nbre Premiers](https://classroom.github.com/a/D-29-DTl)
 
 ### Mardi
 - **Cours**
-    - chap 04 : revue exerecices 02*
+    - chap 04 : revue exercices 02*
     - chap 04 => slide 45
 
 - **Labo**
-    - chap 04 : exerecices 03* et 04* pour jeudi
+    - chap 04 : exercices 03* et 04* pour jeudi
 
 ### Jeudi
 - **cours**
-    - chap 04 : revue exerecices 04*
+    - chap 04 : revue exercices 04*
     - chap 04 => slide 62
-    - chap 04 : exerecices 05* et 06* pour lundi
+    - chap 04 : exercices 05* et 06* pour lundi
 
 ### Vendredi
 - **Labo**
@@ -186,7 +186,11 @@ Tutorat et Appui PRG1
 
 ### Mardi
 - **Cours**
+    - chap 04 : revue exercices 05* et fin
+    - chap 05 => slide ..
+
 - **Labo**
+    - chap 05 : exercices 01* à 04* pour jeudi
 
 ### Jeudi
 - **Labo**
@@ -206,10 +210,10 @@ Tutorat et Appui PRG1
 - **Labo**
 
 ### Jeudi
-- **Labo**
+- **Cours**
 
 ### Vendredi
-- **Cours**
+- **Labo**
 
 ---
 > ## <a name="semaine_07"></a>SEMAINE 07 - 04.11.2024 - 08.11.2024 [⬆︎](readme.md#start)
@@ -223,10 +227,10 @@ Tutorat et Appui PRG1
 - **Labo**
 
 ### Jeudi
-- **Labo**
+- **Cours**
 
 ### Vendredi
-- **Cours**
+- **Labo**
 
 ---
 > ## <a name="semaine_08"></a>SEMAINE 08 - 11.11.2024 - 15.11.2024 [⬆︎](readme.md#start)
@@ -240,10 +244,10 @@ Tutorat et Appui PRG1
 - **Labo**
 
 ### Jeudi
-- **Labo**
+- **Cours**
 
 ### Vendredi
-- **Cours**
+- **Labo**
 
 ---
 > ## <a name="semaine_09"></a>SEMAINE 09 - 18.11.2024 - 22.11.2024 [⬆︎](readme.md#start)
@@ -257,10 +261,10 @@ Tutorat et Appui PRG1
 - **Labo**
 
 ### Jeudi
-- **Labo**
+- **Cours**
 
 ### Vendredi
-- **Cours**
+- **Labo**
 
 ---
 > ## <a name="semaine_10"></a>SEMAINE 10 - 25.11.2024 - 29.11.2024 [⬆︎](readme.md#start)
@@ -276,10 +280,10 @@ Tutorat et Appui PRG1
 - **Labo**
 
 ### Jeudi
-- **Labo**
+- **Cours**
 
 ### Vendredi
-- **Cours**
+- **Labo**
 
 ---
 > ## <a name="semaine_11"></a>SEMAINE 11 - 02.12.2024 - 06.12.2024 [⬆︎](readme.md#start)
@@ -293,10 +297,10 @@ Tutorat et Appui PRG1
 - **Labo**
 
 ### Jeudi
-- **Labo**
+- **Cours**
 
 ### Vendredi
-- **Cours**
+- **Labo**
 
 ---
 > ## <a name="semaine_12"></a>SEMAINE 12 - 09.12.2024 - 13.12.2024 [⬆︎](readme.md#start)
@@ -310,10 +314,10 @@ Tutorat et Appui PRG1
 - **Labo**
 
 ### Jeudi
-- **Labo**
+- **Cours**
 
 ### Vendredi
-- **Cours**
+- **Labo**
 
 ---
 > ## <a name="semaine_13"></a>SEMAINE 13 - 16.12.2024 - 20.12.2024 [⬆︎](readme.md#start)
@@ -327,10 +331,10 @@ Tutorat et Appui PRG1
 - **Labo**
 
 ### Jeudi
-- **Labo**
+- **Cours**
 
 ### Vendredi
-- **Cours**
+- **Labo**
 
 ---
 > ## <a name="semaine_14"></a>SEMAINE 14 - 06.01.2025 - 10.01.2025 [⬆︎](readme.md#start)
@@ -346,10 +350,10 @@ Tutorat et Appui PRG1
 - **Labo**
 
 ### Jeudi
-- **Labo**
+- **Cours**
 
 ### Vendredi
-- **Cours**
+- **Labo**
 
 ---
 > ## <a name="semaine_15"></a>SEMAINE 15 - 13.01.2025 - 17.01.2025 [⬆︎](readme.md#start)
@@ -363,10 +367,10 @@ Tutorat et Appui PRG1
 - **Labo**
 
 ### Jeudi
-- **Labo**
+- **Cours**
 
 ### Vendredi
-- **Cours**
+- **Labo**
 
 ---
 > ## <a name="semaine_16"></a>SEMAINE 16 - 20.01.2025 - 24.01.2025 [⬆︎](readme.md#start)
@@ -380,10 +384,10 @@ Tutorat et Appui PRG1
 - **Labo**
 
 ### Jeudi
-- **Labo**
+- **Cours**
 
 ### Vendredi
-- **Cours**
+- **Labo**
 
 ---
 

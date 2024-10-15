@@ -153,7 +153,7 @@ Tutorat et Appui PRG1
 - **Cours**
     - revue exercices chap 03
     - chap 04 => slide 23
-    - chap 04 : exerecices 02* pour mardi
+    - chap 04 : exercices 02* pour mardi
 
 - **Labo**
     - chap 04 => slide 30
@@ -161,15 +161,15 @@ Tutorat et Appui PRG1
 
 ### Mardi
 - **Cours**
-    - chap 04 : revue exerecices 02*
+    - chap 04 : revue exercices 02*
     - chap 04 => slide 45
-    - chap 04 : exerecices 03* et 04* pour jeudi
+    - chap 04 : exercices 03* et 04* pour jeudi
 
 ### Jeudi
 - **Cours**
-    - chap 04 : revue exerecices 04*
+    - chap 04 : revue exercices 04*
     - chap 04 => slide 62
-    - chap 04 : exerecices 05* et 06* pour mardi
+    - chap 04 : exercices 05* et 06* pour mardi
     - [démos à revoir](https://github.com/gmbreguet/PRG1_GMB_DEMO/tree/main/04_Fonctions/04_librairie)
 
 - **Labo**
@@ -184,16 +184,24 @@ Tutorat et Appui PRG1
 
 ### Lundi
 - **Cours**
+    - chap 04 => slide 62
+    - chap 04 : exercices à terminer pour mardi
 
 - **Labo**
     - **TE no 1** : chap 01, 02, 03, 04 => slide 45
 
 ### Mardi
 - **Cours**
+    - chap 04 : revue exercices 05* et fin
+    - chap 05 => slide 26
+    - chap 05 : exercices 01* à 04* pour jeudi
 
 ### Jeudi
 - **Cours**
+    - chap 05 => slide fin
+
 - **Labo**
+    - chap 05 : exercices à terminer
 
 ### Vendredi
 - **Labo**
