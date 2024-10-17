@@ -199,20 +199,24 @@ Tutorat et Appui PRG1
 ### Jeudi
 - **Cours**
     - chap 05 => slide fin
-    - chap 06 => slide ...
+    - chap 06 => slide 19
 
 - **Labo**
     - chap 05 : revue exercices
     - chap 05 : exercices à terminer
+    - chap 06 : exercices 01-01 et 01-02 pour lundi 28.10
 
 ### Vendredi
 - **Labo**
+    - [revue Labo-05 - Calendrier](https://classroom.github.com/a/V-xn2QsE)
 
 ---
 > ## <a name="semaine_06"></a>SEMAINE 06 - 28.10.2024 - 01.11.2024 [⬆︎](readme.md#start)
 
 ### Lundi
 - **Cours**
+    - revue exercices
+    
 - **Labo**
 
 ### Mardi
