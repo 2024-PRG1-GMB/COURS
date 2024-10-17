@@ -3,10 +3,10 @@
 ### Classes
 - [PRG1-B](Classe_PRG1-B)
 	- [Journal](Classe_PRG1-B/readme.md)
-	- [Demos](Classe_PRG1-B/Demos_PRG1_B)
+	- [Demos](Classe_PRG1-B/Demos_PRG1-B)
 - [PRG1-E](Classe_PRG1-E)
 	- [Journal](Classe_PRG1-E/readme.md)
-	- [Demos](Classe_PRG1-E/Demos_PRG1_E)
+	- [Demos](Classe_PRG1-E/Demos_PRG1-E)
 - [Règles PRG1](Complements/regles_PRG1.md)
 
 ### Matériel
