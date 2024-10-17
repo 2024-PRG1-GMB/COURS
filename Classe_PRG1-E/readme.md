@@ -200,6 +200,8 @@ Tutorat et Appui PRG1
     - chap 05 : exercices à terminer
     - chap 06 : exercices 01-01 et 01-02 pour lundi 28.10
 
+    - mise à jour des slides chap 05
+
 ### Vendredi
 - **Labo**
     - [revue Labo-05 - Calendrier](https://classroom.github.com/a/wu-5T8WR)

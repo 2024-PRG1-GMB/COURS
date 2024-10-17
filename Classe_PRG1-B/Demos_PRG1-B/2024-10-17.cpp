@@ -1,14 +1,23 @@
 #include <iostream>
 #include <cstdlib>
+#include <sstream>
 
 using namespace std;
 
 int main() {
 
-   unsigned int i = -20;
-   cout << i << endl;
+   int valeur;
+   do {
+      cout << "Entrez un entier > 0 : ";
+      cin >> valeur;
+   } while (valeur <= 0);
+   cout << "Valeur = " << valeur << endl;
 
-     int valeur = 200;
+
+//   unsigned int i = -20;
+//   cout << i << endl;
+
+//     int valeur = 200;
 //   cout << "valeur : " << valeur << endl;
 //   cin  >> valeur;
 //   cin.clear();

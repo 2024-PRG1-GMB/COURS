@@ -201,6 +201,8 @@ Tutorat et Appui PRG1
     - chap 05 => slide fin
     - chap 06 => slide 19
 
+    - mise à jour des slides chap 05
+    
 - **Labo**
     - chap 05 : revue exercices
     - chap 05 : exercices à terminer
