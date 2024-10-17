@@ -204,7 +204,6 @@ Tutorat et Appui PRG1
     - mise à jour des slides chap 05
     
 - **Labo**
-    - chap 05 : revue exercices
     - chap 05 : exercices à terminer
     - chap 06 : exercices 01-01 et 01-02 pour lundi 28.10
 
