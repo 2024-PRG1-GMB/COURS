@@ -195,10 +195,12 @@ Tutorat et Appui PRG1
 
 ### Jeudi
 - **Cours**
-    - chap 05 : revue exercices
+    - chap 05 => slide fin
+    - chap 06 => slide 16
 
 ### Vendredi
 - **Labo**
+    - chap 05 : revue exercices
 
 ---
 > ## <a name="semaine_06"></a>SEMAINE 06 - 28.10.2024 - 01.11.2024 [⬆︎](readme.md#start)
