@@ -216,15 +216,17 @@ Tutorat et Appui PRG1
 
 ### Lundi
 - **Cours**
+    - revue exercices chap 05
     - revue exercices chap 06
-    - chap 06 => slide 36
+    - chap 06 => slide 59
+    - chap 06 : exercices 01* et 02* pour mardi 
     
 - **Labo**
     - corrections TE no 1
 
 ### Mardi
 - **Cours**
-    - chap 06 => slide 64
+    - chap 06 => slide ..
 
 ### Jeudi
 - **Cours**
