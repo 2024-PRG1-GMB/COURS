@@ -6,10 +6,15 @@ using namespace std;
 
 int main() {
 
-   int valeur = 0xFFF; // 3*16^1 + 2*16^0
-   cout << hex  << showbase << showpos << valeur << endl;
-   cout << dec  << showbase << showpos << valeur << endl;
+   int i = 1;
 
+   switch(i) {
+      case 0 : cout << 0;
+      case 1 : cout << 1;
+      default : cout << "autre";
+      case 2 : cout << 2; break;
+      case 3 : cout << 3;
+   }
 
    return EXIT_SUCCESS;
 }
