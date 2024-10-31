@@ -231,7 +231,8 @@ Tutorat et Appui PRG1
 
 ### Jeudi
 - **Cours**
-    - chap 07 => ...
+    - chap 07 => fin
+    - chap 07 : exercices à terminer
 
 ### Vendredi
 - **Labo**
