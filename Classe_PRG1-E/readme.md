@@ -244,7 +244,7 @@ Tutorat et Appui PRG1
 - **Cours**
     - chap 06 : revues exercices
     - chap 07 : revues exercices
-    - chap 08 => slide ...
+    - chap 08 => slide 36
 
 - **Labo**
     - chap 08 : exercices à faire
