@@ -242,14 +242,24 @@ Tutorat et Appui PRG1
 
 ### Lundi
 - **Cours**
+    - chap 06 : revues exercices
+    - chap 07 : revues exercices
+    - chap 08 => slide ...
+
 - **Labo**
+    - chap 08 : exercices à faire
 
 ### Mardi
 - **Cours**
+    - chap 08 => fin
+    - chap 09 => ...
+
 - **Labo**
+    - chap 09 : exercices
 
 ### Jeudi
 - **Cours**
+    - chap 09 => ...
 
 ### Vendredi
 - **Labo**

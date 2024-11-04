@@ -246,18 +246,24 @@ Tutorat et Appui PRG1
 
 ### Lundi
 - **Cours**
+    - chap 07 : revues exercices
     - chap 08 => slide 40
-    - exercices 08 ... 
-    - début des cours les mardis : 09h35
+    - *début des cours les mardis : 09h35*
     
 - **Labo**
+    - chap 08 : exercices à faire
 
 ### Mardi
 - **Cours**
+    - chap 08 => fin
+    - chap 09 => ...
 
 ### Jeudi
 - **Cours**
+    - chap 09 => ...
+
 - **Labo**
+    - chap 09 : exercices
 
 ### Vendredi
 - **Labo**
