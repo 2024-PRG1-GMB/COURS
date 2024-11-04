@@ -246,6 +246,10 @@ Tutorat et Appui PRG1
 
 ### Lundi
 - **Cours**
+    - chap 08 => slide 40
+    - exercices 08 ... 
+    - début des cours les mardis : 09h35
+    
 - **Labo**
 
 ### Mardi
