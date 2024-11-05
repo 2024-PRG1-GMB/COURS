@@ -252,6 +252,7 @@ Tutorat et Appui PRG1
 ### Mardi
 - **Cours**
     - chap 08 => fin
+    - chap 08 : exercices à finir
     - chap 09 => ...
 
 - **Labo**
