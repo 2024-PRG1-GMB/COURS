@@ -1,7 +1,7 @@
 ## Base de données clients
 
 ### Objectif
-- Fichiers texte in/out
+- fichiers texte in/out
 - enum, struct, ...
 - string, ...
 - tableau, ...
@@ -63,7 +63,7 @@ Une transaction liste les achats de produits par les clients avec les données s
 | date           | date d'achat                |
 
 <br>
-Au début du programme, l'utilisateur est invité à saisir le nom du fichier `.csv` contenant les informations à charger dans des tableaux.
+Au début du programme, l'utilisateur est invité à saisir le nom du fichier contenant contenant les informations à charger dans des tableaux.
 
 Un seul fichier `.csv` (comma separated value) contient toutes les données des customers, des products et des transactions afin d'assurer la cohérence de données. Il est formaté comme suit : 
 
@@ -187,7 +187,7 @@ Un seul fichier `.csv` (comma separated value) contient toutes les données des 
 - A l'affichage, les dates sont au format `DD-MON-YYYY` (ie 07-NOV-2024).
 - Toutes les erreurs saisies sont traitées.
 - Les menus peuvent varier d'une section à l'autre.
-- les `id` sont générés automatiquement par le programme.
+- Les `id` sont générés automatiquement par le programme.
 - ⚠️ Utiliser au mieux tout ce qui a été vu au cours.
 
 ### Copies d'écran
@@ -198,7 +198,7 @@ Un seul fichier `.csv` (comma separated value) contient toutes les données des 
 ~~~
 Welcome message ...
 -------------------
-Load database files
+Load database file
 shop files : ../shop_xyz.csv
 
 Main menu
@@ -339,7 +339,7 @@ etc ...
 </details>
 
 <details>
-<summary>Transcation</summary>
+<summary>Transaction</summary>
 
 ~~~
 Main menu
