@@ -264,23 +264,34 @@ Tutorat et Appui PRG1
 
 ### Vendredi
 - **Labo**
+    - [Labo-07](https://classroom.github.com/a/z4esaSoe)
 
 ---
 > ## <a name="semaine_08"></a>SEMAINE 08 - 11.11.2024 - 15.11.2024 [⬆︎](readme.md#start)
 
 ### Lundi
 - **Cours**
+    - chap 09 => slide ..
+
 - **Labo**
+    - exercices chap 09
+    - [Labo-07](https://classroom.github.com/a/z4esaSoe)
 
 ### Mardi
 - **Cours**
+    - chap 09 => fin
+
 - **Labo**
+    - exercices chap 09
+    - [Labo-07](https://classroom.github.com/a/z4esaSoe)
 
 ### Jeudi
 - **Cours**
 
 ### Vendredi
 - **Labo**
+    - exercices chap 09
+    - [Labo-07](https://classroom.github.com/a/z4esaSoe)
 
 ---
 > ## <a name="semaine_09"></a>SEMAINE 09 - 18.11.2024 - 22.11.2024 [⬆︎](readme.md#start)
