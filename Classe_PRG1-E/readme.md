@@ -288,6 +288,7 @@ Tutorat et Appui PRG1
 
 ### Jeudi
 - **Cours**
+    - exercice sur Eval
     - exercices chap 09
 
 ### Vendredi
