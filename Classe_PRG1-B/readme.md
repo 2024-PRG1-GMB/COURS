@@ -280,6 +280,7 @@ Tutorat et Appui PRG1
 
 - **Labo**
     - exercices chap 09
+    - [visualgo.net](https://visualgo.net/en/sorting)
     - [Labo-07](https://classroom.github.com/a/eURCBs9j)
 
 ### Mardi
