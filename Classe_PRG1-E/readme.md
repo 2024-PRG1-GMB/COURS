@@ -275,20 +275,20 @@ Tutorat et Appui PRG1
 
 - **Labo**
     - exercices chap 09
-    - [visualgo.net](https://visualgo.net/en/sorting)
     - [Labo-07](https://classroom.github.com/a/z4esaSoe)
 
 ### Mardi
 - **Cours**
     - [sondage contenu TE](https://teams.microsoft.com/l/message/19:772bcb8417db4a69bca691d67caec280@thread.tacv2/1731341531902?tenantId=a372f724-c0b2-4ea0-abfb-0eb8c6f84e40&groupId=d0c0a906-a0b6-4364-8a0d-e48ee3a828e1&parentMessageId=1731341531902&teamName=2024%20-%20PRG1-E%20(GMB)&channelName=Cours&createdTime=1731341531902)
+    - [visualgo.net](https://visualgo.net/en/sorting)
     - chap 09 => fin
 
 - **Labo**
-    - exercices chap 09
     - [Labo-07](https://classroom.github.com/a/z4esaSoe)
 
 ### Jeudi
 - **Cours**
+    - exercices chap 09
 
 ### Vendredi
 - **Labo**

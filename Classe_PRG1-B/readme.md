@@ -290,10 +290,9 @@ Tutorat et Appui PRG1
 
 ### Jeudi
 - **Cours**
-
+    - exercices chap 09
 
 - **Labo**
-    - exercices chap 09
     - [Labo-07](https://classroom.github.com/a/eURCBs9j)
 
 ### Vendredi
