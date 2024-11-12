@@ -257,34 +257,49 @@ Tutorat et Appui PRG1
 - **Cours**
     - chap 08 => fin
     - chap 08 : exercices à terminer pour jeudi
-    - chap 09 => 11
+    - chap 09 => slide 11
 
 ### Jeudi
 - **Cours**
-    - chap 09 => ...
+    - chap 09 => slide 34
 
 - **Labo**
     - chap 09 : exercices
 
 ### Vendredi
 - **Labo**
+    - [Labo-07](https://classroom.github.com/a/eURCBs9j)
 
 ---
 > ## <a name="semaine_08"></a>SEMAINE 08 - 11.11.2024 - 15.11.2024 [⬆︎](readme.md#start)
 
 ### Lundi
 - **Cours**
+    - chap 09 => slide 46
+    - exercices chap 09
+
 - **Labo**
+    - exercices chap 09
+    - [visualgo.net](https://visualgo.net/en/sorting)
+    - [Labo-07](https://classroom.github.com/a/eURCBs9j)
 
 ### Mardi
 - **Cours**
+    - [sondage contenu TE](https://teams.microsoft.com/l/message/19:c545e60f3b594e598624c8595f82fe11@thread.tacv2/1731341174793?tenantId=a372f724-c0b2-4ea0-abfb-0eb8c6f84e40&groupId=d3bb0751-fc3b-43d2-aee9-de01cd3469d2&parentMessageId=1731341174793&teamName=2024%20-%20PRG1-B%20(GMB)&channelName=Cours&createdTime=1731341174793)
+    - chap 09 => fin
 
 ### Jeudi
 - **Cours**
+    - exercice sur Eval
+    - exercices chap 09
+
 - **Labo**
+    - [Labo-07](https://classroom.github.com/a/eURCBs9j)
 
 ### Vendredi
 - **Labo**
+    - exercices chap 09
+    - [Labo-07](https://classroom.github.com/a/eURCBs9j)
 
 ---
 > ## <a name="semaine_09"></a>SEMAINE 09 - 18.11.2024 - 22.11.2024 [⬆︎](readme.md#start)
