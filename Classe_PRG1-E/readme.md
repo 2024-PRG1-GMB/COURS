@@ -288,7 +288,7 @@ Tutorat et Appui PRG1
 
 ### Jeudi
 - **Cours**
-    - [exercice sur Eval](https://eval.iict-heig-vd.in/users/evaluations/cm3d8zxzw0bfzu5q1fax75uur)
+    - [exercice sur Eval](https://eval.iict-heig-vd.in/users/evaluations/cm3d92w6n0bgmu5q16azjnk5b)
     - exercices chap 09
 
 ### Vendredi
