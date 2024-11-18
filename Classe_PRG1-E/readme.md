@@ -305,7 +305,7 @@ Tutorat et Appui PRG1
     - exercices chap 10
     
 - **Labo**
-    [Préparation TE no 2](https://eval.iict-heig-vd.in/users/evaluations/cm3mwyj9z0guyu5q1uazlhzs0)- 
+    [Préparation TE no 2](https://eval.iict-heig-vd.in/users/evaluations/cm3n2mxzw0h8bu5q1g01uagn1) 
 
 ### Mardi
 - **Cours**
@@ -320,7 +320,7 @@ Tutorat et Appui PRG1
 
 ### Vendredi
 - **Labo**
-    [revue Préparation TE no 2](https://eval.iict-heig-vd.in/users/evaluations/cm3mwyj9z0guyu5q1uazlhzs0)- 
+    [revue Préparation TE no 2](https://eval.iict-heig-vd.in/users/evaluations/cm3n2mxzw0h8bu5q1g01uagn1) 
     - exercices chap 10
 
 ---
