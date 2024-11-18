@@ -310,7 +310,7 @@ Tutorat et Appui PRG1
     - execices chap 10.01-xx à faire
     
 - **Labo**
-    - [Preparation TE no 2](https://eval.iict-heig-vd.in/users/evaluations/cm3mwte2h0gtqu5q1lnmxxvk2)
+    - [Préparation TE no 2](https://eval.iict-heig-vd.in/users/evaluations/cm3mwte2h0gtqu5q1lnmxxvk2)
 
 ### Mardi
 - **Cours**

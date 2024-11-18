@@ -301,7 +301,10 @@ Tutorat et Appui PRG1
 
 ### Lundi
 - **Cours**
+    - chap 10 => slide ...
+    
 - **Labo**
+    [Préparation TE no 2](https://eval.iict-heig-vd.in/users/evaluations/cm3mwyj9z0guyu5q1uazlhzs0)- 
 
 ### Mardi
 - **Cours**
