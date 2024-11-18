@@ -301,29 +301,36 @@ Tutorat et Appui PRG1
 
 ### Lundi
 - **Cours**
-    - chap 10 => slide ...
+    - chap 10 => slide 15
+    - execices chap 10
     
 - **Labo**
     [Préparation TE no 2](https://eval.iict-heig-vd.in/users/evaluations/cm3mwyj9z0guyu5q1uazlhzs0)- 
 
 ### Mardi
 - **Cours**
+    - chap 10 => slide ..
+
 - **Labo**
+    - execices chap 10
 
 ### Jeudi
 - **Cours**
+    - chap 10 => slide ..
 
 ### Vendredi
 - **Labo**
+    [revue Préparation TE no 2](https://eval.iict-heig-vd.in/users/evaluations/cm3mwyj9z0guyu5q1uazlhzs0)- 
+    - execices chap 10
 
 ---
 > ## <a name="semaine_10"></a>SEMAINE 10 - 25.11.2024 - 29.11.2024 [⬆︎](readme.md#start)
 
 ### Lundi
-- **Cours**
+- **Cours G02 13h15**
+    - TE no 2 (chap 05 à 09 compris)
 
 - **Labo**
-    - TE no 2
 
 ### Mardi
 - **Cours**
