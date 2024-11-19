@@ -309,7 +309,7 @@ Tutorat et Appui PRG1
 
 ### Mardi
 - **Cours**
-    - chap 10 => slide ..
+    - chap 10 => slide 35
 
 - **Labo**
     - exercices chap 10
