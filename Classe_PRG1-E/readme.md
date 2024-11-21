@@ -316,7 +316,7 @@ Tutorat et Appui PRG1
 
 ### Jeudi
 - **Cours**
-    - chap 10 => slide ..
+    - chap 10 => slide 55
 
 ### Vendredi
 - **Labo**

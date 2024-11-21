@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 #include <vector>
+#include <span>
 
 using namespace std;
 
@@ -27,19 +28,27 @@ T    add (const T&    a, const T& b)  {
    return a + b;
 }
 
+//----------------------------------------
+template <typename T>
+void afficher(span<T> s) {
+   cout << s.size() << endl;
+}
+
 int main() {
 
    vector<int> v = {1, 2, 3, 4};
    int a=2;
    int b=3;
 
+   afficher<int>(v);
+
 //   cout << add<int, int, float>(1, 2.3) << endl;
 //   cout << add<int, int>(1.2, 3) << endl;
 //   cout << add<int, int>(a, b) << endl;
-   cout << add(int(2), int(3)) << endl;
-   cout << add<int>(int(2), float(3)) << endl;
-   cout << add<>(int(2), float(3)) << endl;
-   cout << add  (int(2), float(3)) << endl;
+//   cout << add(int(2), int(3)) << endl;
+//   cout << add<int>(int(2), float(3)) << endl;
+//   cout << add<>(int(2), float(3)) << endl;
+//   cout << add  (int(2), float(3)) << endl;
 // cout << add(&a, &b) << endl;
    cout << add("HEIG"s, "-VD"s) << endl;
 
