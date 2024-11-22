@@ -290,7 +290,7 @@ Tutorat et Appui PRG1
 
 ### Jeudi
 - **Cours**
-    - exercice sur Eval
+    - [exercice sur Eval](https://eval.iict-heig-vd.in/users/evaluations/cm3h02fcd0cnyu5q1w3uwwtqb)
     - exercices chap 09
 
 - **Labo**
@@ -306,17 +306,27 @@ Tutorat et Appui PRG1
 
 ### Lundi
 - **Cours**
+    - chap 10 => slide 15
+    - exercices chap 10
+    
 - **Labo**
+    - [Préparation TE no 2](https://eval.iict-heig-vd.in/users/evaluations/cm3mwte2h0gtqu5q1lnmxxvk2)
 
 ### Mardi
 - **Cours**
+    - chap 10 => slide 38
 
 ### Jeudi
 - **Cours**
+    - chap 10 => slide 60
+
 - **Labo**
+    - exercices chap 10
 
 ### Vendredi
 - **Labo**
+    - [revue Préparation TE no 2](https://eval.iict-heig-vd.in/users/evaluations/cm3mwte2h0gtqu5q1lnmxxvk2)
+    - exercices chap 10
 
 ---
 > ## <a name="semaine_10"></a>SEMAINE 10 - 25.11.2024 - 29.11.2024 [⬆︎](readme.md#start)
@@ -325,7 +335,7 @@ Tutorat et Appui PRG1
 - **Cours**
 
 - **Labo**
-    - TE no 2
+    - TE no 2 (chap 05 à 09 compris)
 
 ### Mardi
 - **Cours**

@@ -7,9 +7,10 @@ Vous êtes encouragés à participer pleinement. N'hésitez par à faire part de
 
 ### Présences et retards
 
-La présence aux cours est obligatoires. En cas de maladie/accident, veuillez m'avertir par email par exemple. Le journal de classe indique en permanence les sujets traités et les travaux à réaliser. A votre retour, vous êtes réputé avoir fait le nécessaire pour ratrapper votre retard.
+La présence aux cours est obligatoires. En cas de maladie/accident, veuillez m'avertir par email par exemple. Le journal de classe indique en permanence les sujets traités et les travaux à réaliser.<br>
+A votre retour, vous êtes réputé avoir fait le nécessaire pour ratrapper votre retard.
 
-Afin de ne pas déranger la classe en cas de retard, merci d'attendre dans les couloirs. Je viendrai vous chercher dès que possible. 
+En cas de retard et afin de ne pas dérranger la classe, merci d'attendre dans les couloirs et d'avertir par messagerie vos camarades. Vous pourrez rentrer dès que possible. Néhésitez pas à me rappeler si votre attente dure plus de 10 minutes.
 
 ### Travaux écrits
 
@@ -51,4 +52,4 @@ L’utilisation d’internet est autorisée uniquement si les sources sont indiq
 ... mais qu'avez-vous appris ??
 
 Bon travail</br>
-(C) Guy-Michel Breguet
+(C) Guy-Michel Breguet / Nov. 2024
