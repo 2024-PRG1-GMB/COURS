@@ -321,6 +321,7 @@ Tutorat et Appui PRG1
 ### Vendredi
 - **Labo**
     [revue Préparation TE no 2](https://eval.iict-heig-vd.in/users/evaluations/cm3n2mxzw0h8bu5q1g01uagn1) 
+    - chap 10 => slide 60
     - exercices chap 10
 
 ---
