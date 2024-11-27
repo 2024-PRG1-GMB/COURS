@@ -333,19 +333,26 @@ Tutorat et Appui PRG1
 
 ### Lundi
 - **Cours**
+    - démo surcharge opérateur
 
 - **Labo**
     - TE no 2 (chap 05 à 09 compris)
 
 ### Mardi
 - **Cours**
+    - chap 10 => fin
+    - exercices chap 10
 
 ### Jeudi
 - **Cours**
+    - exercice chap 10
+
 - **Labo**
+    - Labo-08
 
 ### Vendredi
 - **Labo**
+    - Labo-08
 
 ---
 > ## <a name="semaine_11"></a>SEMAINE 11 - 02.12.2024 - 06.12.2024 [⬆︎](readme.md#start)
