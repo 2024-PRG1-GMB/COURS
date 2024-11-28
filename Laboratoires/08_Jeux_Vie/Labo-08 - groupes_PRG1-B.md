@@ -10,4 +10,4 @@
 | 6      | Thiébaud Pierre           | Correia Da Silva Maikol   |
 | 7      | Monsur Sadman             | Pereira Gabriel           |
 | 8      | Kiala Binga Christnovie   | Sugrañes Santiago         |
-| **4**  | ~Suboonsan Chris~         | Weyermann Maxence         |
+| **8**  | ~Suboonsan Chris~         | Weyermann Maxence         |
