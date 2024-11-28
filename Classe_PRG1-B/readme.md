@@ -345,31 +345,43 @@ Tutorat et Appui PRG1
 
 ### Jeudi
 - **Cours**
-    - exercice chap 10
+    - [Labo-08](https://classroom.github.com/a/-V47QsFH)
 
 - **Labo**
-    - Labo-08
+    - [Labo-08](https://classroom.github.com/a/-V47QsFH)
 
 ### Vendredi
 - **Labo**
-    - Labo-08
+    - [Labo-08](https://classroom.github.com/a/-V47QsFH)
 
 ---
 > ## <a name="semaine_11"></a>SEMAINE 11 - 02.12.2024 - 06.12.2024 [⬆︎](readme.md#start)
 
 ### Lundi
 - **Cours**
+    - revue exercices chap 10
+    - chap 11 => slide ..
+
 - **Labo**
+    - exercices chap 11
+    - [Labo-08](https://classroom.github.com/a/-V47QsFH)
 
 ### Mardi
 - **Cours**
+    - chap 11 => slide ..
 
 ### Jeudi
 - **Cours**
+    - chap 11 => slide ..
+
 - **Labo**
+    - exercices chap 11
+    - [Labo-08](https://classroom.github.com/a/-V47QsFH)
 
 ### Vendredi
 - **Labo**
+    - revue exercices chap 11
+    - [Labo-08](https://classroom.github.com/a/-V47QsFH)
 
 ---
 > ## <a name="semaine_12"></a>SEMAINE 12 - 09.12.2024 - 13.12.2024 [⬆︎](readme.md#start)
