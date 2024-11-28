@@ -1,39 +1,19 @@
-#include <iostream>
-#include <cstdlib>
-#include <vector>
-#include <span>
-
-using namespace std;
-
-template <typename T>
-bool estInt(T) {
-   cout << "estInt(T) ";
-   return false;
+//------------------------------------------------
+template <int valeur>
+int add_valeur(int n) {
+   return n + valeur;
 }
 
-template <typename T>
-bool estInt(T*) {
-   cout << "estInt(T*) ";
-   return false;
+//------------------------------------------------
+int put(int n) {
+   cout << n;
+   return n;
 }
 
-template<>
-bool estInt<int>(int) {
-   cout << "estInt<int>(int) ";
-   return true;
+//------------------------------------------------
+template <typename T, typename Fct>
+void parcourir(vector<T>& v, Fct fct){
+   for (size_t i=0; i< v.size(); ++i) {
+      v[i] = fct(v[i]);
+   }
 }
-
-bool estInt(int) {
-   cout << "estInt(int) ";
-   return true;
-}
-
-
-int main() {
-   cout << boolalpha << estInt(1)            << endl   // true
-                     << estInt<>(1)          << endl   // true
-                     << estInt<int>(1.2)     << endl   // true
-                     << estInt('a')          << endl   // false
-                     << estInt(1.)           << endl;  // false
-}
-

@@ -1,39 +1,16 @@
-#include <iostream>
-#include <cstdlib>
-#include <vector>
-#include <span>
+#ifndef FICHIER
+#define FICHIER
+//------------------------------------------------
+template <int valeur>
+int add_valeur(int n);
 
-using namespace std;
+//------------------------------------------------
+int put(int n) ;
 
-template <typename T>
-bool estInt(T) {
-   cout << "estInt(T) ";
-   return false;
-}
+//------------------------------------------------
+template <typename T, typename Fct>
+void parcourir(vector<T>& v, Fct fct);
 
-template <typename T>
-bool estInt(T*) {
-   cout << "estInt(T*) ";
-   return false;
-}
+#include "2024-11-26_fichier.cpp"
 
-template<>
-bool estInt<int>(int) {
-   cout << "estInt<int>(int) ";
-   return true;
-}
-
-bool estInt(int) {
-   cout << "estInt(int) ";
-   return true;
-}
-
-
-int main() {
-   cout << boolalpha << estInt(1)            << endl   // true
-                     << estInt<>(1)          << endl   // true
-                     << estInt<int>(1.2)     << endl   // true
-                     << estInt('a')          << endl   // false
-                     << estInt(1.)           << endl;  // false
-}
-
+#endif
