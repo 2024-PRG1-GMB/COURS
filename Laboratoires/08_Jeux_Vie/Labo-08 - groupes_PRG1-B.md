@@ -2,8 +2,8 @@
 
 | Groupe | Etudiant 1                | Etudiant 2                |
 |:------:|---------------------------|---------------------------|
-| 1      | Bensaci Théo              | Derleth Martin            |
-| 2      | Gorgerat Julien           | Rista Grégoire            |
+| 1      | Gorgerat Julien           | Derleth Martin            |
+| 2      | Bensaci Théo              | Rista Grégoire            |
 | 3      | Mauroux Audrey            | Saber Jonathan            |
 | 4      | Sahli Bilel               | Mohi Uddin Samin          |
 | 5      | Tivollier Nelson          | Giordani Victor           |
