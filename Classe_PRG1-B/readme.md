@@ -358,13 +358,13 @@ Tutorat et Appui PRG1
 > ## <a name="semaine_11"></a>SEMAINE 11 - 02.12.2024 - 06.12.2024 [⬆︎](readme.md#start)
 
 ### Lundi
-- **Cours**
-    - revue exercices chap 10
-    - chap 11 => slide ..
-
-- **Labo**
+- **Labo - à 08h30**
     - exercices chap 11
     - [Labo-08](https://classroom.github.com/a/-V47QsFH)
+
+- **Cours - à 13h15** 
+    - revue exercices chap 10
+    - chap 11 => slide ..
 
 ### Mardi
 - **Cours**
