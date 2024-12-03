@@ -363,10 +363,10 @@ Tutorat et Appui PRG1
 
 ### Mardi
 - **Cours**
-    - chap 11 => slide ..
+    - chap 11 => slide 23
 
 - **Labo**
-    - exercices chap 11
+    - exercices chap 11 : 11-01-01, 11-02-01, 11-03-01, 11-03-02, 11-03-03 
     - [Labo-08](https://classroom.github.com/a/l6yXzG18)
 
 ### Jeudi
