@@ -364,7 +364,7 @@ Tutorat et Appui PRG1
 
 - **Cours - à 13h15** 
     - revue exercices chap 10
-    - chap 11 => slide ..
+    - chap 11 => slide 15
 
 ### Mardi
 - **Cours**
