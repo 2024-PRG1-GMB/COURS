@@ -371,7 +371,9 @@ Tutorat et Appui PRG1
 
 ### Jeudi
 - **Cours**
-    - chap 11 => slide ..
+    - correction exercices chap 10
+    - correction exercices chap 11 : 11-01-01, 11-02-01, 11-03-01, 11-03-02, 11-03-03 
+    - chap 11 => slide 35
     - https://en.cppreference.com/w/cpp/language/operators
 
 ### Vendredi

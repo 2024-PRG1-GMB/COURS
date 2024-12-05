@@ -23,6 +23,15 @@ public:
    int  get_mm()  const    { return mm; }//   Heure(int hh, int mm) : hh(0), mm(0)   { /*cout << "constructeur"; */};
 //   Heure(const Heure& h)   { this->hh = 0; this->mm = h.mm; cout << "copie" << endl; };
 
+   int& at(size_t pos) {
+      if (pos == 0) return this->hh;
+      else          return this->mm;
+   }
+   const int& at(size_t pos) {
+      if (pos == 0) return this->hh;
+      else          return this->mm;
+   }
+
 private:
    int hh;
    int mm;
@@ -41,6 +50,7 @@ ostream& operator<< (ostream& os, const Heure& hh) {
    return os;
 }
 
+void afficher(const Heure& h) { ; }
 
 //------------------------------------------------------------
 int main() {
@@ -49,6 +59,11 @@ int main() {
    Heure h2(h1);
    Heure h3 = h1;
    cout << h2 << endl;
+
+   const Heure hc(h1);
+   h1.moche();
+   hc.moche();
+
 
    vector<Heure> vh(3);
 
