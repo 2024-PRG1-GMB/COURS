@@ -372,6 +372,7 @@ Tutorat et Appui PRG1
 ### Jeudi
 - **Cours**
     - chap 11 => slide ..
+    - https://en.cppreference.com/w/cpp/language/operators
 
 ### Vendredi
 - **Labo**
