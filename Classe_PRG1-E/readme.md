@@ -386,17 +386,28 @@ Tutorat et Appui PRG1
 
 ### Lundi
 - **Cours**
+    - rendu TE no 2
+    - correction exercices chap 11
+    - [Révision chap 10](https://eval.iict-heig-vd.in/users/evaluations/cm4fx2blt050pjdfqce0w6xtz)
+
 - **Labo**
+    - [Labo-08](https://classroom.github.com/a/l6yXzG18)
 
 ### Mardi
 - **Cours**
+    - chap 11 => fin
+    - exercices chap 11 à terminer
+
 - **Labo**
+    - labo 09
 
 ### Jeudi
 - **Cours**
+    - chap 12 => slide ...
 
 ### Vendredi
 - **Labo**
+    - labo 09
 
 ---
 > ## <a name="semaine_13"></a>SEMAINE 13 - 16.12.2024 - 20.12.2024 [⬆︎](readme.md#start)
