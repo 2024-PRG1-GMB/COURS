@@ -409,11 +409,11 @@ Tutorat et Appui PRG1
     - chap 12 => slide ...
 
 - **Labo**
-    - labo 09
+    - [labo 09](https://classroom.github.com/a/wqDY7O2F)
 
 ### Vendredi
 - **Labo**
-    - labo 09
+    - [labo 09](https://classroom.github.com/a/wqDY7O2F)
 
 ---
 > ## <a name="semaine_13"></a>SEMAINE 13 - 16.12.2024 - 20.12.2024 [⬆︎](readme.md#start)
@@ -421,6 +421,7 @@ Tutorat et Appui PRG1
 ### Lundi
 - **Cours**
 - **Labo**
+    - [labo 09](https://classroom.github.com/a/wqDY7O2F)
 
 ### Mardi
 - **Cours**
