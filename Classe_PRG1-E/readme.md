@@ -388,7 +388,7 @@ Tutorat et Appui PRG1
 - **Cours**
     - rendu TE no 2
     - correction exercices chap 11
-    - [Révision chap 10](https://eval.iict-heig-vd.in/users/evaluations/cm4fx2blt050pjdfqce0w6xtz)
+    - [Révision chap 10](https://eval.iict-heig-vd.in/users/evaluations/cm4gq8brs054cjdfqy96oa97h)
 
 - **Labo**
     - [Labo-08](https://classroom.github.com/a/l6yXzG18)
