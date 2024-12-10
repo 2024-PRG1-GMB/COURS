@@ -394,7 +394,7 @@ Tutorat et Appui PRG1
 - **Cours**
     - [rendu TE no 2](https://eval.iict-heig-vd.in/users/evaluations/cm3t6irt0002lpm7ajihqx8u1)
     - exercices chap 11-01-\*, 11-02-\*, 11-04-\* à terminer pour mardi
-    - [Révision chap 10](https://eval.iict-heig-vd.in/users/evaluations/cm4gq7roa0547jdfqjs2xsxc8)
+    - [Révision chap 10](https://eval.iict-heig-vd.in/users/evaluations/cm4i7nehq06h1jdfq3qdcnubq)
 
 - **Labo**
     - [Labo-08](https://classroom.github.com/a/-V47QsFH)
