@@ -18,65 +18,32 @@ Pour simplifier, les fichiers sont au format SAN (Standard Algebraic Notation) s
 <details>
 <summary>game1.txt</summary>
 
+Game: Paul Morphy vs. Duke Karl/Count Isouard (1858)
+
 ~~~
-e2-e4
-e7-e5
-g1-f3
-b8-c6
-f1-c4
-f8-c5
-c2-c3
-g8-f6
-d2-d4
-e5xd4    // capture
-c3xd4    // capture
-c5-b4
-b1-c3
-d7-d6
-e1-g1    // petit roque des blancs
-e8-g8    // petit roque des noirs
-h2-h3    // empêche Ng4
-c8-e6
-d1-d3
-e6xc4    // capture
-d3xc4    // capture
-b4xc3    // capture
-b2xc3    // capture
-d6-d5
-c4-c5
-d5xe4    // capture
-f3xe5    // capture
-c6xe5    // capture
-d4xe5    // capture
-f6xd5    // capture
-c5-c4
-d5xc3    // capture
-a2-a4    // prépare l'attaque à l'aile-dame
-c3xe4    // capture
-c4xe4    // capture
-d8-d1+   // échec avec la dame
-f1xd1    // capture de la dame en d1
-a7-a5    // pousse le pion pour attaquer
-c3-c4    // avance le pion pour bloquer
-a8-e8    // la tour se centralise
-c1-a3    // le fou prend une meilleure position
-e4-c6    // positionnement stratégique du pion
-e8-e6    // tour menace sur la 6ème rangée
-a3-c5    // le fou contrôle les cases noires
-f7-f5    // avance le pion pour libérer la tour
-c5-d6    // fou menace la tour et contrôle la diagonale
-e6xd6    // capture du fou
-e4xd6    // capture de la tour
-g7-g6    // crée une structure défensive
-d6xc7    // capture, menace la tour en a8
-g8-f7    // le roi noir s'active pour protéger
-c7xb8=Q  // promotion en dame
-f7-e6    // le roi s'approche pour tenter de bloquer
-b8-b6+   // échec avec la dame
-e6-f7    // le roi s'écarte
-b6-f6+   // échec
-f7-g8    // le roi fuit
-f6-f8#   // mat avec la dame
+e2-e4   // Opening move, controlling the center
+e7-e5   // Responding in kind, controlling the center
+g1-f3   // Developing the knight, attacking the e5 pawn
+d7-d6   // Supporting the pawn on e5
+d2-d4   // Opening up the center, attacking the e5 pawn
+f8-g4   // Pinning the knight on f3 to the queen
+d4xe5   // Capturing the pawn on e5
+g4xf3   // Capturing the knight, forcing a queen move
+d1xf3   // Queen recaptures, staying active
+f8-c4   // Developing the bishop to an aggressive square
+b8-c3   // Developing the knight and adding pressure to d5
+d7-c6   // Preparing to develop more pieces
+f1-b5   // Attacking the pinned c6 pawn
+a7-b5   // Sacrificing material to deflect the bishop
+b5xb5   // Capturing the pawn, still attacking
+c8-d7   // Developing the knight to defend
+e1-c1   // Castling queenside, connecting the rooks
+d7-d7   // Preparing for the final attack
+d1-d7   // Capturing the pinned knight on d7
+e8-d7   // Recapturing with the queen
+f3-b8   // Check, forcing a defensive move
+d7xb8   // Sacrificing the queen to deflect the defender
+d7-d8#  // Checkmate using the rook
 ~~~
 
 </details>
@@ -84,32 +51,50 @@ f6-f8#   // mat avec la dame
 <details>
 <summary>game2.txt</summary>
 
+Real Game Example: Anderssen vs. Kieseritzky, 1851 (Immortal Game)
+
 ~~~
-e2-e4    // Les blancs occupent le centre
-e7-e5    // Les noirs répondent symétriquement
-g1-f3    // Les blancs attaquent le pion e5
-b8-c6    // Les noirs protègent le pion e5
-f1-c4    // Les blancs développent le fou et visent la case f7
-f8-c5    // Les noirs développent leur fou et attaquent le centre
-b1-c3    // Les blancs développent leur cavalier pour renforcer la pression
-g8-f6    // Les noirs développent leur cavalier pour attaquer e4
-d2-d4    // Les blancs ouvrent le centre
-e5-d4    // Les noirs capturent le pion en d4
-c3-d5    // Les blancs menacent le fou noir en c5 et la case f7
-d4-d3    // Les noirs avancent leur pion pour attaquer la dame blanche
-c1-g5    // Les blancs développent leur fou et attaquent le cavalier f6
-d3-c2    // Les noirs capturent le pion et attaquent la dame blanche
-d1-c2    // La dame blanche capture le pion noir en c2
-h7-h6    // Les noirs menacent le fou blanc en g5
-g5-f6    // Le fou blanc capture le cavalier noir en f6
-g7xf6    // Le pion noir capture le fou blanc (capture)
-c4xf7+   // Le fou blanc capture le pion f7 et donne échec au roi noir (capture et échec)
-e1-g1    // Les blancs réalisent un petit roque pour sécuriser leur roi (petit roque)
-c2-c1=Q  // Le pion noir se promeut en dame sur c1 (promotion en dame)
-f3xe5+   // Le cavalier blanc capture le pion en e5 et donne échec au roi noir (capture et échec)
-c1xf1+   // La dame noire capture la tour blanche en f1 et donne échec au roi blanc (capture et échec)
-g1xf1    // Le roi blanc capture la dame noire en f1
-f8xf1#   // La tour noire capture la tour blanche en f1 et donne échec et mat (capture et mat)
+e2-e4 // White opens with a strong central pawn move.
+e7-e5 // Black mirrors, controlling the center.
+f2-f4 // White plays the King’s Gambit.
+e5xf4 // Black accepts the gambit, gaining a pawn.
+g1-f3 // White develops a knight to attack the pawn on f4.
+d7-d6 // Black defends the f4 pawn.
+d2-d4 // White strikes in the center.
+g5-g4 // Black attacks the knight with a pawn.
+f3-e5 // White sacrifices the knight for a strong attack.
+d6xe5 // Black captures the knight.
+d4xe5 // White recaptures, dominating the center.
+d8-h4+ // Black checks with the queen.
+e1-e2 // White blocks the check.
+h4-e4+ // Black continues with a check.
+f1-e2 // White blocks again, developing the bishop.
+e4-e3 // Black plays aggressively with the queen.
+h2-h3 // White attacks the pawn.
+e3xf2+ // Black delivers another check with the queen.
+e2-f2 // White captures the queen, consolidating.
+c8-e6 // Black develops the bishop.
+b1-c3 // White develops a knight.
+b8-c6 // Black develops a knight.
+c1-f4 // White brings out the bishop.
+c6-d4 // Black centralizes the knight.
+c3-d5 // White brings out another knight, threatening fork tactics.
+d8-h4+ // Black checks the king.
+g2-g3 // White defends with the pawn.
+h4-g3 // Black sacrifices the queen for a pawn.
+f2-g3 // White accepts the queen sacrifice.
+f8-b4 // Black pins the knight with the bishop.
+a2-a3 // White attacks the pinned bishop.
+b4-c3 // Black sacrifices the bishop.
+b2-c3 // White captures the bishop.
+d4-c2+ // Black forks the king and rook with the knight.
+e1-d1 // White moves the king to safety.
+c2-a1 // Black captures the rook.
+h1-h2 // White prepares to defend.
+a1-b3 // Black places the knight aggressively.
+c3-c7 // White threatens promotion.
+b3-d2 // Black places the knight to defend.
+c7-c8=Q // White promotes the pawn to a queen, gaining material.
 ~~~
 
 </details>
@@ -124,7 +109,6 @@ f8xf1#   // La tour noire capture la tour blanche en f1 et donne échec et mat (
 | Échec et mat       | `f6-f8#`                 | Echec et mat au roi.                | `#` indique un mat.                 |
 | Promotion          | `c7xb8=Q`                | Un pion est promu en dame.          | `=` pour une promotion.             |
 | Double échec       | `b6-f6++`                | Double échec.                       | `++` pour signaler un double échec. |
-| Capture en passant | `exd6 e.p.`              | Capture en passant d’un pion.       | `e.p.` pour capture en passant.     |
 | Commentaire        | `f6-f8# // echec et mat` | Commmentaire.                       | Commentaire dans le fichier         |
 
 #### Tableau des promotions
@@ -183,6 +167,7 @@ Ce programme ...
 2 ♙ ♙ ♙ ♙ . ♙ ♙ ♙
 1 ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖
 
+Opening move, controlling the center
 
 
   A B C D E F G H
@@ -195,6 +180,7 @@ Ce programme ...
 2 ♙ ♙ ♙ ♙ . ♙ ♙ ♙
 1 ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖
 
+Responding in kind, controlling the center
 
 
   A B C D E F G H
@@ -207,707 +193,267 @@ Ce programme ...
 2 ♙ ♙ ♙ ♙ . ♙ ♙ ♙
 1 ♖ ♘ ♗ ♕ ♔ ♗ . ♖
 
+Developing the knight, attacking the e5 pawn
 
 
   A B C D E F G H
-8 ♜ . ♝ ♛ ♚ ♝ ♞ ♜
-7 ♟ ♟ ♟ ♟ . ♟ ♟ ♟
-6 . . ♞ . . . . .
+8 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
+7 ♟ ♟ ♟ . . ♟ ♟ ♟
+6 . . . ♟ . . . .
 5 . . . . ♟ . . .
 4 . . . . ♙ . . .
 3 . . . . . ♘ . .
 2 ♙ ♙ ♙ ♙ . ♙ ♙ ♙
 1 ♖ ♘ ♗ ♕ ♔ ♗ . ♖
 
+Supporting the pawn on e5
 
 
   A B C D E F G H
-8 ♜ . ♝ ♛ ♚ ♝ ♞ ♜
-7 ♟ ♟ ♟ ♟ . ♟ ♟ ♟
-6 . . ♞ . . . . .
+8 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
+7 ♟ ♟ ♟ . . ♟ ♟ ♟
+6 . . . ♟ . . . .
 5 . . . . ♟ . . .
-4 . . ♗ . ♙ . . .
-3 . . . . . ♘ . .
-2 ♙ ♙ ♙ ♙ . ♙ ♙ ♙
-1 ♖ ♘ ♗ ♕ ♔ . . ♖
-
-
-
-  A B C D E F G H
-8 ♜ . ♝ ♛ ♚ . ♞ ♜
-7 ♟ ♟ ♟ ♟ . ♟ ♟ ♟
-6 . . ♞ . . . . .
-5 . . ♝ . ♟ . . .
-4 . . ♗ . ♙ . . .
-3 . . . . . ♘ . .
-2 ♙ ♙ ♙ ♙ . ♙ ♙ ♙
-1 ♖ ♘ ♗ ♕ ♔ . . ♖
-
-
-
-  A B C D E F G H
-8 ♜ . ♝ ♛ ♚ . ♞ ♜
-7 ♟ ♟ ♟ ♟ . ♟ ♟ ♟
-6 . . ♞ . . . . .
-5 . . ♝ . ♟ . . .
-4 . . ♗ . ♙ . . .
-3 . . ♙ . . ♘ . .
-2 ♙ ♙ . ♙ . ♙ ♙ ♙
-1 ♖ ♘ ♗ ♕ ♔ . . ♖
-
-
-
-  A B C D E F G H
-8 ♜ . ♝ ♛ ♚ . . ♜
-7 ♟ ♟ ♟ ♟ . ♟ ♟ ♟
-6 . . ♞ . . ♞ . .
-5 . . ♝ . ♟ . . .
-4 . . ♗ . ♙ . . .
-3 . . ♙ . . ♘ . .
-2 ♙ ♙ . ♙ . ♙ ♙ ♙
-1 ♖ ♘ ♗ ♕ ♔ . . ♖
-
-
-
-  A B C D E F G H
-8 ♜ . ♝ ♛ ♚ . . ♜
-7 ♟ ♟ ♟ ♟ . ♟ ♟ ♟
-6 . . ♞ . . ♞ . .
-5 . . ♝ . ♟ . . .
-4 . . ♗ ♙ ♙ . . .
-3 . . ♙ . . ♘ . .
-2 ♙ ♙ . . . ♙ ♙ ♙
-1 ♖ ♘ ♗ ♕ ♔ . . ♖
-
-
-
-  A B C D E F G H
-8 ♜ . ♝ ♛ ♚ . . ♜
-7 ♟ ♟ ♟ ♟ . ♟ ♟ ♟
-6 . . ♞ . . ♞ . .
-5 . . ♝ . . . . .
-4 . . ♗ ♟ ♙ . . .
-3 . . ♙ . . ♘ . .
-2 ♙ ♙ . . . ♙ ♙ ♙
-1 ♖ ♘ ♗ ♕ ♔ . . ♖
-
-capture
-
-
-  A B C D E F G H
-8 ♜ . ♝ ♛ ♚ . . ♜
-7 ♟ ♟ ♟ ♟ . ♟ ♟ ♟
-6 . . ♞ . . ♞ . .
-5 . . ♝ . . . . .
-4 . . ♗ ♙ ♙ . . .
-3 . . . . . ♘ . .
-2 ♙ ♙ . . . ♙ ♙ ♙
-1 ♖ ♘ ♗ ♕ ♔ . . ♖
-
-capture
-
-
-  A B C D E F G H
-8 ♜ . ♝ ♛ ♚ . . ♜
-7 ♟ ♟ ♟ ♟ . ♟ ♟ ♟
-6 . . ♞ . . ♞ . .
-5 . . . . . . . .
-4 . ♝ ♗ ♙ ♙ . . .
-3 . . . . . ♘ . .
-2 ♙ ♙ . . . ♙ ♙ ♙
-1 ♖ ♘ ♗ ♕ ♔ . . ♖
-
-
-
-  A B C D E F G H
-8 ♜ . ♝ ♛ ♚ . . ♜
-7 ♟ ♟ ♟ ♟ . ♟ ♟ ♟
-6 . . ♞ . . ♞ . .
-5 . . . . . . . .
-4 . ♝ ♗ ♙ ♙ . . .
-3 . . ♘ . . ♘ . .
-2 ♙ ♙ . . . ♙ ♙ ♙
-1 ♖ . ♗ ♕ ♔ . . ♖
-
-
-
-  A B C D E F G H
-8 ♜ . ♝ ♛ ♚ . . ♜
-7 ♟ ♟ ♟ . . ♟ ♟ ♟
-6 . . ♞ ♟ . ♞ . .
-5 . . . . . . . .
-4 . ♝ ♗ ♙ ♙ . . .
-3 . . ♘ . . ♘ . .
-2 ♙ ♙ . . . ♙ ♙ ♙
-1 ♖ . ♗ ♕ ♔ . . ♖
-
-
-
-  A B C D E F G H
-8 ♜ . ♝ ♛ ♚ . . ♜
-7 ♟ ♟ ♟ . . ♟ ♟ ♟
-6 . . ♞ ♟ . ♞ . .
-5 . . . . . . . .
-4 . ♝ ♗ ♙ ♙ . . .
-3 . . ♘ . . ♘ . .
-2 ♙ ♙ . . . ♙ ♙ ♙
-1 ♖ . ♗ ♕ . . ♔ ♖
-
-petit roque des blancs
-
-
-  A B C D E F G H
-8 ♜ . ♝ ♛ . . ♚ ♜
-7 ♟ ♟ ♟ . . ♟ ♟ ♟
-6 . . ♞ ♟ . ♞ . .
-5 . . . . . . . .
-4 . ♝ ♗ ♙ ♙ . . .
-3 . . ♘ . . ♘ . .
-2 ♙ ♙ . . . ♙ ♙ ♙
-1 ♖ . ♗ ♕ . . ♔ ♖
-
-petit roque des noirs
-
-
-  A B C D E F G H
-8 ♜ . ♝ ♛ . . ♚ ♜
-7 ♟ ♟ ♟ . . ♟ ♟ ♟
-6 . . ♞ ♟ . ♞ . .
-5 . . . . . . . .
-4 . ♝ ♗ ♙ ♙ . . .
-3 . . ♘ . . ♘ . ♙
-2 ♙ ♙ . . . ♙ ♙ .
-1 ♖ . ♗ ♕ . . ♔ ♖
-
-empêche Ng4
-
-
-  A B C D E F G H
-8 ♜ . . ♛ . . ♚ ♜
-7 ♟ ♟ ♟ . . ♟ ♟ ♟
-6 . . ♞ ♟ ♝ ♞ . .
-5 . . . . . . . .
-4 . ♝ ♗ ♙ ♙ . . .
-3 . . ♘ . . ♘ . ♙
-2 ♙ ♙ . . . ♙ ♙ .
-1 ♖ . ♗ ♕ . . ♔ ♖
-
-
-
-  A B C D E F G H
-8 ♜ . . ♛ . . ♚ ♜
-7 ♟ ♟ ♟ . . ♟ ♟ ♟
-6 . . ♞ ♟ ♝ ♞ . .
-5 . . . . . . . .
-4 . ♝ ♗ ♙ ♙ . . .
-3 . . ♘ ♕ . ♘ . ♙
-2 ♙ ♙ . . . ♙ ♙ .
-1 ♖ . ♗ . . . ♔ ♖
-
-
-
-  A B C D E F G H
-8 ♜ . . ♛ . . ♚ ♜
-7 ♟ ♟ ♟ . . ♟ ♟ ♟
-6 . . ♞ ♟ . ♞ . .
-5 . . . . . . . .
-4 . ♝ ♝ ♙ ♙ . . .
-3 . . ♘ ♕ . ♘ . ♙
-2 ♙ ♙ . . . ♙ ♙ .
-1 ♖ . ♗ . . . ♔ ♖
-
-capture
-
-
-  A B C D E F G H
-8 ♜ . . ♛ . . ♚ ♜
-7 ♟ ♟ ♟ . . ♟ ♟ ♟
-6 . . ♞ ♟ . ♞ . .
-5 . . . . . . . .
-4 . ♝ ♕ ♙ ♙ . . .
-3 . . ♘ . . ♘ . ♙
-2 ♙ ♙ . . . ♙ ♙ .
-1 ♖ . ♗ . . . ♔ ♖
-
-capture
-
-
-  A B C D E F G H
-8 ♜ . . ♛ . . ♚ ♜
-7 ♟ ♟ ♟ . . ♟ ♟ ♟
-6 . . ♞ ♟ . ♞ . .
-5 . . . . . . . .
-4 . . ♕ ♙ ♙ . . .
-3 . . ♝ . . ♘ . ♙
-2 ♙ ♙ . . . ♙ ♙ .
-1 ♖ . ♗ . . . ♔ ♖
-
-capture
-
-
-  A B C D E F G H
-8 ♜ . . ♛ . . ♚ ♜
-7 ♟ ♟ ♟ . . ♟ ♟ ♟
-6 . . ♞ ♟ . ♞ . .
-5 . . . . . . . .
-4 . . ♕ ♙ ♙ . . .
-3 . . ♙ . . ♘ . ♙
-2 ♙ . . . . ♙ ♙ .
-1 ♖ . ♗ . . . ♔ ♖
-
-capture
-
-
-  A B C D E F G H
-8 ♜ . . ♛ . . ♚ ♜
-7 ♟ ♟ ♟ . . ♟ ♟ ♟
-6 . . ♞ . . ♞ . .
-5 . . . ♟ . . . .
-4 . . ♕ ♙ ♙ . . .
-3 . . ♙ . . ♘ . ♙
-2 ♙ . . . . ♙ ♙ .
-1 ♖ . ♗ . . . ♔ ♖
-
-
-
-  A B C D E F G H
-8 ♜ . . ♛ . . ♚ ♜
-7 ♟ ♟ ♟ . . ♟ ♟ ♟
-6 . . ♞ . . ♞ . .
-5 . . ♕ ♟ . . . .
 4 . . . ♙ ♙ . . .
-3 . . ♙ . . ♘ . ♙
-2 ♙ . . . . ♙ ♙ .
-1 ♖ . ♗ . . . ♔ ♖
+3 . . . . . ♘ . .
+2 ♙ ♙ ♙ . . ♙ ♙ ♙
+1 ♖ ♘ ♗ ♕ ♔ ♗ . ♖
 
-
-
-  A B C D E F G H
-8 ♜ . . ♛ . . ♚ ♜
-7 ♟ ♟ ♟ . . ♟ ♟ ♟
-6 . . ♞ . . ♞ . .
-5 . . ♕ . . . . .
-4 . . . ♙ ♟ . . .
-3 . . ♙ . . ♘ . ♙
-2 ♙ . . . . ♙ ♙ .
-1 ♖ . ♗ . . . ♔ ♖
-
-capture
+Opening up the center, attacking the e5 pawn
 
 
   A B C D E F G H
-8 ♜ . . ♛ . . ♚ ♜
+8 ♜ ♞ ♝ ♛ ♚ . ♞ ♜
 7 ♟ ♟ ♟ . . ♟ ♟ ♟
-6 . . ♞ . . ♞ . .
-5 . . ♕ . ♘ . . .
-4 . . . ♙ ♟ . . .
-3 . . ♙ . . . . ♙
-2 ♙ . . . . ♙ ♙ .
-1 ♖ . ♗ . . . ♔ ♖
+6 . . . ♟ . . . .
+5 . . . . ♟ . . .
+4 . . . ♙ ♙ . ♝ .
+3 . . . . . ♘ . .
+2 ♙ ♙ ♙ . . ♙ ♙ ♙
+1 ♖ ♘ ♗ ♕ ♔ ♗ . ♖
 
-capture
+Pinning the knight on f3 to the queen
 
 
   A B C D E F G H
-8 ♜ . . ♛ . . ♚ ♜
+8 ♜ ♞ ♝ ♛ ♚ . ♞ ♜
 7 ♟ ♟ ♟ . . ♟ ♟ ♟
-6 . . . . . ♞ . .
-5 . . ♕ . ♞ . . .
-4 . . . ♙ ♟ . . .
-3 . . ♙ . . . . ♙
-2 ♙ . . . . ♙ ♙ .
-1 ♖ . ♗ . . . ♔ ♖
-
-capture
-
-
-  A B C D E F G H
-8 ♜ . . ♛ . . ♚ ♜
-7 ♟ ♟ ♟ . . ♟ ♟ ♟
-6 . . . . . ♞ . .
-5 . . ♕ . ♙ . . .
-4 . . . . ♟ . . .
-3 . . ♙ . . . . ♙
-2 ♙ . . . . ♙ ♙ .
-1 ♖ . ♗ . . . ♔ ♖
-
-capture
-
-
-  A B C D E F G H
-8 ♜ . . ♛ . . ♚ ♜
-7 ♟ ♟ ♟ . . ♟ ♟ ♟
-6 . . . . . . . .
-5 . . ♕ ♞ ♙ . . .
-4 . . . . ♟ . . .
-3 . . ♙ . . . . ♙
-2 ♙ . . . . ♙ ♙ .
-1 ♖ . ♗ . . . ♔ ♖
-
-capture
-
-
-  A B C D E F G H
-8 ♜ . . ♛ . . ♚ ♜
-7 ♟ ♟ ♟ . . ♟ ♟ ♟
-6 . . . . . . . .
-5 . . . ♞ ♙ . . .
-4 . . ♕ . ♟ . . .
-3 . . ♙ . . . . ♙
-2 ♙ . . . . ♙ ♙ .
-1 ♖ . ♗ . . . ♔ ♖
-
-
-
-  A B C D E F G H
-8 ♜ . . ♛ . . ♚ ♜
-7 ♟ ♟ ♟ . . ♟ ♟ ♟
-6 . . . . . . . .
+6 . . . ♟ . . . .
 5 . . . . ♙ . . .
-4 . . ♕ . ♟ . . .
-3 . . ♞ . . . . ♙
-2 ♙ . . . . ♙ ♙ .
-1 ♖ . ♗ . . . ♔ ♖
+4 . . . . ♙ . ♝ .
+3 . . . . . ♘ . .
+2 ♙ ♙ ♙ . . ♙ ♙ ♙
+1 ♖ ♘ ♗ ♕ ♔ ♗ . ♖
 
-capture
+Capturing the pawn on e5
 
 
   A B C D E F G H
-8 ♜ . . ♛ . . ♚ ♜
+8 ♜ ♞ ♝ ♛ ♚ . ♞ ♜
 7 ♟ ♟ ♟ . . ♟ ♟ ♟
-6 . . . . . . . .
+6 . . . ♟ . . . .
 5 . . . . ♙ . . .
-4 ♙ . ♕ . ♟ . . .
-3 . . ♞ . . . . ♙
-2 . . . . . ♙ ♙ .
-1 ♖ . ♗ . . . ♔ ♖
+4 . . . . ♙ . . .
+3 . . . . . ♝ . .
+2 ♙ ♙ ♙ . . ♙ ♙ ♙
+1 ♖ ♘ ♗ ♕ ♔ ♗ . ♖
 
-prépare l'attaque à l'aile-dame
+Capturing the knight, forcing a queen move
 
 
   A B C D E F G H
-8 ♜ . . ♛ . . ♚ ♜
+8 ♜ ♞ ♝ ♛ ♚ . ♞ ♜
 7 ♟ ♟ ♟ . . ♟ ♟ ♟
-6 . . . . . . . .
+6 . . . ♟ . . . .
 5 . . . . ♙ . . .
-4 ♙ . ♕ . ♞ . . .
-3 . . . . . . . ♙
-2 . . . . . ♙ ♙ .
-1 ♖ . ♗ . . . ♔ ♖
+4 . . . . ♙ . . .
+3 . . . . . ♕ . .
+2 ♙ ♙ ♙ . . ♙ ♙ ♙
+1 ♖ ♘ ♗ . ♔ ♗ . ♖
 
-capture
+Queen recaptures, staying active
 
 
   A B C D E F G H
-8 ♜ . . ♛ . . ♚ ♜
+8 ♜ ♞ ♝ ♛ ♚ . ♞ ♜
 7 ♟ ♟ ♟ . . ♟ ♟ ♟
-6 . . . . . . . .
+6 . . . ♟ . . . .
 5 . . . . ♙ . . .
-4 ♙ . . . ♕ . . .
-3 . . . . . . . ♙
-2 . . . . . ♙ ♙ .
-1 ♖ . ♗ . . . ♔ ♖
+4 . . . . ♙ . . .
+3 . . . . . ♕ . .
+2 ♙ ♙ ♙ . . ♙ ♙ ♙
+1 ♖ ♘ ♗ . ♔ ♗ . ♖
 
-capture
+Developing the bishop to an aggressive square
 
 
   A B C D E F G H
-8 ♜ . . . . . ♚ ♜
+8 ♜ . ♝ ♛ ♚ . ♞ ♜
 7 ♟ ♟ ♟ . . ♟ ♟ ♟
-6 . . . . . . . .
+6 . . . ♟ . . . .
 5 . . . . ♙ . . .
-4 ♙ . . . ♕ . . .
-3 . . . . . . . ♙
-2 . . . . . ♙ ♙ .
-1 ♖ . ♗ ♛ . . ♔ ♖
+4 . . . . ♙ . . .
+3 . . ♞ . . ♕ . .
+2 ♙ ♙ ♙ . . ♙ ♙ ♙
+1 ♖ ♘ ♗ . ♔ ♗ . ♖
 
-échec avec la dame
+Developing the knight and adding pressure to d5
 
 
   A B C D E F G H
-8 ♜ . . . . . ♚ ♜
+8 ♜ . ♝ ♛ ♚ . ♞ ♜
 7 ♟ ♟ ♟ . . ♟ ♟ ♟
-6 . . . . . . . .
+6 . . . ♟ . . . .
 5 . . . . ♙ . . .
-4 ♙ . . . ♕ . . .
-3 . . . . . . . ♙
-2 . . . . . ♙ ♙ .
-1 ♖ . ♗ . . . ♔ ♖
+4 . . . . ♙ . . .
+3 . . ♞ . . ♕ . .
+2 ♙ ♙ ♙ . . ♙ ♙ ♙
+1 ♖ ♘ ♗ . ♔ ♗ . ♖
 
-capture de la dame en d1
+Preparing to develop more pieces
 
 
   A B C D E F G H
-8 ♜ . . . . . ♚ ♜
+8 ♜ . ♝ ♛ ♚ . ♞ ♜
+7 ♟ ♟ ♟ . . ♟ ♟ ♟
+6 . . . ♟ . . . .
+5 . ♗ . . ♙ . . .
+4 . . . . ♙ . . .
+3 . . ♞ . . ♕ . .
+2 ♙ ♙ ♙ . . ♙ ♙ ♙
+1 ♖ ♘ ♗ . ♔ . . ♖
+
+Attacking the pinned c6 pawn
+
+
+  A B C D E F G H
+8 ♜ . ♝ ♛ ♚ . ♞ ♜
 7 . ♟ ♟ . . ♟ ♟ ♟
-6 . . . . . . . .
-5 ♟ . . . ♙ . . .
-4 ♙ . . . ♕ . . .
-3 . . . . . . . ♙
-2 . . . . . ♙ ♙ .
-1 ♖ . ♗ . . . ♔ ♖
+6 . . . ♟ . . . .
+5 . ♟ . . ♙ . . .
+4 . . . . ♙ . . .
+3 . . ♞ . . ♕ . .
+2 ♙ ♙ ♙ . . ♙ ♙ ♙
+1 ♖ ♘ ♗ . ♔ . . ♖
 
-pousse le pion pour attaquer
+Sacrificing material to deflect the bishop
 
 
   A B C D E F G H
-8 ♜ . . . . . ♚ ♜
+8 ♜ . ♝ ♛ ♚ . ♞ ♜
 7 . ♟ ♟ . . ♟ ♟ ♟
-6 . . . . . . . .
-5 ♟ . . . ♙ . . .
-4 ♙ . . . ♕ . . .
-3 . . . . . . . ♙
-2 . . . . . ♙ ♙ .
-1 ♖ . ♗ . . . ♔ ♖
+6 . . . ♟ . . . .
+5 . . . . ♙ . . .
+4 . . . . ♙ . . .
+3 . . ♞ . . ♕ . .
+2 ♙ ♙ ♙ . . ♙ ♙ ♙
+1 ♖ ♘ ♗ . ♔ . . ♖
 
-avance le pion pour bloquer
+Capturing the pawn, still attacking
 
 
   A B C D E F G H
-8 . . . . ♜ . ♚ ♜
+8 ♜ . . ♛ ♚ . ♞ ♜
+7 . ♟ ♟ ♝ . ♟ ♟ ♟
+6 . . . ♟ . . . .
+5 . . . . ♙ . . .
+4 . . . . ♙ . . .
+3 . . ♞ . . ♕ . .
+2 ♙ ♙ ♙ . . ♙ ♙ ♙
+1 ♖ ♘ ♗ . ♔ . . ♖
+
+Developing the knight to defend
+
+
+  A B C D E F G H
+8 ♜ . . ♛ ♚ . ♞ ♜
+7 . ♟ ♟ ♝ . ♟ ♟ ♟
+6 . . . ♟ . . . .
+5 . . . . ♙ . . .
+4 . . . . ♙ . . .
+3 . . ♞ . . ♕ . .
+2 ♙ ♙ ♙ . . ♙ ♙ ♙
+1 ♖ ♘ ♔ . . . . ♖
+
+Castling queenside, connecting the rooks
+
+
+  A B C D E F G H
+8 ♜ . . ♛ ♚ . ♞ ♜
 7 . ♟ ♟ . . ♟ ♟ ♟
-6 . . . . . . . .
-5 ♟ . . . ♙ . . .
-4 ♙ . . . ♕ . . .
-3 . . . . . . . ♙
-2 . . . . . ♙ ♙ .
-1 ♖ . ♗ . . . ♔ ♖
+6 . . . ♟ . . . .
+5 . . . . ♙ . . .
+4 . . . . ♙ . . .
+3 . . ♞ . . ♕ . .
+2 ♙ ♙ ♙ . . ♙ ♙ ♙
+1 ♖ ♘ ♔ . . . . ♖
 
-la tour se centralise
+Preparing for the final attack
 
 
   A B C D E F G H
-8 . . . . ♜ . ♚ ♜
+8 ♜ . . ♛ ♚ . ♞ ♜
 7 . ♟ ♟ . . ♟ ♟ ♟
-6 . . . . . . . .
-5 ♟ . . . ♙ . . .
-4 ♙ . . . ♕ . . .
-3 ♗ . . . . . . ♙
-2 . . . . . ♙ ♙ .
-1 ♖ . . . . . ♔ ♖
+6 . . . ♟ . . . .
+5 . . . . ♙ . . .
+4 . . . . ♙ . . .
+3 . . ♞ . . ♕ . .
+2 ♙ ♙ ♙ . . ♙ ♙ ♙
+1 ♖ ♘ ♔ . . . . ♖
 
-le fou prend une meilleure position
+Capturing the pinned knight on d7
 
 
   A B C D E F G H
-8 . . . . ♜ . ♚ ♜
+8 ♜ . . ♛ . . ♞ ♜
+7 . ♟ ♟ ♚ . ♟ ♟ ♟
+6 . . . ♟ . . . .
+5 . . . . ♙ . . .
+4 . . . . ♙ . . .
+3 . . ♞ . . ♕ . .
+2 ♙ ♙ ♙ . . ♙ ♙ ♙
+1 ♖ ♘ ♔ . . . . ♖
+
+Recapturing with the queen
+
+
+  A B C D E F G H
+8 ♜ ♕ . ♛ . . ♞ ♜
+7 . ♟ ♟ ♚ . ♟ ♟ ♟
+6 . . . ♟ . . . .
+5 . . . . ♙ . . .
+4 . . . . ♙ . . .
+3 . . ♞ . . . . .
+2 ♙ ♙ ♙ . . ♙ ♙ ♙
+1 ♖ ♘ ♔ . . . . ♖
+
+Check, forcing a defensive move
+
+
+  A B C D E F G H
+8 ♜ ♚ . ♛ . . ♞ ♜
 7 . ♟ ♟ . . ♟ ♟ ♟
-6 . . ♕ . . . . .
-5 ♟ . . . ♙ . . .
-4 ♙ . . . . . . .
-3 ♗ . . . . . . ♙
-2 . . . . . ♙ ♙ .
-1 ♖ . . . . . ♔ ♖
+6 . . . ♟ . . . .
+5 . . . . ♙ . . .
+4 . . . . ♙ . . .
+3 . . ♞ . . . . .
+2 ♙ ♙ ♙ . . ♙ ♙ ♙
+1 ♖ ♘ ♔ . . . . ♖
 
-positionnement stratégique du pion
+Sacrificing the queen to deflect the defender
 
 
   A B C D E F G H
-8 . . . . . . ♚ ♜
+8 ♜ ♚ . . . . ♞ ♜
 7 . ♟ ♟ . . ♟ ♟ ♟
-6 . . ♕ . ♜ . . .
-5 ♟ . . . ♙ . . .
-4 ♙ . . . . . . .
-3 ♗ . . . . . . ♙
-2 . . . . . ♙ ♙ .
-1 ♖ . . . . . ♔ ♖
+6 . . . ♟ . . . .
+5 . . . . ♙ . . .
+4 . . . . ♙ . . .
+3 . . ♞ . . . . .
+2 ♙ ♙ ♙ . . ♙ ♙ ♙
+1 ♖ ♘ ♔ . . . . ♖
 
-tour menace sur la 6ème rangée
-
-
-  A B C D E F G H
-8 . . . . . . ♚ ♜
-7 . ♟ ♟ . . ♟ ♟ ♟
-6 . . ♕ . ♜ . . .
-5 ♟ . ♗ . ♙ . . .
-4 ♙ . . . . . . .
-3 . . . . . . . ♙
-2 . . . . . ♙ ♙ .
-1 ♖ . . . . . ♔ ♖
-
-le fou contrôle les cases noires
-
-
-  A B C D E F G H
-8 . . . . . . ♚ ♜
-7 . ♟ ♟ . . . ♟ ♟
-6 . . ♕ . ♜ . . .
-5 ♟ . ♗ . ♙ ♟ . .
-4 ♙ . . . . . . .
-3 . . . . . . . ♙
-2 . . . . . ♙ ♙ .
-1 ♖ . . . . . ♔ ♖
-
-avance le pion pour libérer la tour
-
-
-  A B C D E F G H
-8 . . . . . . ♚ ♜
-7 . ♟ ♟ . . . ♟ ♟
-6 . . ♕ ♗ ♜ . . .
-5 ♟ . . . ♙ ♟ . .
-4 ♙ . . . . . . .
-3 . . . . . . . ♙
-2 . . . . . ♙ ♙ .
-1 ♖ . . . . . ♔ ♖
-
-fou menace la tour et contrôle la diagonale
-
-
-  A B C D E F G H
-8 . . . . . . ♚ ♜
-7 . ♟ ♟ . . . ♟ ♟
-6 . . ♕ ♜ . . . .
-5 ♟ . . . ♙ ♟ . .
-4 ♙ . . . . . . .
-3 . . . . . . . ♙
-2 . . . . . ♙ ♙ .
-1 ♖ . . . . . ♔ ♖
-
-capture du fou
-
-
-  A B C D E F G H
-8 . . . . . . ♚ ♜
-7 . ♟ ♟ . . . ♟ ♟
-6 . . ♕ . . . . .
-5 ♟ . . . ♙ ♟ . .
-4 ♙ . . . . . . .
-3 . . . . . . . ♙
-2 . . . . . ♙ ♙ .
-1 ♖ . . . . . ♔ ♖
-
-capture de la tour
-
-
-  A B C D E F G H
-8 . . . . . . ♚ ♜
-7 . ♟ ♟ . . . . ♟
-6 . . ♕ . . . ♟ .
-5 ♟ . . . ♙ ♟ . .
-4 ♙ . . . . . . .
-3 . . . . . . . ♙
-2 . . . . . ♙ ♙ .
-1 ♖ . . . . . ♔ ♖
-
-crée une structure défensive
-
-
-  A B C D E F G H
-8 . . . . . . ♚ ♜
-7 . ♟ . . . . . ♟
-6 . . ♕ . . . ♟ .
-5 ♟ . . . ♙ ♟ . .
-4 ♙ . . . . . . .
-3 . . . . . . . ♙
-2 . . . . . ♙ ♙ .
-1 ♖ . . . . . ♔ ♖
-
-capture, menace la tour en a8
-
-
-  A B C D E F G H
-8 . . . . . . . ♜
-7 . ♟ . . . ♚ . ♟
-6 . . ♕ . . . ♟ .
-5 ♟ . . . ♙ ♟ . .
-4 ♙ . . . . . . .
-3 . . . . . . . ♙
-2 . . . . . ♙ ♙ .
-1 ♖ . . . . . ♔ ♖
-
-le roi noir s'active pour protéger
-
-
-  A B C D E F G H
-8 . ♗ . . . . . ♜
-7 . ♟ . . . ♚ . ♟
-6 . . ♕ . . . ♟ .
-5 ♟ . . . ♙ ♟ . .
-4 ♙ . . . . . . .
-3 . . . . . . . ♙
-2 . . . . . ♙ ♙ .
-1 ♖ . . . . . ♔ ♖
-
-promotion en dame
-
-
-  A B C D E F G H
-8 . ♗ . . . . . ♜
-7 . ♟ . . . . . ♟
-6 . . ♕ . ♚ . ♟ .
-5 ♟ . . . ♙ ♟ . .
-4 ♙ . . . . . . .
-3 . . . . . . . ♙
-2 . . . . . ♙ ♙ .
-1 ♖ . . . . . ♔ ♖
-
-le roi s'approche pour tenter de bloquer
-
-
-  A B C D E F G H
-8 . . . . . . . ♜
-7 . ♟ . . . . . ♟
-6 . ♗ ♕ . ♚ . ♟ .
-5 ♟ . . . ♙ ♟ . .
-4 ♙ . . . . . . .
-3 . . . . . . . ♙
-2 . . . . . ♙ ♙ .
-1 ♖ . . . . . ♔ ♖
-
-échec avec la dame
-
-
-  A B C D E F G H
-8 . . . . . . . ♜
-7 . ♟ . . . ♚ . ♟
-6 . ♗ ♕ . . . ♟ .
-5 ♟ . . . ♙ ♟ . .
-4 ♙ . . . . . . .
-3 . . . . . . . ♙
-2 . . . . . ♙ ♙ .
-1 ♖ . . . . . ♔ ♖
-
-le roi s'écarte
-
-
-  A B C D E F G H
-8 . . . . . . . ♜
-7 . ♟ . . . ♚ . ♟
-6 . . ♕ . . ♗ ♟ .
-5 ♟ . . . ♙ ♟ . .
-4 ♙ . . . . . . .
-3 . . . . . . . ♙
-2 . . . . . ♙ ♙ .
-1 ♖ . . . . . ♔ ♖
-
-échec
-
-
-  A B C D E F G H
-8 . . . . . . ♚ ♜
-7 . ♟ . . . . . ♟
-6 . . ♕ . . ♗ ♟ .
-5 ♟ . . . ♙ ♟ . .
-4 ♙ . . . . . . .
-3 . . . . . . . ♙
-2 . . . . . ♙ ♙ .
-1 ♖ . . . . . ♔ ♖
-
-le roi fuit
-
-
-  A B C D E F G H
-8 . . . . . ♗ ♚ ♜
-7 . ♟ . . . . . ♟
-6 . . ♕ . . . ♟ .
-5 ♟ . . . ♙ ♟ . .
-4 ♙ . . . . . . .
-3 . . . . . . . ♙
-2 . . . . . ♙ ♙ .
-1 ♖ . . . . . ♔ ♖
-
-mat avec la dame
+Checkmate using the rook
 ~~~
 
 </details>
