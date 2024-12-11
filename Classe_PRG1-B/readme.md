@@ -406,6 +406,7 @@ Tutorat et Appui PRG1
 
 ### Jeudi
 - **Cours**
+    - [Révision chap 11](https://eval.iict-heig-vd.in/users/evaluations/cm4js4aac07u8jdfqzlq5rrsu)
     - chap 12 => slide ...
 
 - **Labo**

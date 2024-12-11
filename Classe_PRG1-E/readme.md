@@ -403,6 +403,7 @@ Tutorat et Appui PRG1
 
 ### Jeudi
 - **Cours**
+    - [Révision chao 11](https://eval.iict-heig-vd.in/users/evaluations/cm4jsbsz907wyjdfqbmwwiv73)
     - chap 12 => slide ...
 
 ### Vendredi
