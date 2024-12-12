@@ -404,7 +404,8 @@ Tutorat et Appui PRG1
 ### Jeudi
 - **Cours**
     - [Révision chao 11](https://eval.iict-heig-vd.in/users/evaluations/cm4jsbsz907wyjdfqbmwwiv73)
-    - chap 12 => slide ...
+    - exercices chap 11 à terminer
+    - chap 12 => slide 14
 
 ### Vendredi
 - **Labo**
@@ -415,15 +416,18 @@ Tutorat et Appui PRG1
 
 ### Lundi
 - **Cours**
+    - chap 12 => slide ...
 - **Labo**
     - [labo 09](https://classroom.github.com/a/2ht9Z0ti)
 
 ### Mardi
 - **Cours**
+    - chap 12 => slide ...
 - **Labo**
 
 ### Jeudi
 - **Cours**
+    - chap 12 => slide ...
 
 ### Vendredi
 - **Labo**
