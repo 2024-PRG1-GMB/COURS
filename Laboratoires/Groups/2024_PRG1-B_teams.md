@@ -2,13 +2,13 @@
 
 |No|Member|Member|
 |:---|:---|:---|
-|1|Thiébaud Pierre|Gorgerat Julien|
-|2|Saber Jonathan|Kiala Binga Christnovie|
-|3|Derleth Martin|Correia Da Silva Maikol|
-|4|Rista Grégoire|Pereira Gabriel|
-|5|Aridhi Nejem|Mauroux Audrey|
-|6|Sugrañes Santiago|Weyermann Maxence|
-|7|Suboonsan Chris|Monsur Sadman|
-|8|Tivollier Nelson|Sahli Bilel|
-|9|Bensaci Théo|Mohi Uddin Samin|
-|10|Giordani Victor|
+|1|Giordani Victor|Rista Grégoire|
+|2|Bensaci Théo|Sugrañes Santiago|
+|3|Thiébaud Pierre|Pereira Gabriel|
+|4|Correia Da Silva Maikol|Derleth Martin|
+|5|Mohi Uddin Samin|Gorgerat Julien|
+|6|Sahli Bilel|Tivollier Nelson|
+|7|Weyermann Maxence|Monsur Sadman|
+|8|Aridhi Nejem|Mauroux Audrey|
+|9|Saber Jonathan|Suboonsan Chris|
+|10|Kiala Binga Christnovie|
