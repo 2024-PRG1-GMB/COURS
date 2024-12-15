@@ -422,24 +422,30 @@ Tutorat et Appui PRG1
 
 ### Mardi
 - **Cours**
+    - 12h00 fondue - rendez-vous à la cafet (1er étage)
     - chap 12 => slide ...
+
 - **Labo**
+    - exercices chap 12
 
 ### Jeudi
 - **Cours**
-    - chap 12 => slide ...
+    - chap 12 => slide fin
+    - exercices chap 12
 
-### Vendredi
+### Vendredi (probablement congé)
 - **Labo**
+    - exercices chap 12
+    - Révision chap 11 (GMB TODO, annonce par MS-Teams dès que dispo)
 
 ---
 > ## <a name="semaine_14"></a>SEMAINE 14 - 06.01.2025 - 10.01.2025 [⬆︎](readme.md#start)
 
 ### Lundi
-- **Cours**
+- **Cours G02 13h15**
+    - TE no 3 (chap 10 à 12 compris)
 
 - **Labo**
-    - TE no 3
 
 ### Mardi
 - **Cours**
