@@ -1,0 +1,18 @@
+1,Bader Gabriel
+2,Bardet Corentin
+3,Berney Dylan
+4,Billault Martin
+5,Bonny Aymeric
+6,Costa Dos Santos Mauro
+7,dos Santos Samuel
+8,Feuzet Kitio Russelle
+9,Ghaemmaghami Théo
+10,Ischi Marc
+11,Kilcher Théo
+12,Léger Fabien
+13,Madau Mirko Alexandre
+14,Marchand Ethan
+15,Miehlbradt Garis
+16,Sadiku Enis
+17,Sese Hénok
+18,Tchinda Feze Cedrick Vanel
