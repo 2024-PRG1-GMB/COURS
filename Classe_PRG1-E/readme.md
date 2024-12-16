@@ -416,14 +416,14 @@ Tutorat et Appui PRG1
 
 ### Lundi
 - **Cours**
-    - chap 12 => slide ...
+    - chap 12 => slide 14
 - **Labo**
     - [labo 09](https://classroom.github.com/a/2ht9Z0ti)
 
 ### Mardi
 - **Cours**
     - 12h00 fondue - rendez-vous à la cafet (1er étage)
-    - chap 12 => slide ...
+    - chap 12 => slide 26
 
 - **Labo**
     - exercices chap 12
