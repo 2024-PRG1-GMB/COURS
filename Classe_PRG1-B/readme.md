@@ -431,7 +431,8 @@ Tutorat et Appui PRG1
 
 ### Mardi
 - **Cours**
-    - chap 12 => slide ...
+    - chap 12 => slide 33
+    - exercices chap 12 : => 03-04
 
 ### Jeudi
 - **Cours**
