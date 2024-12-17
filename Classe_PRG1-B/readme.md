@@ -445,7 +445,7 @@ Tutorat et Appui PRG1
 ### Vendredi (probablement congé)
 - **Labo**
     - revision chap 10, 11 et 12
-    - Révision chap 11 (GMB TODO, annonce par MS-Teams dès que dispo)
+    - [Révision chap 12](https://eval.iict-heig-vd.in/users/evaluations/cm4sri8vq0b2kjdfq914glh9h)
 
 ---
 > ## <a name="semaine_14"></a>SEMAINE 14 - 06.01.2025 - 10.01.2025 [⬆︎](readme.md#start)
