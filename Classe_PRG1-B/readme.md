@@ -422,7 +422,8 @@ Tutorat et Appui PRG1
 
 ### Lundi
 - **Cours**
-    - chap 12 => slide ...
+    - chap 12 => slide 17
+    - exercices chap 12 : 01-01 à 02-03 fait et corrigé en classe
 
 - **Labo**
     - 12h00 fondue - rendez-vous à la cafet (1er étage)
