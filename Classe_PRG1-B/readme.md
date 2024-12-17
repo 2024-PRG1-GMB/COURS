@@ -440,10 +440,11 @@ Tutorat et Appui PRG1
 
 - **Labo**
     - exercices chap 12
+    - revision chap 10, 11 et 12
 
 ### Vendredi (probablement congé)
 - **Labo**
-    - exercices chap 12
+    - revision chap 10, 11 et 12
     - Révision chap 11 (GMB TODO, annonce par MS-Teams dès que dispo)
 
 ---

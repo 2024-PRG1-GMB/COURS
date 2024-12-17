@@ -423,7 +423,7 @@ Tutorat et Appui PRG1
 ### Mardi
 - **Cours**
     - 12h00 fondue - rendez-vous à la cafet (1er étage)
-    - chap 12 => slide 26
+    - chap 12 => slide 36
 
 - **Labo**
     - exercices chap 12
@@ -431,11 +431,11 @@ Tutorat et Appui PRG1
 ### Jeudi
 - **Cours**
     - chap 12 => slide fin
-    - exercices chap 12
+    - revision chap 10, 11 et 12
 
 ### Vendredi (probablement congé)
 - **Labo**
-    - exercices chap 12
+    - revision chap 10, 11 et 12
     - Révision chap 11 (GMB TODO, annonce par MS-Teams dès que dispo)
 
 ---
