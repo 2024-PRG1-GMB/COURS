@@ -53,8 +53,8 @@ La classe `Container<T, n>` doit implémenter à minima les propriétés et mét
 | `pop_back()`             | suppression de la valeur en queue (avant `Last`)  |      |
 | `at(pos)`                | accès à une valeur en position logique `pos`      | (3)  |
 | `size()`                 | retourne le nombre de valeurs stockées            |      |
-| `full()`                 | retourne `false` si plein, sinon `true`           |      |
-| `empty()`                | retourne `false` si vide, sinon `true`            |      |
+| `full()`                 | retourne `true` si plein, sinon `false`           |      |
+| `empty()`                | retourne `true` si vide, sinon `false`            |      |
 | `begin()`                | itérateur sur la première valeur    (accès RW)    | (4)  |
 | `end()`                  | itérateur après la dernière valeur  (accès RW)    | (4)  |
 | `cbegin()`               | itérateur sur la première valeur    (accès RO)    | (4)  |
