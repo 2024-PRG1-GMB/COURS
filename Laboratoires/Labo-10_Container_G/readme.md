@@ -33,32 +33,32 @@ Cette structure peut être représentée comme suit
 
 La classe `Container<T, n>` doit implémenter à minima les propriétés et méthodes ci-après
 
-| Méthode                  | Description                                       | Note | 
-|--------------------------|---------------------------------------------------|:----:|
-| `Container()`            | constructeur sans paramètre                       |      |
-| `Container(first, last)` | constructeur sur la base de 2 itérateurs          | (1)  |
-| `Container(container)`   | constructeur par copie                            |      |
-| `operator =`             | opérateur d'affectation                           | (2)  |
-| `operator <`             | comparaison lexicographique `lhs <  rhs`          | (2)  |
-| `operator >`             | comparaison lexicographique `lhs >  rhs`          | (2)  |
-| `operator <=`            | comparaison lexicographique `lhs <= rhs`          | (2)  |
-| `operator >=`            | comparaison lexicographique `lhs >= rhs`          | (2)  |
-| `operator ==`            | comparaison lexicographique `lhs == rhs`          | (2)  |
-| `operator !=`            | comparaison lexicographique `lhs != rhs`          | (2)  |
-| `front()`                | retourne la valeur en tête        (à `First`)     |      |
-| `back()`                 | retourne la valeur en queue       (avant `Last`)  |      |
-| `push_front(val)`        | ajout d'une valeur en tête        (avant `First`) |      |
-| `push_back(val)`         | ajout d'une valeur en queue       (à `Last`)      |      |
-| `pop_front()`            | suppression de la valeur en tête  (à `First`)     |      |
-| `pop_back()`             | suppression de la valeur en queue (avant `Last`)  |      |
-| `at(pos)`                | accès à une valeur en position logique `pos`      | (3)  |
-| `size()`                 | retourne le nombre de valeurs stockées            |      |
-| `full()`                 | retourne `true` si plein, sinon `false`           |      |
-| `empty()`                | retourne `true` si vide, sinon `false`            |      |
-| `begin()`                | itérateur sur la première valeur    (accès RW)    | (4)  |
-| `end()`                  | itérateur après la dernière valeur  (accès RW)    | (4)  |
-| `cbegin()`               | itérateur sur la première valeur    (accès RO)    | (4)  |
-| `cend()`                 | itérateur après la dernière valeur  (accès RO)    | (4)  |
+| Méthode                  | Description                                              | Note | 
+|--------------------------|----------------------------------------------------------|:----:|
+| `Container()`            | constructeur sans paramètre                              |      |
+| `Container(first, last)` | constructeur sur la base des itérateurs `first`et `last` | (1)  |
+| `Container(container)`   | constructeur par copie                                   |      |
+| `operator =`             | opérateur d'affectation                                  | (2)  |
+| `operator <`             | comparaison lexicographique `lhs <  rhs`                 | (2)  |
+| `operator >`             | comparaison lexicographique `lhs >  rhs`                 | (2)  |
+| `operator <=`            | comparaison lexicographique `lhs <= rhs`                 | (2)  |
+| `operator >=`            | comparaison lexicographique `lhs >= rhs`                 | (2)  |
+| `operator ==`            | comparaison lexicographique `lhs == rhs`                 | (2)  |
+| `operator !=`            | comparaison lexicographique `lhs != rhs`                 | (2)  |
+| `front()`                | retourne la valeur en tête        (à `First`)            |      |
+| `back()`                 | retourne la valeur en queue       (avant `Last`)         |      |
+| `push_front(val)`        | ajout d'une valeur `val` en tête  (avant `First`)        |      |
+| `push_back(val)`         | ajout d'une valeur `val` en queue (à `Last`)             |      |
+| `pop_front()`            | suppression de la valeur en tête  (à `First`)            |      |
+| `pop_back()`             | suppression de la valeur en queue (avant `Last`)         |      |
+| `at(pos)`                | accès à une valeur en position logique `pos`             | (3)  |
+| `size()`                 | retourne le nombre de valeurs stockées                   |      |
+| `full()`                 | retourne `true` si plein, sinon `false`                  |      |
+| `empty()`                | retourne `true` si vide, sinon `false`                   |      |
+| `begin()`                | itérateur sur la première valeur    (accès RW)           | (4)  |
+| `end()`                  | itérateur après la dernière valeur  (accès RW)           | (4)  |
+| `cbegin()`               | itérateur sur la première valeur    (accès RO)           | (4)  |
+| `cend()`                 | itérateur après la dernière valeur  (accès RO)           | (4)  |
 
 
 ### Complément
