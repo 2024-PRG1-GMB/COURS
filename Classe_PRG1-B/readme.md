@@ -67,7 +67,7 @@ Tutorat et Appui PRG1
 
 ### Vendredi
 - **Labo**
-    - [Labo_01 - CLion](https://github.com/2024-PRG1-GMB/COURS/tree/main/Laboratoires/01_CLion)
+    - [Labo-01 - CLion](https://github.com/2024-PRG1-GMB/COURS/tree/main/Laboratoires/01_CLion)
     - exercices pour lundi
         - chap 01 : 02-01, 03-01, 04-01,  04-02,  04-03
         - chap 02 : 01-01, 01-02, 02-01
@@ -85,7 +85,7 @@ Tutorat et Appui PRG1
     - démo en classe
 
 - **Labo**
-    - [Labo_02 - Wallis](https://github.com/2024-PRG1-GMB/COURS/tree/main/Laboratoires/02_Wallis_pseudo)
+    - [Labo-02 - Wallis](https://github.com/2024-PRG1-GMB/COURS/tree/main/Laboratoires/02_Wallis_pseudo)
 
 ### Mardi
 - **Cours**
@@ -411,11 +411,11 @@ Tutorat et Appui PRG1
     - chap 12 => slide ...
 
 - **Labo**
-    - [labo 09](https://classroom.github.com/a/wqDY7O2F)
+    - [Labo-09](https://classroom.github.com/a/wqDY7O2F)
 
 ### Vendredi
 - **Labo**
-    - [labo 09](https://classroom.github.com/a/wqDY7O2F)
+    - [Labo-09](https://classroom.github.com/a/wqDY7O2F)
 
 ---
 > ## <a name="semaine_13"></a>SEMAINE 13 - 16.12.2024 - 20.12.2024 [⬆︎](readme.md#start)
@@ -427,7 +427,7 @@ Tutorat et Appui PRG1
 
 - **Labo**
     - 12h00 fondue - rendez-vous à la cafet (1er étage)
-    - [labo 09](https://classroom.github.com/a/wqDY7O2F)
+    - [Labo-09](https://classroom.github.com/a/wqDY7O2F)
 
 ### Mardi
 - **Cours**
@@ -462,9 +462,11 @@ Tutorat et Appui PRG1
 ### Jeudi
 - **Cours**
 - **Labo**
+    - [Labo-10 Container G avec itérateurs](https://classroom.github.com/a/q7pxNFCR)
 
 ### Vendredi
 - **Labo**
+    - [Labo-10 Container G avec itérateurs](https://classroom.github.com/a/q7pxNFCR)
 
 ---
 > ## <a name="semaine_15"></a>SEMAINE 15 - 13.01.2025 - 17.01.2025 [⬆︎](readme.md#start)
@@ -472,6 +474,7 @@ Tutorat et Appui PRG1
 ### Lundi
 - **Cours**
 - **Labo**
+    - [Labo-10 Container G avec itérateurs](https://classroom.github.com/a/q7pxNFCR)
 
 ### Mardi
 - **Cours**
@@ -479,6 +482,7 @@ Tutorat et Appui PRG1
 ### Jeudi
 - **Cours**
 - **Labo**
+    - [Labo-10 Container G avec itérateurs](https://classroom.github.com/a/q7pxNFCR)
 
 ### Vendredi
 - **Labo**

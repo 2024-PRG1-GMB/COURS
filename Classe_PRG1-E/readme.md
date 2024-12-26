@@ -95,7 +95,7 @@ Tutorat et Appui PRG1
     - démo en classe
     
 - **Labo**
-    - [Labo_02 - Wallis](https://github.com/2024-PRG1-GMB/COURS/tree/main/Laboratoires/02_Wallis_pseudo)
+    - [Labo-02 - Wallis](https://github.com/2024-PRG1-GMB/COURS/tree/main/Laboratoires/02_Wallis_pseudo)
 
 ### Jeudi
 - **Labo**
@@ -399,7 +399,7 @@ Tutorat et Appui PRG1
     - exercices chap 11 à terminer
 
 - **Labo**
-    - [labo 09](https://classroom.github.com/a/2ht9Z0ti)
+    - [Labo-09](https://classroom.github.com/a/2ht9Z0ti)
 
 ### Jeudi
 - **Cours**
@@ -409,7 +409,7 @@ Tutorat et Appui PRG1
 
 ### Vendredi
 - **Labo**
-    - [labo 09](https://classroom.github.com/a/2ht9Z0ti)
+    - [Labo-09](https://classroom.github.com/a/2ht9Z0ti)
 
 ---
 > ## <a name="semaine_13"></a>SEMAINE 13 - 16.12.2024 - 20.12.2024 [⬆︎](readme.md#start)
@@ -418,7 +418,7 @@ Tutorat et Appui PRG1
 - **Cours**
     - chap 12 => slide 14
 - **Labo**
-    - [labo 09](https://classroom.github.com/a/2ht9Z0ti)
+    - [Labo-09](https://classroom.github.com/a/2ht9Z0ti)
 
 ### Mardi
 - **Cours**
@@ -446,16 +446,18 @@ Tutorat et Appui PRG1
     - TE no 3 (chap 10 à 12 compris)
 
 - **Labo**
-
+    - [Labo-10 Container G avec itérateurs](https://classroom.github.com/a/AgbdKQPV)
 ### Mardi
 - **Cours**
 - **Labo**
+    - [Labo-10 Container G avec itérateurs](https://classroom.github.com/a/AgbdKQPV)
 
 ### Jeudi
 - **Cours**
 
 ### Vendredi
 - **Labo**
+    - [Labo-10 Container G avec itérateurs](https://classroom.github.com/a/AgbdKQPV)
 
 ---
 > ## <a name="semaine_15"></a>SEMAINE 15 - 13.01.2025 - 17.01.2025 [⬆︎](readme.md#start)
@@ -463,6 +465,7 @@ Tutorat et Appui PRG1
 ### Lundi
 - **Cours**
 - **Labo**
+    - [Labo-10 Container G avec itérateurs](https://classroom.github.com/a/AgbdKQPV)
 
 ### Mardi
 - **Cours**
