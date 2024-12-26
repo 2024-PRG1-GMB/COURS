@@ -40,6 +40,22 @@ int main() {
    cout << endl;
 
    cout << "-------------------------------------" << endl;
+   cout << "Container<T, n>::back()"               << endl;
+   cout << "-------------------------------------" << endl;
+   c3.show_content();
+   c3.back() = 8;
+   c3.show_content();
+   c3.back() = 3;
+
+   cout << "-------------------------------------" << endl;
+   cout << "Container<T, n>::front()"              << endl;
+   cout << "-------------------------------------" << endl;
+   c3.show_content();
+   c3.front() = 8;
+   c3.show_content();
+   c3.front() = 3;
+
+   cout << "-------------------------------------" << endl;
    cout << "Container<T, n>::push_back()"          << endl;
    cout << "-------------------------------------" << endl;
    Container<char, 4> c4;

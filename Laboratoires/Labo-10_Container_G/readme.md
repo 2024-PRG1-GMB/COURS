@@ -33,30 +33,32 @@ Cette structure peut être représentée comme suit
 
 La classe `Container<T, n>` doit implémenter à minima les propriétés et méthodes ci-après
 
-| Méthode                 | Description                                     | Note  | 
-|-------------------------|-------------------------------------------------|:-----:|
-| `Container()`           | constructeur sans paramètre                     |       |
-| `Container(first, last)`| constructeur sur la base de 2 itérateurs        |  (1)  |
-| `Container(container)`   | constructeur par copie                            |       |
-| `operator =`             | opérateur d'affectation                           |  (2)  |
-| `operator <`             | comparaison lexicographique `lhs <  rhs`          |  (2)  |
-| `operator >`             | comparaison lexicographique `lhs >  rhs`          |  (2)  |
-| `operator <=`            | comparaison lexicographique `lhs <= rhs`          |  (2)  |
-| `operator >=`            | comparaison lexicographique `lhs >= rhs`          |  (2)  |
-| `operator ==`            | comparaison lexicographique `lhs == rhs`          |  (2)  |
-| `operator !=`            | comparaison lexicographique `lhs != rhs`          |  (2)  |
-| `push_front(val)`        | ajout d'une valeur en tête        (avant `First`) |       |
-| `push_back(val)`         | ajout d'une valeur en queue       (à `Last`)      |       |
-| `pop_front()`            | suppression d'une valeur en tête  (à `First`)     |       |
-| `pop_back()`             | suppression d'une valeur en queue (avant `Last`)  |       |
-| `at(pos)`                | accès à une valeur en position logique `pos`      |  (3)  |
-| `size()`                 | retourne le nombre de valeurs stockées            |       |
-| `full()`                 | retourne `false` si plein, sinon `true`           |       |
-| `empty()`                | retourne `false` si vide, sinon `true`            |       |
-| `begin()`                | itérateur sur la première valeur    (accès RW)    |  (4)  |
-| `end()`                  | itérateur après la dernière valeur  (accès RW)    |  (4)  |
-| `cbegin()`               | itérateur sur la première valeur    (accès RO)    |  (4)  |
-| `cend()`                 | itérateur après la dernière valeur  (accès RO)    |  (4)  |
+| Méthode                  | Description                                       | Note | 
+|--------------------------|---------------------------------------------------|:----:|
+| `Container()`            | constructeur sans paramètre                       |      |
+| `Container(first, last)` | constructeur sur la base de 2 itérateurs          | (1)  |
+| `Container(container)`   | constructeur par copie                            |      |
+| `operator =`             | opérateur d'affectation                           | (2)  |
+| `operator <`             | comparaison lexicographique `lhs <  rhs`          | (2)  |
+| `operator >`             | comparaison lexicographique `lhs >  rhs`          | (2)  |
+| `operator <=`            | comparaison lexicographique `lhs <= rhs`          | (2)  |
+| `operator >=`            | comparaison lexicographique `lhs >= rhs`          | (2)  |
+| `operator ==`            | comparaison lexicographique `lhs == rhs`          | (2)  |
+| `operator !=`            | comparaison lexicographique `lhs != rhs`          | (2)  |
+| `front()`                | retourne la valeur en tête        (à `First`)     |      |
+| `back()`                 | retourne la valeur en queue       (avant `Last`)  |      |
+| `push_front(val)`        | ajout d'une valeur en tête        (avant `First`) |      |
+| `push_back(val)`         | ajout d'une valeur en queue       (à `Last`)      |      |
+| `pop_front()`            | suppression de la valeur en tête  (à `First`)     |      |
+| `pop_back()`             | suppression de la valeur en queue (avant `Last`)  |      |
+| `at(pos)`                | accès à une valeur en position logique `pos`      | (3)  |
+| `size()`                 | retourne le nombre de valeurs stockées            |      |
+| `full()`                 | retourne `false` si plein, sinon `true`           |      |
+| `empty()`                | retourne `false` si vide, sinon `true`            |      |
+| `begin()`                | itérateur sur la première valeur    (accès RW)    | (4)  |
+| `end()`                  | itérateur après la dernière valeur  (accès RW)    | (4)  |
+| `cbegin()`               | itérateur sur la première valeur    (accès RO)    | (4)  |
+| `cend()`                 | itérateur après la dernière valeur  (accès RO)    | (4)  |
 
 
 ### Complément
@@ -118,6 +120,22 @@ int main() {
    c3.show_content();
    cout << c3 << endl;
    cout << endl;
+
+   cout << "-------------------------------------" << endl;
+   cout << "Container<T, n>::back()"               << endl;
+   cout << "-------------------------------------" << endl;
+   c3.show_content();
+   c3.back() = 8;
+   c3.show_content();
+   c3.back() = 3;
+
+   cout << "-------------------------------------" << endl;
+   cout << "Container<T, n>::front()"              << endl;
+   cout << "-------------------------------------" << endl;
+   c3.show_content();
+   c3.front() = 8;
+   c3.show_content();
+   c3.front() = 3;
 
    cout << "-------------------------------------" << endl;
    cout << "Container<T, n>::push_back()"          << endl;
@@ -396,6 +414,32 @@ last      : 3
 [1, 2, 3]
 
 -------------------------------------
+Container<T, n>::back()
+-------------------------------------
+ 0 1 2 3 4 5 6 7 8 9
+ 1 2 3 ? ? ? ? ? ? ?
+ ^ First
+       ^ Last
+
+ 0 1 2 3 4 5 6 7 8 9
+ 1 2 8 ? ? ? ? ? ? ?
+ ^ First
+       ^ Last
+
+-------------------------------------
+Container<T, n>::front()
+-------------------------------------
+ 0 1 2 3 4 5 6 7 8 9
+ 1 2 3 ? ? ? ? ? ? ?
+ ^ First
+       ^ Last
+
+ 0 1 2 3 4 5 6 7 8 9
+ 8 2 3 ? ? ? ? ? ? ?
+ ^ First
+       ^ Last
+
+-------------------------------------
 Container<T, n>::push_back()
 -------------------------------------
  0 1 2 3
@@ -456,7 +500,7 @@ Container<T, n>::at(..)
  ^ First
      ^ Last
 
-c8.at(1)  : b
+c8.at(1) : b
 c8.at(1) = 'G';
 
  0 1 2 3
@@ -465,31 +509,31 @@ c8.at(1) = 'G';
      ^ Last
 
 [a, G]
-c8.at(2) : EXCEPTION Container<T, n>::at
+c8.at(2)  : EXCEPTION Container<T, n>::at
 
 -------------------------------------
 Container<T, n>::iterator
 -------------------------------------
  0 1 2 3 4 5 6 7 8 9
- 1 2 3 ? ? ? ? ? ? ?
+ 3 2 3 ? ? ? ? ? ? ?
  ^ First
        ^ Last
 
-[1, 2, 3]
+[3, 2, 3]
 
-*c3.begin() : 1
+*c3.begin() : 3
 
-1 2 3 
+3 2 3 
 
 -------------------------------------
 Container<T, n>::operator << (..)
 -------------------------------------
  0 1 2 3 4 5 6 7 8 9
- 1 2 3 ? ? ? ? ? ? ?
+ 3 2 3 ? ? ? ? ? ? ?
  ^ First
        ^ Last
 
-[1, 2, 3]
+[3, 2, 3]
 
 -------------------------------------
 Container<T, n>::operator == (..)
