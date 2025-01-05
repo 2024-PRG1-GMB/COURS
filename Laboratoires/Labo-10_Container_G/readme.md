@@ -286,51 +286,51 @@ int main() {
    Container<int, 5> c113;
    c113.push_back(1).push_back(1).push_back(3);
 
-   cout << c_123 <<    " == " << c123 << "  "    << boolalpha << (c_123 == c123) << endl;
-   cout << c123  <<    " == " << c12  << "     " << boolalpha << (c123  == c12 ) << endl;
-   cout << c12   << "    == " << c123 << "  "    << boolalpha << (c12   == c123) << endl;
-   cout << c123  <<    " == " << c113 << "  "    << boolalpha << (c123  == c113) << endl;
-   cout << c113  <<    " == " << c123 << "  "    << boolalpha << (c113  == c123) << endl;
+   cout << c_123 <<    " == " << c123 << "  "      << boolalpha << (c_123 == c123) << endl;
+   cout << c123  <<    " == " << c12  << "     "   << boolalpha << (c123  == c12 ) << endl;
+   cout << c12   << "    == " << c123 << "  "      << boolalpha << (c12   == c123) << endl;
+   cout << c123  <<    " == " << c113 << "  "      << boolalpha << (c123  == c113) << endl;
+   cout << c113  <<    " == " << c123 << "  "      << boolalpha << (c113  == c123) << endl;
    cout << endl;
 
    cout << "-------------------------------------" << endl;
    cout << "Container<T, n>::operator < (..)"      << endl;
    cout << "-------------------------------------" << endl;
-   cout << c_123 <<    " <  " << c123 << "  "    << boolalpha << (c_123 <  c123) << endl;
-   cout << c123  <<    " <  " << c12  << "     " << boolalpha << (c123  <  c12 ) << endl;
-   cout << c12   << "    <  " << c123 << "  "    << boolalpha << (c12   <  c123) << endl;
-   cout << c123  <<    " <  " << c113 << "  "    << boolalpha << (c123  <  c113) << endl;
-   cout << c113  <<    " <  " << c123 << "  "    << boolalpha << (c113  <  c123) << endl;
+   cout << c_123 <<    " <  " << c123 << "  "      << boolalpha << (c_123 <  c123) << endl;
+   cout << c123  <<    " <  " << c12  << "     "   << boolalpha << (c123  <  c12 ) << endl;
+   cout << c12   << "    <  " << c123 << "  "      << boolalpha << (c12   <  c123) << endl;
+   cout << c123  <<    " <  " << c113 << "  "      << boolalpha << (c123  <  c113) << endl;
+   cout << c113  <<    " <  " << c123 << "  "      << boolalpha << (c113  <  c123) << endl;
    cout << endl;
 
    cout << "-------------------------------------" << endl;
    cout << "Container<T, n>::operator > (..)"      << endl;
    cout << "-------------------------------------" << endl;
-   cout << c_123 <<    " >  " << c123 << "  "    << boolalpha << (c_123 >  c123) << endl;
-   cout << c123  <<    " >  " << c12  << "     " << boolalpha << (c123  >  c12 ) << endl;
-   cout << c12   << "    >  " << c123 << "  "    << boolalpha << (c12   >  c123) << endl;
-   cout << c123  <<    " >  " << c113 << "  "    << boolalpha << (c123  >  c113) << endl;
-   cout << c113  <<    " >  " << c123 << "  "    << boolalpha << (c113  >  c123) << endl;
+   cout << c_123 <<    " >  " << c123 << "  "      << boolalpha << (c_123 >  c123) << endl;
+   cout << c123  <<    " >  " << c12  << "     "   << boolalpha << (c123  >  c12 ) << endl;
+   cout << c12   << "    >  " << c123 << "  "      << boolalpha << (c12   >  c123) << endl;
+   cout << c123  <<    " >  " << c113 << "  "      << boolalpha << (c123  >  c113) << endl;
+   cout << c113  <<    " >  " << c123 << "  "      << boolalpha << (c113  >  c123) << endl;
    cout << endl;
 
    cout << "-------------------------------------" << endl;
    cout << "Container<T, n>::operator <= (..)"     << endl;
    cout << "-------------------------------------" << endl;
-   cout << c_123 <<    " <= " << c123 << "  "    << boolalpha << (c_123 <=  c123) << endl;
-   cout << c123  <<    " <= " << c12  << "     " << boolalpha << (c123  <=  c12 ) << endl;
-   cout << c12   << "    <= " << c123 << "  "    << boolalpha << (c12   <=  c123) << endl;
-   cout << c123  <<    " <= " << c113 << "  "    << boolalpha << (c123  <=  c113) << endl;
-   cout << c113  <<    " <= " << c123 << "  "    << boolalpha << (c113  <=  c123) << endl;
+   cout << c_123 <<    " <= " << c123 << "  "      << boolalpha << (c_123 <=  c123) << endl;
+   cout << c123  <<    " <= " << c12  << "     "   << boolalpha << (c123  <=  c12 ) << endl;
+   cout << c12   << "    <= " << c123 << "  "      << boolalpha << (c12   <=  c123) << endl;
+   cout << c123  <<    " <= " << c113 << "  "      << boolalpha << (c123  <=  c113) << endl;
+   cout << c113  <<    " <= " << c123 << "  "      << boolalpha << (c113  <=  c123) << endl;
    cout << endl;
 
    cout << "-------------------------------------" << endl;
    cout << "Container<T, n>::operator >= (..)"     << endl;
    cout << "-------------------------------------" << endl;
-   cout << c_123 <<    " >= " << c123 << "  "    << boolalpha << (c_123 >=  c123) << endl;
-   cout << c123  <<    " >= " << c12  << "     " << boolalpha << (c123  >=  c12 ) << endl;
-   cout << c12   << "    >= " << c123 << "  "    << boolalpha << (c12   >=  c123) << endl;
-   cout << c123  <<    " >= " << c113 << "  "    << boolalpha << (c123  >=  c113) << endl;
-   cout << c113  <<    " >= " << c123 << "  "    << boolalpha << (c113  >=  c123) << endl;
+   cout << c_123 <<    " >= " << c123 << "  "      << boolalpha << (c_123 >=  c123) << endl;
+   cout << c123  <<    " >= " << c12  << "     "   << boolalpha << (c123  >=  c12 ) << endl;
+   cout << c12   << "    >= " << c123 << "  "      << boolalpha << (c12   >=  c123) << endl;
+   cout << c123  <<    " >= " << c113 << "  "      << boolalpha << (c123  >=  c113) << endl;
+   cout << c113  <<    " >= " << c123 << "  "      << boolalpha << (c113  >=  c123) << endl;
    cout << endl;
 
    cout << "-------------------------------------" << endl;
