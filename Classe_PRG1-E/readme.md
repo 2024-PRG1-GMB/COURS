@@ -444,16 +444,22 @@ Tutorat et Appui PRG1
 ### Lundi
 - **Cours G02 13h15**
     - TE no 3 (chap 10 à 12 compris)
+        - part 1 (20') : théorie sur papier
+        - part 2 (70') : codes sur EVAL
 
 - **Labo**
-    - [Labo-10 Container G avec itérateurs](https://classroom.github.com/a/AgbdKQPV)
+    - chap 13 => slide
+
 ### Mardi
 - **Cours**
+    - chap 13 => slide
+
 - **Labo**
     - [Labo-10 Container G avec itérateurs](https://classroom.github.com/a/AgbdKQPV)
 
 ### Jeudi
 - **Cours**
+    - chap 13 => slide
 
 ### Vendredi
 - **Labo**
@@ -470,6 +476,7 @@ Tutorat et Appui PRG1
 ### Mardi
 - **Cours**
 - **Labo**
+    - [Labo-10 Container G avec itérateurs](https://classroom.github.com/a/AgbdKQPV)
 
 ### Jeudi
 - **Cours**
