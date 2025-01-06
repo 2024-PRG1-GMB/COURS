@@ -445,7 +445,7 @@ Tutorat et Appui PRG1
 - **Cours G02 13h15**
     - TE no 3 (chap 10 à 12 compris)
         - part 1 (20') : théorie sur papier
-        - part 2 (70') : codes sur EVAL
+        - part 2 (65') : codes sur EVAL
 
 - **Labo**
     - chap 13 => slide
