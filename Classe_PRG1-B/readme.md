@@ -452,7 +452,8 @@ Tutorat et Appui PRG1
 
 ### Lundi
 - **Cours**
-    - chap 13 => slide
+    - chap 13 => slide 24
+    - exercices 13-01-** à faire
 
 - **Labo**
     - TE no 3 (chap 10 à 12 compris)
