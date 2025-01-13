@@ -471,12 +471,17 @@ Tutorat et Appui PRG1
 > ## <a name="semaine_15"></a>SEMAINE 15 - 13.01.2025 - 17.01.2025 [⬆︎](readme.md#start)
 
 ### Lundi
-- **Cours**
+- **Cours G02 13h15**
+    - TE no 4 (=> 13 compris)
+
 - **Labo**
-    - [Labo-10 Container G avec itérateurs](https://classroom.github.com/a/AgbdKQPV)
+    - chap 14 => slide 26
+    - fait et corrigé exercice 14-03-01
 
 ### Mardi
 - **Cours**
+    - [Labo-10 Container G avec itérateurs](https://classroom.github.com/a/AgbdKQPV)
+
 - **Labo**
     - [Labo-10 Container G avec itérateurs](https://classroom.github.com/a/AgbdKQPV)
 

@@ -481,14 +481,19 @@ Tutorat et Appui PRG1
 
 ### Lundi
 - **Cours**
+    - chap 14 => slide 26
+    - fait et corrigé exercice 14-03-01
+
 - **Labo**
-    - [Labo-10 Container G avec itérateurs](https://classroom.github.com/a/q7pxNFCR)
+    - TE no 4 (=> 13 compris)
 
 ### Mardi
 - **Cours**
 
 ### Jeudi
 - **Cours**
+    - [Labo-10 Container G avec itérateurs](https://classroom.github.com/a/q7pxNFCR)
+
 - **Labo**
     - [Labo-10 Container G avec itérateurs](https://classroom.github.com/a/q7pxNFCR)
 
