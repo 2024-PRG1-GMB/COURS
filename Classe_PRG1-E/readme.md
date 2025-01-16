@@ -484,12 +484,14 @@ Tutorat et Appui PRG1
 
 - **Labo**
     - [Labo-10 Container G avec itérateurs](https://classroom.github.com/a/AgbdKQPV)
+    - à rendre jeudi 16 janvier 23h59
 
 ### Jeudi
 - **Cours**
 
 ### Vendredi
 - **Labo**
+    - rendu Labo-09
 
 ---
 > ## <a name="semaine_16"></a>SEMAINE 16 - 20.01.2025 - 24.01.2025 [⬆︎](readme.md#start)

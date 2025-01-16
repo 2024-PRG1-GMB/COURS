@@ -496,6 +496,7 @@ Tutorat et Appui PRG1
 
 - **Labo**
     - [Labo-10 Container G avec itérateurs](https://classroom.github.com/a/q7pxNFCR)
+    - à rendre vendredi 17 janvier 23h59
 
 ### Vendredi
 - **Labo**
