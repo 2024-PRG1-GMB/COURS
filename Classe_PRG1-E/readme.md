@@ -490,6 +490,7 @@ Tutorat et Appui PRG1
 - **Cours**
     - chap 14 => fin
     - exercices chap 14 à terminer
+    - [demo à étudier](https://github.com/gmbreguet/PRG1_GMB_DEMO/blob/main/14_Gestion_Erreurs/09_terminaison.cpp)
 
 ### Vendredi
 - **Labo**

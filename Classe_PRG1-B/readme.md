@@ -502,6 +502,7 @@ Tutorat et Appui PRG1
 
 ### Vendredi
 - **Labo**
+    - [demo à étudier](https://github.com/gmbreguet/PRG1_GMB_DEMO/blob/main/14_Gestion_Erreurs/09_terminaison.cpp)
 
 ---
 > ## <a name="semaine_16"></a>SEMAINE 16 - 20.01.2025 - 24.01.2025 [⬆︎](readme.md#start)
