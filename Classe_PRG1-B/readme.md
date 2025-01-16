@@ -489,6 +489,8 @@ Tutorat et Appui PRG1
 
 ### Mardi
 - **Cours**
+    - chap 14 => fin
+    - exercices chap 14 à terminer
 
 ### Jeudi
 - **Cours**
