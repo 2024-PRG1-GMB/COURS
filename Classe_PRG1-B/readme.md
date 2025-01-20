@@ -509,6 +509,10 @@ Tutorat et Appui PRG1
 
 ### Lundi
 - **Cours**
+    - chap 15 => slide 15
+    - examen blanc : Problème no 1 - Itérateur
+    - [fichier à compléter](https://hessoit.sharepoint.com/:x:/r/sites/2024-PRG1-B/Documents%20partages/Cours/PRG1-B%20-%20EMails.xlsx?d=w48d42a2c6de742f8ba0906802de7d5b2&csf=1&web=1&e=RRidyQ)
+
 - **Labo**
 
 ### Mardi
