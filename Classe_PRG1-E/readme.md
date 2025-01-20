@@ -502,9 +502,13 @@ Tutorat et Appui PRG1
 ### Lundi
 - **Cours**
     - chap 15 => slide 15
-    - examen blanc : Problème no 1 - Itérateur
+    - examen blanc : Itérateur à faire
     - [fichier à compléter](https://hessoit.sharepoint.com/:x:/r/sites/2024-PRG1-EGMB/Documents%20partages/Cours/PRG1-E%20-%20EMails.xlsx?d=w33eda67775c14fc280324a0a2b8d91e9&csf=1&web=1&e=B8fAjk)
+
 - **Labo**
+    - Examen à blanc : itérateur à finir
+    - exercice chap 15 : 01-01 à faire
+    - Examen à blanc : Consolidation de signaux WiFi à faire
 
 ### Mardi
 - **Cours**
