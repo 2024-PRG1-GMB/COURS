@@ -520,12 +520,24 @@ Tutorat et Appui PRG1
 
 ### Mardi
 - **Cours**
+    - chap 15 => slide 32
+    - Examen à blanc : Consolidation de signaux WiFi à finir
 
 ### Jeudi
 - **Cours**
+    - chap 15 => slide 40
+    - Examen à blanc : classe Image
+    - revision exercices
+
 - **Labo**
+    - chap 15 => slide fin
+    - Examen à blanc : Encodeur / Decodeur
+    - revision exercices
+    - exercices chap 15 à finir
 
 ### Vendredi
 - **Labo**
-
+    - revue exercices
+    - synthèse de cours
+    - admin (notes, ...)
 ---

@@ -506,19 +506,31 @@ Tutorat et Appui PRG1
     - [fichier à compléter](https://hessoit.sharepoint.com/:x:/r/sites/2024-PRG1-EGMB/Documents%20partages/Cours/PRG1-E%20-%20EMails.xlsx?d=w33eda67775c14fc280324a0a2b8d91e9&csf=1&web=1&e=B8fAjk)
 
 - **Labo**
-    - Examen à blanc : itérateur à finir
-    - exercice chap 15 : 01-01 à faire
-    - Examen à blanc : Consolidation de signaux WiFi à faire
+    - Examen à blanc : itérateur
+    - Examen à blanc : Consolidation de signaux WiFi
+    - exercice chap 15 : 01-01
 
 ### Mardi
 - **Cours**
+    - chap 15 => slide 32
+    - Examen à blanc : Consolidation de signaux WiFi à finir
+
 - **Labo**
+    - chap 15 => slide 40
+    - Examen à blanc : classe Image
+    - revision exercices
 
 ### Jeudi
 - **Cours**
+    - chap 15 => slide fin
+    - Examen à blanc : Encodeur / Decodeur
+    - revision exercices
+    - exercices chap 15 à finir
 
 ### Vendredi
 - **Labo**
-
+    - revue exercices
+    - synthèse de cours
+    - admin (notes, ...)
 ---
 
