@@ -529,6 +529,7 @@ Tutorat et Appui PRG1
 
 ### Vendredi
 - **Labo**
+    - rendu Labo-10
     - revue exercices
     - synthèse de cours
     - admin (notes, ...)
